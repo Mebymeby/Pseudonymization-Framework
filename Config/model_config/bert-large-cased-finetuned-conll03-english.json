@@ -1,0 +1,7 @@
+{
+  "model_name": "bert-large-cased-finetuned-conll03-english",
+  "model_path": "bert-large-cased-finetuned-conll03-english",
+  "load_type": "TokenClassification",
+  "model_pipe": "True",
+  "pipe_task": "ner"
+}

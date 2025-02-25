@@ -1,0 +1,22 @@
+{
+  "name": "squad_v2",
+  "path": "squad_v2",
+  "metric_path": "squad_v2",
+  "input_keys": [
+    "context",
+    "question"
+  ],
+  "score_keys": [
+    "f1",
+    "exact"
+  ],
+  "LLM_max_new_tokens": 128,
+  "badcase_score_thresholds": [
+    0.0,
+    0.0
+  ],
+  "badcase_delta_thresholds": [
+    0.0,
+    0.0
+  ]
+}

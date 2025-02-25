@@ -1,0 +1,7 @@
+{
+  "model_name": "Qwen2.5-1.5B-Instruct",
+  "model_path": "Qwen2.5-1.5B-Instruct",
+  "load_type": "CausalLM",
+  "model_pipe": "False",
+  "pipe_task": ""
+}

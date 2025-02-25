@@ -1,0 +1,7 @@
+{
+  "model_name": "DeepSeek-R1-Distill-Qwen-1.5B",
+  "model_path": "DeepSeek-R1-Distill-Qwen-1.5B",
+  "load_type": "CausalLM",
+  "model_pipe": "False",
+  "pipe_task": ""
+}

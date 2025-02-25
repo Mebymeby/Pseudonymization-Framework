@@ -1,0 +1,16 @@
+{
+  "name": "glue-mnli",
+  "path": "glue-mnli",
+  "metric_path": "accuracy",
+  "input_keys": [
+    "premise",
+    "hypothesis"
+  ],
+  "score_keys": [
+    "accuracy"
+  ],
+  "LLM_max_new_tokens": 32,
+  "badcase_score_thresholds": [
+    1
+  ]
+}

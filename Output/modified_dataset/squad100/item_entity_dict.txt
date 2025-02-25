@@ -1,0 +1,100 @@
+{"PER": ["Bernadette Soubirous", "Christ", "Mary"], "LOC": ["Basilica of the Sacred Heart", "Main Building", "Lourdes", "Grotto", "France"], "ORG": []}
+{"PER": ["Bernadette Soubirous", "Christ", "Mary"], "LOC": ["Basilica of the Sacred Heart", "Main Building", "Lourdes", "Grotto", "France"], "ORG": []}
+{"PER": ["Bernadette Soubirous", "Christ", "Mary"], "LOC": ["Basilica of the Sacred Heart", "Main Building", "Lourdes", "Grotto", "France"], "ORG": []}
+{"PER": ["Bernadette Soubirous", "Christ", "Mary"], "LOC": ["Basilica of the Sacred Heart", "Main Building", "Lourdes", "Grotto", "France"], "ORG": []}
+{"PER": ["Bernadette Soubirous", "Christ", "Mary"], "LOC": ["Basilica of the Sacred Heart", "Main Building", "Lourdes", "Grotto", "France"], "ORG": []}
+{"PER": [], "LOC": ["United States"], "ORG": ["The Observer", "Common Sense", "The Juggler", "Irish Rover", "Scholastic", "Notre Dame", "The Dome", "Dome"]}
+{"PER": [], "LOC": ["United States"], "ORG": ["The Observer", "Common Sense", "The Juggler", "Irish Rover", "Scholastic", "Notre Dame", "The Dome", "Dome"]}
+{"PER": [], "LOC": ["United States"], "ORG": ["The Observer", "Common Sense", "The Juggler", "Irish Rover", "Scholastic", "Notre Dame", "The Dome", "Dome"]}
+{"PER": [], "LOC": ["United States"], "ORG": ["The Observer", "Common Sense", "The Juggler", "Irish Rover", "Scholastic", "Notre Dame", "The Dome", "Dome"]}
+{"PER": [], "LOC": ["United States"], "ORG": ["The Observer", "Common Sense", "The Juggler", "Irish Rover", "Scholastic", "Notre Dame", "The Dome", "Dome"]}
+{"PER": ["Frederick Buechner", "##ner", "Bue"], "LOC": ["Holy Cross House", "Fatima House", "Columba Hall", "Old College", "St. Mary", "Joseph", "Rome", "St"], "ORG": ["Congregation of Holy Cross", "Moreau Seminary"]}
+{"PER": ["Frederick Buechner", "##ner", "Bue"], "LOC": ["Holy Cross House", "Fatima House", "Columba Hall", "Old College", "St. Mary", "Joseph", "Rome", "St"], "ORG": ["Congregation of Holy Cross", "Moreau Seminary"]}
+{"PER": ["Frederick Buechner", "##ner", "Bue"], "LOC": ["Holy Cross House", "Fatima House", "Columba Hall", "Old College", "St. Mary", "Joseph", "Rome", "St"], "ORG": ["Congregation of Holy Cross", "Moreau Seminary"]}
+{"PER": ["Frederick Buechner", "##ner", "Bue"], "LOC": ["Holy Cross House", "Fatima House", "Columba Hall", "Old College", "St. Mary", "Joseph", "Rome", "St"], "ORG": ["Congregation of Holy Cross", "Moreau Seminary"]}
+{"PER": ["Frederick Buechner", "##ner", "Bue"], "LOC": ["Holy Cross House", "Fatima House", "Columba Hall", "Old College", "St. Mary", "Joseph", "Rome", "St"], "ORG": ["Congregation of Holy Cross", "Moreau Seminary"]}
+{"PER": [], "LOC": [], "ORG": ["College of Engineering", "College of Science", "Arts and Letters", "Business"]}
+{"PER": [], "LOC": [], "ORG": ["College of Engineering", "College of Science", "Arts and Letters", "Business"]}
+{"PER": [], "LOC": [], "ORG": ["College of Engineering", "College of Science", "Arts and Letters", "Business"]}
+{"PER": [], "LOC": [], "ORG": ["College of Engineering", "College of Science", "Arts and Letters", "Business"]}
+{"PER": [], "LOC": [], "ORG": ["College of Engineering", "College of Science", "Arts and Letters", "Business"]}
+{"PER": [], "LOC": [], "ORG": ["Learning Resource Center", "S. News & World Report", "Notre Dame"]}
+{"PER": [], "LOC": [], "ORG": ["Learning Resource Center", "S. News & World Report", "Notre Dame"]}
+{"PER": [], "LOC": [], "ORG": ["Learning Resource Center", "S. News & World Report", "Notre Dame"]}
+{"PER": [], "LOC": [], "ORG": ["Learning Resource Center", "S. News & World Report", "Notre Dame"]}
+{"PER": [], "LOC": ["Southern United States", "Cincinnati", "Chicago"], "ORG": ["Department of Pre - Professional Studies", "Alliance for Catholic Education", "College of Arts and Letters", "School of Architecture", "College of Engineering", "College of Business", "College of Science"]}
+{"PER": [], "LOC": ["Southern United States", "Cincinnati", "Chicago"], "ORG": ["Department of Pre - Professional Studies", "Alliance for Catholic Education", "College of Arts and Letters", "School of Architecture", "College of Engineering", "College of Business", "College of Science"]}
+{"PER": [], "LOC": ["Southern United States", "Cincinnati", "Chicago"], "ORG": ["Department of Pre - Professional Studies", "Alliance for Catholic Education", "College of Arts and Letters", "School of Architecture", "College of Engineering", "College of Business", "College of Science"]}
+{"PER": [], "LOC": ["Southern United States", "Cincinnati", "Chicago"], "ORG": ["Department of Pre - Professional Studies", "Alliance for Catholic Education", "College of Arts and Letters", "School of Architecture", "College of Engineering", "College of Business", "College of Science"]}
+{"PER": [], "LOC": ["Southern United States", "Cincinnati", "Chicago"], "ORG": ["Department of Pre - Professional Studies", "Alliance for Catholic Education", "College of Arts and Letters", "School of Architecture", "College of Engineering", "College of Business", "College of Science"]}
+{"PER": ["Theodore M. Hesburgh", "Joan B. Kroc", "Ray Kroc", "Joan"], "LOC": [], "ORG": ["University of Notre Dame", "##c Institute", "McDonald ' s"]}
+{"PER": ["Theodore M. Hesburgh", "Joan B. Kroc", "Ray Kroc", "Joan"], "LOC": [], "ORG": ["University of Notre Dame", "##c Institute", "McDonald ' s"]}
+{"PER": ["Theodore M. Hesburgh", "Joan B. Kroc", "Ray Kroc", "Joan"], "LOC": [], "ORG": ["University of Notre Dame", "##c Institute", "McDonald ' s"]}
+{"PER": ["Theodore M. Hesburgh", "Joan B. Kroc", "Ray Kroc", "Joan"], "LOC": [], "ORG": ["University of Notre Dame", "##c Institute", "McDonald ' s"]}
+{"PER": ["Theodore M. Hesburgh", "Joan B. Kroc", "Ray Kroc", "Joan"], "LOC": [], "ORG": ["University of Notre Dame", "##c Institute", "McDonald ' s"]}
+{"PER": ["Millard Sheets", "Jesus"], "LOC": ["Notre Dame Stadium", "Library"], "ORG": []}
+{"PER": ["Millard Sheets", "Jesus"], "LOC": ["Notre Dame Stadium", "Library"], "ORG": []}
+{"PER": ["Millard Sheets", "Jesus"], "LOC": ["Notre Dame Stadium", "Library"], "ORG": []}
+{"PER": ["Millard Sheets", "Jesus"], "LOC": ["Notre Dame Stadium", "Library"], "ORG": []}
+{"PER": ["Millard Sheets", "Jesus"], "LOC": ["Notre Dame Stadium", "Library"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Notre Dame"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Notre Dame"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Notre Dame"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Notre Dame"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Notre Dame"], "ORG": []}
+{"PER": [], "LOC": ["United States", "Midwest"], "ORG": ["Mendoza College of Business", "University of Notre Dame", "S. News & World Report", "Notre Dame Law School", "ARCHITECT Magazine", "College Factual", "BusinessWeek", "Forbes. com", "Notre Dame", "S. News &", "USA Today", "Report"]}
+{"PER": [], "LOC": ["United States", "Midwest"], "ORG": ["Mendoza College of Business", "University of Notre Dame", "S. News & World Report", "Notre Dame Law School", "ARCHITECT Magazine", "College Factual", "BusinessWeek", "Forbes. com", "Notre Dame", "S. News &", "USA Today", "Report"]}
+{"PER": [], "LOC": ["United States", "Midwest"], "ORG": ["Mendoza College of Business", "University of Notre Dame", "S. News & World Report", "Notre Dame Law School", "ARCHITECT Magazine", "College Factual", "BusinessWeek", "Forbes. com", "Notre Dame", "S. News &", "USA Today", "Report"]}
+{"PER": [], "LOC": ["United States", "Midwest"], "ORG": ["Mendoza College of Business", "University of Notre Dame", "S. News & World Report", "Notre Dame Law School", "ARCHITECT Magazine", "College Factual", "BusinessWeek", "Forbes. com", "Notre Dame", "S. News &", "USA Today", "Report"]}
+{"PER": [], "LOC": ["United States", "Midwest"], "ORG": ["Mendoza College of Business", "University of Notre Dame", "S. News & World Report", "Notre Dame Law School", "ARCHITECT Magazine", "College Factual", "BusinessWeek", "Forbes. com", "Notre Dame", "S. News &", "USA Today", "Report"]}
+{"PER": ["Father John Augustine Zahm", "Father Joseph Carrier", "Theodore Roosevelt", "Thomas Aquinas", "Augustine", "Carrier", "Zahm"], "LOC": ["Vatican", "Amazon", "Rome"], "ORG": ["Science Department"]}
+{"PER": ["Father John Augustine Zahm", "Father Joseph Carrier", "Theodore Roosevelt", "Thomas Aquinas", "Augustine", "Carrier", "Zahm"], "LOC": ["Vatican", "Amazon", "Rome"], "ORG": ["Science Department"]}
+{"PER": ["Father John Augustine Zahm", "Father Joseph Carrier", "Theodore Roosevelt", "Thomas Aquinas", "Augustine", "Carrier", "Zahm"], "LOC": ["Vatican", "Amazon", "Rome"], "ORG": ["Science Department"]}
+{"PER": ["Father John Augustine Zahm", "Father Joseph Carrier", "Theodore Roosevelt", "Thomas Aquinas", "Augustine", "Carrier", "Zahm"], "LOC": ["Vatican", "Amazon", "Rome"], "ORG": ["Science Department"]}
+{"PER": ["Father John Augustine Zahm", "Father Joseph Carrier", "Theodore Roosevelt", "Thomas Aquinas", "Augustine", "Carrier", "Zahm"], "LOC": ["Vatican", "Amazon", "Rome"], "ORG": ["Science Department"]}
+{"PER": ["Julius Nieuwland", "Jerome Green", "Albert Zahm", "John Zahm"], "LOC": [], "ORG": ["Joint Institute for Nuclear Astrophysics"]}
+{"PER": ["Julius Nieuwland", "Jerome Green", "Albert Zahm", "John Zahm"], "LOC": [], "ORG": ["Joint Institute for Nuclear Astrophysics"]}
+{"PER": ["Julius Nieuwland", "Jerome Green", "Albert Zahm", "John Zahm"], "LOC": [], "ORG": ["Joint Institute for Nuclear Astrophysics"]}
+{"PER": ["Julius Nieuwland", "Jerome Green", "Albert Zahm", "John Zahm"], "LOC": [], "ORG": ["Joint Institute for Nuclear Astrophysics"]}
+{"PER": ["Julius Nieuwland", "Jerome Green", "Albert Zahm", "John Zahm"], "LOC": [], "ORG": ["Joint Institute for Nuclear Astrophysics"]}
+{"PER": [], "LOC": [], "ORG": ["Department of Biology", "Lobund Institute", "Pasteur", "Lobund"]}
+{"PER": [], "LOC": [], "ORG": ["Department of Biology", "Lobund Institute", "Pasteur", "Lobund"]}
+{"PER": [], "LOC": [], "ORG": ["Department of Biology", "Lobund Institute", "Pasteur", "Lobund"]}
+{"PER": [], "LOC": [], "ORG": ["Department of Biology", "Lobund Institute", "Pasteur", "Lobund"]}
+{"PER": [], "LOC": [], "ORG": ["Department of Biology", "Lobund Institute", "Pasteur", "Lobund"]}
+{"PER": ["Matthew Fitzsimons", "Frederick Crosson", "Jacques Maritain", "Frank O ' Malley", "Leo Richard Ward", "Thomas Stritch", "A. Hermens", "Gurian", "John U", "Nef"], "LOC": [], "ORG": ["Review of Politics", "Review"]}
+{"PER": ["Matthew Fitzsimons", "Frederick Crosson", "Jacques Maritain", "Frank O ' Malley", "Leo Richard Ward", "Thomas Stritch", "A. Hermens", "Gurian", "John U", "Nef"], "LOC": [], "ORG": ["Review of Politics", "Review"]}
+{"PER": ["Matthew Fitzsimons", "Frederick Crosson", "Jacques Maritain", "Frank O ' Malley", "Leo Richard Ward", "Thomas Stritch", "A. Hermens", "Gurian", "John U", "Nef"], "LOC": [], "ORG": ["Review of Politics", "Review"]}
+{"PER": ["Matthew Fitzsimons", "Frederick Crosson", "Jacques Maritain", "Frank O ' Malley", "Leo Richard Ward", "Thomas Stritch", "A. Hermens", "Gurian", "John U", "Nef"], "LOC": [], "ORG": ["Review of Politics", "Review"]}
+{"PER": ["John Jenkins"], "LOC": ["United States", "China"], "ORG": ["Kroc Institute for International Peace studies", "Kellogg Institute for International Studies", "Center for Social Concerns", "Medieval Institute", "Notre Dame"]}
+{"PER": ["John Jenkins"], "LOC": ["United States", "China"], "ORG": ["Kroc Institute for International Peace studies", "Kellogg Institute for International Studies", "Center for Social Concerns", "Medieval Institute", "Notre Dame"]}
+{"PER": ["John Jenkins"], "LOC": ["United States", "China"], "ORG": ["Kroc Institute for International Peace studies", "Kellogg Institute for International Studies", "Center for Social Concerns", "Medieval Institute", "Notre Dame"]}
+{"PER": ["John Jenkins"], "LOC": ["United States", "China"], "ORG": ["Kroc Institute for International Peace studies", "Kellogg Institute for International Studies", "Center for Social Concerns", "Medieval Institute", "Notre Dame"]}
+{"PER": ["John Jenkins"], "LOC": ["United States", "China"], "ORG": ["Kroc Institute for International Peace studies", "Kellogg Institute for International Studies", "Center for Social Concerns", "Medieval Institute", "Notre Dame"]}
+{"PER": [], "LOC": ["Midwestern United States", "Bangladesh"], "ORG": ["The Journal of Blacks in Higher Education", "Notre Dame Men ' s Boxing Club", "The Princeton Review", "Sports Illustrated", "Hispanic Magazine", "Holy Cross"]}
+{"PER": [], "LOC": ["Midwestern United States", "Bangladesh"], "ORG": ["The Journal of Blacks in Higher Education", "Notre Dame Men ' s Boxing Club", "The Princeton Review", "Sports Illustrated", "Hispanic Magazine", "Holy Cross"]}
+{"PER": [], "LOC": ["Midwestern United States", "Bangladesh"], "ORG": ["The Journal of Blacks in Higher Education", "Notre Dame Men ' s Boxing Club", "The Princeton Review", "Sports Illustrated", "Hispanic Magazine", "Holy Cross"]}
+{"PER": [], "LOC": ["Midwestern United States", "Bangladesh"], "ORG": ["The Journal of Blacks in Higher Education", "Notre Dame Men ' s Boxing Club", "The Princeton Review", "Sports Illustrated", "Hispanic Magazine", "Holy Cross"]}
+{"PER": [], "LOC": ["Midwestern United States", "Bangladesh"], "ORG": ["The Journal of Blacks in Higher Education", "Notre Dame Men ' s Boxing Club", "The Princeton Review", "Sports Illustrated", "Hispanic Magazine", "Holy Cross"]}
+{"PER": [], "LOC": ["Notre Dame Stadium"], "ORG": []}
+{"PER": [], "LOC": ["Notre Dame Stadium"], "ORG": []}
+{"PER": [], "LOC": ["Notre Dame Stadium"], "ORG": []}
+{"PER": [], "LOC": ["Notre Dame Stadium"], "ORG": []}
+{"PER": [], "LOC": ["Notre Dame Stadium"], "ORG": []}
+{"PER": ["Christ", "Mary"], "LOC": ["Main Building"], "ORG": ["Orthodox Christian Fellowship", "Baptist Collegiate Ministry", "Congregation of Holy Cross", "Congregatio a Sancta Cruce", "Muslim Student Association", "Knights of Columbus", "The Mormon Club", "Notre Dame KofC", "Jewish Club", "KofC", "CSC", "KOC", "BCM"]}
+{"PER": ["Christ", "Mary"], "LOC": ["Main Building"], "ORG": ["Orthodox Christian Fellowship", "Baptist Collegiate Ministry", "Congregation of Holy Cross", "Congregatio a Sancta Cruce", "Muslim Student Association", "Knights of Columbus", "The Mormon Club", "Notre Dame KofC", "Jewish Club", "KofC", "CSC", "KOC", "BCM"]}
+{"PER": ["Christ", "Mary"], "LOC": ["Main Building"], "ORG": ["Orthodox Christian Fellowship", "Baptist Collegiate Ministry", "Congregation of Holy Cross", "Congregatio a Sancta Cruce", "Muslim Student Association", "Knights of Columbus", "The Mormon Club", "Notre Dame KofC", "Jewish Club", "KofC", "CSC", "KOC", "BCM"]}
+{"PER": ["Christ", "Mary"], "LOC": ["Main Building"], "ORG": ["Orthodox Christian Fellowship", "Baptist Collegiate Ministry", "Congregation of Holy Cross", "Congregatio a Sancta Cruce", "Muslim Student Association", "Knights of Columbus", "The Mormon Club", "Notre Dame KofC", "Jewish Club", "KofC", "CSC", "KOC", "BCM"]}
+{"PER": ["Christ", "Mary"], "LOC": ["Main Building"], "ORG": ["Orthodox Christian Fellowship", "Baptist Collegiate Ministry", "Congregation of Holy Cross", "Congregatio a Sancta Cruce", "Muslim Student Association", "Knights of Columbus", "The Mormon Club", "Notre Dame KofC", "Jewish Club", "KofC", "CSC", "KOC", "BCM"]}
+{"PER": ["William Corby", "Sorin"], "LOC": ["Washington Hall", "Science Hall", "Building", "Center"], "ORG": []}
+{"PER": ["William Corby", "Sorin"], "LOC": ["Washington Hall", "Science Hall", "Building", "Center"], "ORG": []}
+{"PER": ["William Corby", "Sorin"], "LOC": ["Washington Hall", "Science Hall", "Building", "Center"], "ORG": []}
+{"PER": ["William Corby", "Sorin"], "LOC": ["Washington Hall", "Science Hall", "Building", "Center"], "ORG": []}
+{"PER": ["William Corby", "Sorin"], "LOC": ["Washington Hall", "Science Hall", "Building", "Center"], "ORG": []}
+{"PER": ["James Burns"], "LOC": [], "ORG": ["College of Commerce", "Harvard Law School", "Notre Dame"]}
+{"PER": ["James Burns"], "LOC": [], "ORG": ["College of Commerce", "Harvard Law School", "Notre Dame"]}
+{"PER": ["James Burns"], "LOC": [], "ORG": ["College of Commerce", "Harvard Law School", "Notre Dame"]}
+{"PER": ["James Burns"], "LOC": [], "ORG": ["College of Commerce", "Harvard Law School", "Notre Dame"]}
+{"PER": ["James Burns"], "LOC": [], "ORG": ["College of Commerce", "Harvard Law School", "Notre Dame"]}
+{"PER": ["Knute Rockne", "George Gipp", "Rockne"], "LOC": ["New York City"], "ORG": ["Notre Dame Fighting Irish", "New York Giants", "Notre Dame", "Irish"]}
+{"PER": ["Knute Rockne", "George Gipp", "Rockne"], "LOC": ["New York City"], "ORG": ["Notre Dame Fighting Irish", "New York Giants", "Notre Dame", "Irish"]}

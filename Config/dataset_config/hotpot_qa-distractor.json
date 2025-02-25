@@ -1,0 +1,21 @@
+{
+  "name": "hotpot_qa-distractor",
+  "path": "hotpot_qa-distractor",
+  "metric_path": "待适配",
+  "input_keys": [
+    "待适配"
+  ],
+  "score_keys": [
+    "f1",
+    "exact_match"
+  ],
+  "LLM_max_new_tokens": 32,
+  "badcase_score_thresholds": [
+    0.0,
+    0.0
+  ],
+  "badcase_delta_thresholds": [
+    0.0,
+    0.0
+  ]
+}
