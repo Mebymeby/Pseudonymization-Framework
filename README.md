@@ -10,7 +10,7 @@ This repository contains the implementation code for the paper:
 **A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation**
 
 Framework Diagram:  
-![Method Overview](Method Overview/img.png)
+![Method Overview](./Method%20Overview/img.png)
 
 ## Quick Start
 

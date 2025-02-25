@@ -11,7 +11,7 @@
 **A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation**
 
 框架示意图：  
-![方法概览](Method Overview/img.png)  
+![Method Overview](./Method%20Overview/img.png)
 
 ## 快速开始  
 
