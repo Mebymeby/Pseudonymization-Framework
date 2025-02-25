@@ -1,0 +1,27 @@
+# git追踪时忽略资源路径
+
+# 数据集
+Dataset/*
+!Dataset/download_datasets.py
+!Dataset/show_dataset.py
+
+# 模型
+Model/*
+!Model/CausalLM_prompt_and_output.py
+!Model/ner_pipe_test.py
+
+# 评估函数
+Metrics/*
+
+# 输出的数据集
+Output/modified_dataset/*
+!Output/modified_dataset/squad100
+!Output/modified_dataset/xsum100
+!Output/modified_dataset/load_and_show_modified_dataset.py
+!Output/modified_dataset/make_item_entity_dict_and_tagged_dataset.py
+
+# 缓存文件
+__pycache__/
+
+# IDE配置文件
+.idea/
