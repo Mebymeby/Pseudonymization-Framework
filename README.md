@@ -1,4 +1,4 @@
-# A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation
+# Towards Privacy-Preserving Cloud-Based LLMs: A Pseudonymization Framework for User Prompts
 
 [![arXiv](https://img.shields.io/badge/arXiv-2502.15233-b31b1b.svg)](https://arxiv.org/abs/2502.15233)
 [![Code](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/Mebymeby/Pseudonymization-Framework)
@@ -7,7 +7,7 @@
 
 ## Overview
 This repository contains the implementation code for the paper:  
-**A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation**
+**Towards Privacy-Preserving Cloud-Based LLMs: A Pseudonymization Framework for User Prompts**
 
 Framework Diagram:  
 ![Method Overview](./Method%20Overview/img.png)
