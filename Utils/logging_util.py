@@ -3,8 +3,6 @@ import logging
 import os
 from datetime import datetime
 
-from Utils import score_util
-
 
 def init_logger(logger_name, log_file_path, format_str):
     # 创建logger
@@ -22,67 +20,39 @@ def init_logger(logger_name, log_file_path, format_str):
     return logger
 
 
-def config_logger(args, dataset_config):
-    """
-        data_config  : 数据集配置信息
-
-        日志格式 :
-            base_path        : Output/Log/
-            dataset_log_path : {base_path}/{dataset_name}/{date_format}_{comment}
-            result_log       : {dataset_log_path}/result.log
-            badcase_log      : {dataset_log_path}/badcase.log
-
-        example :
-            Output / Log / squad / 2024-12-25_实验内容描述
-                |-- result.log
-                |-- badcase.log
-
-        :return:logger 日志执行器
-    """
+def config_logger(args):
     date_stamp = datetime.now().strftime("%Y-%m-%d-%H-%M")
 
     base_path = os.path.join("Output", "Log")
-    dataset_log_path = os.path.join(base_path, dataset_config.name, date_stamp + "_" + args.comment)
+    dataset_log_path = os.path.join(base_path, args.dataset, date_stamp + "_" + args.comment)
 
     os.makedirs(dataset_log_path, exist_ok=True)
 
     result_log_path = os.path.join(dataset_log_path, "result.log")
-    badcase_log_path = os.path.join(dataset_log_path, "badcase.log")
+    result_logger = init_logger(args.dataset + "_result", result_log_path, "%(asctime)s - %(message)s")
 
-    result_logger = init_logger(dataset_config.name + "_result", result_log_path, "%(asctime)s - %(message)s")
-    badcase_logger = init_logger(dataset_config.name + "_badcase", badcase_log_path, "%(message)s")
-
-    return result_logger, badcase_logger, dataset_log_path
+    return result_logger
 
 
-def add_result_log(args, result_logger, scores_dict, data_size):
-    score_list = score_util.compute_avg_score(scores_dict)
-
+def add_result_log(result_logger, score_list):
     comment_list = [
-        "原始数据得分（全数据集）: ",
-        "净化数据得分（全数据集）: ",
-        "净化数据得分下降（全数据集）: ",
-        "原始数据得分（净化部分数据集）: ",
-        "净化数据得分（净化部分数据集）: ",
-        "净化数据得分下降（净化部分数据集）: ",
+        "全数据集    [原始] 数据得分 : ",
+        "全数据集    [匿名化] 数据得分 : ",
+        "全数据集    性能损失 : ",
+        "匿名化数据集 [原始] 数据得分 : ",
+        "匿名化数据集 [匿名化] 数据得分 : ",
+        "匿名化数据集 性能损失 : ",
     ]
 
     def gen_log_format(prefix, score_dict):
         log_format_str = prefix
         for key in score_dict.keys():
-            log_format_str += (key + " = %.4f " % score_dict[key])
+            log_format_str += (
+                    key + " = %.2f   " % (score_dict[key] if score_dict[key] > 1 else score_dict[key] * 100))
         return log_format_str
 
     for comment, score in zip(comment_list, score_list):
         result_logger.info(gen_log_format(comment, score))
-
-    result_logger.info("")
-
-    if not args.base_run and scores_dict["sanitized_count"]:
-        result_logger.info("数据净化样本数 / 总样本数 : [ %.2f ]",
-                           100 * (scores_dict["sanitized_count"] / data_size))
-        result_logger.info("数据净化后答案不变样本数 / 数据净化样本数: [ %.2f ]",
-                           100 * (scores_dict["transparent_sanitized_count"] / scores_dict["sanitized_count"]))
 
     result_logger.info("\n")
 
@@ -118,12 +88,13 @@ def add_badcase_log(badcase_logger, ori_result, saniti_result, dataset_config, i
     return
 
 
-def add_item_result(ori_result, san_result, entity_map, sanitized_item, san_effect, dataset_log_dir,ori_outputs,sanitized_outputs):
+def add_item_result(ori_result, san_result, entity_map, sanitized_item, pseu_efficiency, dataset_log_dir, ori_outputs,
+                    sanitized_outputs):
     ori_result_path = os.path.join(dataset_log_dir, "ori_result.txt")
     san_result_path = os.path.join(dataset_log_dir, "san_result.txt")
     entity_map_path = os.path.join(dataset_log_dir, "entity_map.txt")
     sanitized_item_path = os.path.join(dataset_log_dir, "sanitized_item.txt")
-    san_effect_path = os.path.join(dataset_log_dir, "san_effect.txt")
+    pseu_efficiency_path = os.path.join(dataset_log_dir, "pseu_efficiency.txt")
     model_output_ori_path = os.path.join(dataset_log_dir, "model_output_ori")
     model_output_san_path = os.path.join(dataset_log_dir, "model_output_san")
 
@@ -132,27 +103,27 @@ def add_item_result(ori_result, san_result, entity_map, sanitized_item, san_effe
         san_result_path, 'a', encoding='utf-8') as san_result_file, open(
         entity_map_path, 'a', encoding='utf-8') as entity_map_file, open(
         sanitized_item_path, 'a', encoding='utf-8') as sanitized_item_file, open(
-        san_effect_path, 'a', encoding='utf-8') as san_effect_file, open(
-        model_output_ori_path,'a', encoding='utf-8') as model_output_ori_file, open(
-        model_output_san_path,'a', encoding='utf-8') as model_output_san_file:
+        pseu_efficiency_path, 'a', encoding='utf-8') as pseu_efficiency_file, open(
+        model_output_ori_path, 'a', encoding='utf-8') as model_output_ori_file, open(
+        model_output_san_path, 'a', encoding='utf-8') as model_output_san_file:
         ori_result_file.write(json.dumps(ori_result, ensure_ascii=False) + '\n')
         san_result_file.write(json.dumps(san_result, ensure_ascii=False) + '\n')
         entity_map_file.write(json.dumps(entity_map, ensure_ascii=False) + '\n')
         sanitized_item_file.write(json.dumps(sanitized_item, ensure_ascii=False) + '\n')
-        san_effect_file.write(json.dumps(san_effect, ensure_ascii=False) + '\n')
-        model_output_ori_file.write(ori_outputs+'\n')
-        model_output_san_file.write(sanitized_outputs+'\n')
+        pseu_efficiency_file.write(json.dumps(pseu_efficiency, ensure_ascii=False) + '\n')
+        model_output_ori_file.write(ori_outputs + '\n')
+        model_output_san_file.write(sanitized_outputs + '\n')
 
 
 def load_item_cache(dataset_log_dir):
-    sanitized_item_record, entity_map_record, san_effect_record = [], [], []
+    sanitized_item_record, entity_map_record, pseu_efficiency_record = [], [], []
     with open(os.path.join(dataset_log_dir, "sanitized_item.txt"), "r", encoding="utf-8") as sanitized_item_file:
         for line in sanitized_item_file:
             sanitized_item_record.append(json.loads(line.strip()))
     with open(os.path.join(dataset_log_dir, "entity_map.txt"), "r", encoding="utf-8") as entity_map_file:
         for line in entity_map_file:
             entity_map_record.append(json.loads(line.strip()))
-    with open(os.path.join(dataset_log_dir, "san_effect.txt"), "r", encoding="utf-8") as san_effect_file:
-        for line in san_effect_file:
-            san_effect_record.append(json.loads(line.strip()))
-    return sanitized_item_record, entity_map_record, san_effect_record
+    with open(os.path.join(dataset_log_dir, "pseu_efficiency.txt"), "r", encoding="utf-8") as pseu_efficiency_file:
+        for line in pseu_efficiency_file:
+            pseu_efficiency_record.append(json.loads(line.strip()))
+    return sanitized_item_record, entity_map_record, pseu_efficiency_record

@@ -1,19 +1,13 @@
 {
   "name": "cnn_dailymail",
-  "path": "cnn_dailymail",
-  "metric_path": "",
   "input_keys": [
     "article"
   ],
   "score_keys": [
-    "rouge1",
-    "rouge2",
-    "rougeL"
+    "bleu_1",
+    "bleu_2",
+    "bleu_3",
+    "bleu_4"
   ],
-  "LLM_max_new_tokens": 2048,
-  "badcase_score_thresholds": [
-    0.1,
-    0.03,
-    0.08
-  ]
+  "infer_max_new_tokens": 2048
 }

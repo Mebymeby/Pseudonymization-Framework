@@ -1,23 +1,13 @@
 {
   "name": "wikitext-103",
-  "path": "wikitext-103",
-  "metric_path": "",
   "input_keys": [
     "text"
   ],
   "score_keys": [
-    "perplexity",
     "bleu_1",
     "bleu_2",
     "bleu_3",
     "bleu_4"
   ],
-  "LLM_max_new_tokens": 2048,
-  "badcase_score_thresholds": [
-    0,
-    0,
-    0,
-    0,
-    0
-  ]
+  "infer_max_new_tokens": 512
 }

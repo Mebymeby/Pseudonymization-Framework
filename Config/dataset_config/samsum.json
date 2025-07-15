@@ -1,7 +1,5 @@
 {
   "name": "samsum",
-  "path": "samsum",
-  "metric_path": "",
   "input_keys": [
     "dialogue"
   ],
@@ -10,10 +8,5 @@
     "rouge2",
     "rougeL"
   ],
-  "LLM_max_new_tokens": 1024,
-  "badcase_score_thresholds": [
-    0.22,
-    0.085,
-    0.17
-  ]
+  "infer_max_new_tokens": 64
 }

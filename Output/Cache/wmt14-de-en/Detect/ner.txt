@@ -1,0 +1,3003 @@
+{}
+{"Dorfparkplatz": "LOC", "Gutach": "LOC", "Town Hall": "LOC"}
+{}
+{}
+{"Eckert": "PER"}
+{}
+{"Sulzbachweg": "LOC", "Kirchstrasse": "LOC"}
+{}
+{"Eckert": "PER"}
+{"Peter Arnold": "PER"}
+{"Gutach": "LOC", "Arnold": "PER"}
+{"Arnold": "PER"}
+{"Sulzbachweg": "LOC", "Kirchstrasse": "LOC"}
+{"Arnold": "PER"}
+{"Arnold": "PER"}
+{}
+{}
+{}
+{"Arnold": "PER"}
+{}
+{}
+{}
+{"Arnold": "PER"}
+{}
+{}
+{"Josef Winkler": "PER"}
+{}
+{"Bü": "PER"}
+{"Petersplatz": "LOC", "Gerhard Fresacher": "PER"}
+{}
+{}
+{"Fresacher": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Winkler": "PER"}
+{}
+{"America": "LOC"}
+{"Washington": "LOC", "America": "LOC"}
+{}
+{}
+{}
+{"American Civil Liberties Union": "ORG"}
+{"Congress": "ORG"}
+{}
+{}
+{}
+{"Hasan Ikhrata": "PER", "Southern California Assn. of Governments": "ORG", "California": "LOC"}
+{}
+{}
+{"Highway Trust Fund": "ORG"}
+{}
+{}
+{}
+{}
+{"Lee Munnich": "PER", "University of Minnesota": "ORG"}
+{}
+{}
+{}
+{}
+{"California": "LOC"}
+{"Bill Shuster": "PER", "Pa": "LOC", "House Transportation Committee": "ORG"}
+{"Reason Foundation": "ORG"}
+{"Adrian Moore": "PER", "Reason": "ORG"}
+{}
+{"Congress": "ORG"}
+{"U": "ORG", "S. Senate": "ORG"}
+{"House": "ORG"}
+{}
+{"Oregon": "LOC"}
+{}
+{"Nevada": "LOC"}
+{"New York City": "LOC"}
+{"Illinois": "LOC"}
+{"I - 95 Coalition": "ORG", "Eastern Seaboard": "LOC", "Maryland": "LOC", "Pennsylvania": "LOC", "Virginia": "LOC", "Florida": "LOC"}
+{}
+{"Nevada": "LOC"}
+{"Alauddin Khan": "PER", "Nevada Department of Transportation": "ORG"}
+{}
+{"ACLU of Nevada": "ORG"}
+{}
+{"Nevada": "LOC"}
+{"Khan": "PER"}
+{"California": "LOC", "True Mileage": "ORG"}
+{}
+{}
+{}
+{"Ryan Morrison": "PER", "True Mileage": "ORG"}
+{}
+{}
+{"Oregon": "LOC"}
+{}
+{}
+{}
+{"New York City": "LOC"}
+{}
+{}
+{"Metropolitan Transportation Commission": "ORG", "San Francisco Bay Area": "LOC", "Congress": "ORG", "Highway Trust Fund": "ORG"}
+{}
+{"Randy Rentschler": "PER"}
+{}
+{"Königsfeld": "LOC"}
+{}
+{}
+{"Hans Kammerer": "PER", "Feder": "ORG", "Burgberger Strasse": "LOC"}
+{}
+{}
+{"Hans Kammerer": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hans Kammerer": "PER"}
+{}
+{}
+{}
+{"Breisgau": "LOC", "Hochschwarzwald": "LOC", "Guido Wolf": "PER", "Titisee": "LOC", "Neustadt": "LOC"}
+{}
+{"Claudia Stehle": "PER"}
+{"Wolf": "PER"}
+{"Wälderstadt": "LOC", "Support Centre": "ORG"}
+{}
+{"Wolf": "PER"}
+{}
+{"Wolf": "PER"}
+{}
+{}
+{}
+{}
+{"Germany": "LOC", "France": "LOC", "Switzerland": "LOC"}
+{"Titisee - Neustadt": "LOC", "Freiburg": "LOC"}
+{}
+{}
+{"Kaul": "PER"}
+{}
+{}
+{}
+{}
+{"Si": "PER", "##via Kimmich": "PER", "Bantle": "PER", "Karl Kimmich": "PER"}
+{"Kirchstrasse": "LOC"}
+{}
+{"Alexander Misok": "PER", "##unlingen Municipal Planning and Building Control Authority": "ORG", "Regional Memorial Authority": "ORG"}
+{"Council": "ORG"}
+{}
+{}
+{"Kirchstrasse": "LOC"}
+{}
+{}
+{}
+{"Regional Memorial Authority": "ORG"}
+{}
+{}
+{"Özdemir": "PER", "Stuttgart": "LOC"}
+{"Cem Özdemir": "PER", "Green Party": "ORG", "Baden - Wuerttemberg Music Academy": "ORG"}
+{"Stuttgart Music College": "ORG", "Özdemir": "PER", "Stuttgarter Nachrichten": "ORG"}
+{"Stuttgart": "LOC"}
+{"Özdemir": "PER", "Stuttgart": "LOC"}
+{"Baden - Wuerttemberg": "LOC"}
+{"##heim": "LOC"}
+{"US": "LOC"}
+{"Mexico": "LOC", "USA": "LOC"}
+{"Tijuana": "LOC", "San Diego": "LOC"}
+{}
+{}
+{"District of Southern California": "LOC", "Laura Diffy": "PER", "San Diego": "LOC"}
+{"Duffy": "PER"}
+{"US": "LOC"}
+{"Mexico": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"USA": "LOC"}
+{}
+{}
+{}
+{"San Diego": "LOC"}
+{}
+{}
+{"Bill Sherman": "PER", "DEA Drug Squad": "ORG", "San Diego": "LOC"}
+{"USA": "LOC"}
+{}
+{}
+{"Geisingen": "LOC"}
+{"Geisingen": "LOC"}
+{}
+{}
+{"Geisingen": "LOC"}
+{"Kirchen": "LOC"}
+{"Geisingen": "LOC", "Kirchen - Hausen": "LOC"}
+{"Geisingen": "LOC", "Kirchen - Hausen": "LOC"}
+{}
+{}
+{"Kirchtalhalle": "LOC"}
+{}
+{"Rudolf Barth": "PER"}
+{"Schwarzwaldverein": "ORG", "Black Forest Association": "ORG", "Arena": "LOC", "Stadtmusik": "ORG", "Town Musical Society": "ORG", "Festival Hall": "LOC"}
+{}
+{"Geisingen": "LOC"}
+{"Geisingen": "LOC", "Aulfingen": "LOC", "Gutmadingen": "LOC", "Walter Hengstler": "PER"}
+{"Geisingen": "LOC"}
+{"Festival Hall": "LOC", "Geisingen": "LOC"}
+{}
+{"Harmonie Gutmadingen": "ORG"}
+{"Leipferdingen Nursing Home": "LOC", "Polyhymnia Leip": "ORG"}
+{"Geisingen": "LOC"}
+{"Kirchen": "LOC", "Hausen": "LOC"}
+{}
+{}
+{}
+{"Am Hirschen": "LOC"}
+{}
+{}
+{"Deutsche Bahn": "ORG", "Kinzigtal": "LOC"}
+{}
+{"Deutsche Bahn": "ORG", "Federal Government": "ORG"}
+{"Roland Grießhaber": "PER", "Am Hirschen": "LOC"}
+{}
+{}
+{}
+{"Council": "ORG", "Thomas Kipp": "PER"}
+{"Thomas Haas": "PER"}
+{"Kuhbach": "LOC"}
+{"Haas": "PER"}
+{"Kirchberg": "LOC", "Schlossberg": "LOC", "Wolfach": "LOC"}
+{}
+{}
+{}
+{"Administrative Department": "ORG", "Deutsche Bahn": "ORG", "Breinlinger Engineering Office": "ORG"}
+{}
+{}
+{}
+{"Haas": "PER"}
+{}
+{}
+{"Schiltach": "LOC", "Deutsche Bahn": "ORG"}
+{"Vor Heubach": "LOC", "Vor Kuhbach": "LOC", "Deutsche Bahn": "ORG"}
+{"ESA": "ORG"}
+{"European Space Agency": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Earth": "LOC"}
+{"European Space Agency": "ORG", "ESA": "ORG"}
+{}
+{}
+{}
+{"Paris": "LOC"}
+{}
+{}
+{"Scientific Programme Committee": "ORG"}
+{"ESA": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Earth": "LOC"}
+{}
+{}
+{}
+{}
+{"ESA": "ORG"}
+{}
+{"Jupiter": "LOC"}
+{}
+{"ESA": "ORG"}
+{}
+{"Jupiter": "LOC", "Europa": "LOC", "Callisto": "LOC", "Ganymede": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ESA": "ORG"}
+{}
+{}
+{}
+{}
+{"Albert Einstein": "PER"}
+{}
+{"Elisa": "ORG"}
+{}
+{"Earth": "LOC"}
+{"Earth": "LOC"}
+{"Mars": "LOC", "Venus": "LOC"}
+{"Snowden": "PER", "Germany": "LOC"}
+{"Edward Snowden": "PER", "US": "LOC", "Berlin": "LOC", "US National Security Agency": "ORG", "Keith Alexander": "PER"}
+{"Hans - Christian Ströbele": "PER", "Snowden": "PER", "Russia": "LOC", "Germany": "LOC"}
+{"Snowden": "PER", "Berlin": "LOC"}
+{}
+{"Snowden": "PER", "US": "LOC"}
+{"US": "LOC"}
+{"Hans - Peter Friedrich": "PER", "Zeit Online": "ORG", "Snowden": "PER"}
+{"US": "LOC", "Germany": "LOC", "NSA": "ORG", "Angela": "PER", "Merkel": "PER"}
+{"Thomas Oppermann": "PER", "Snowden": "PER", "US": "LOC"}
+{"Ströbele": "PER", "Germany": "LOC", "Snowden": "PER"}
+{"Russia": "LOC"}
+{"Ströbele": "PER", "NSA": "ORG", "Snowden": "PER", "Russia": "LOC"}
+{"Snowden": "PER", "Germany": "LOC"}
+{"Snowden": "PER"}
+{}
+{"United States": "LOC"}
+{}
+{"Frontier Airlines": "ORG"}
+{"Frontier Airlines": "ORG"}
+{"Frontier Airlines": "ORG"}
+{}
+{"Frontier": "ORG"}
+{"Kate O ' Malley": "PER"}
+{}
+{}
+{}
+{}
+{"O ' Malley": "PER"}
+{"Frontier": "ORG"}
+{}
+{}
+{"O ' Malley": "PER", "Frontier": "ORG"}
+{"Frontier": "ORG"}
+{}
+{}
+{"Wall Street": "LOC"}
+{}
+{"Allegiant Air": "ORG"}
+{"Hungary": "LOC", "Wizz Air": "ORG", "Jay Sorensen": "PER"}
+{"Spirit": "ORG"}
+{"Sorensen": "PER", "Midwest Airlines": "ORG", "Spirit": "ORG"}
+{}
+{}
+{}
+{"Frontier": "ORG", "Spirit": "ORG"}
+{"Frontier": "ORG"}
+{}
+{"US Airways": "ORG"}
+{"Frontier": "ORG"}
+{"Orbitz": "ORG"}
+{}
+{}
+{}
+{}
+{"Frontier": "ORG"}
+{"Frontier": "ORG"}
+{"Frontier": "ORG", "Denver": "LOC"}
+{"Republic Airways Holdings Inc": "ORG"}
+{"Frontier": "ORG"}
+{}
+{"Bisingen": "LOC"}
+{}
+{"Zita Köhler": "PER", "Council": "ORG"}
+{}
+{}
+{}
+{}
+{"Christel Dehner": "PER"}
+{}
+{}
+{}
+{"Roman Waizenegger": "PER"}
+{}
+{"Mecklenburg": "LOC"}
+{"Federal Employment Agency": "ORG"}
+{"Carmen Wiechert": "PER", "Neubrandenburg Employment Agency": "ORG"}
+{}
+{"Chamber of Industry and Commerce": "ORG", "Neubrandenburg": "LOC", "German Hotel and Restaurant Association": "ORG", "Deutsche Hotel - und Gaststätte": "ORG", "Dehoga": "ORG", "Mecklenburg": "LOC", "Western Pomerania": "LOC"}
+{"NSA": "ORG"}
+{"National Security Agency": "ORG"}
+{"NSA": "ORG"}
+{}
+{}
+{"NSA": "ORG"}
+{"NSA": "ORG", "ABC News": "ORG"}
+{}
+{"NSA": "ORG"}
+{}
+{}
+{"NSA": "ORG", "No Such Agency": "ORG", "Edward Snowden": "PER"}
+{}
+{}
+{"Monika Felder - Bauer": "PER", "Employment Agency": "ORG", "Sonthofen": "LOC"}
+{}
+{"Felder - Bauer": "PER"}
+{}
+{}
+{"Allgäuer Anzeigeblatt": "ORG"}
+{"Bombardier": "ORG"}
+{"Bombardier Inc": "ORG"}
+{"Bombardier": "ORG"}
+{}
+{"Toronto Stock Exchange": "ORG"}
+{"Cameron Doerksen": "PER", "National Bank Financial": "ORG"}
+{"Doerksen": "PER"}
+{"Bombardier": "ORG"}
+{}
+{"Bombardier": "ORG", "CSeries": "ORG", "Boeing": "ORG", "Airbus": "ORG"}
+{}
+{}
+{}
+{"Pierre Beaudoin": "PER", "Bombardier": "ORG"}
+{}
+{"Beaudoin": "PER"}
+{}
+{}
+{}
+{}
+{"CSeries": "ORG"}
+{"Bombardier": "ORG"}
+{"Bombardier": "ORG", "Doerksen": "PER"}
+{"Bombardier": "ORG"}
+{}
+{}
+{"Thomson Reuters": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Bombardier": "ORG"}
+{}
+{}
+{}
+{"Bombardier": "ORG", "Google Inc": "ORG", "Patrick Pichette": "PER"}
+{"Brazil": "LOC", "Embraer SA": "ORG", "Bombardier": "ORG"}
+{"USA": "LOC", "Los Angeles Airport": "LOC"}
+{"LAX Airport": "LOC"}
+{"Twitter": "ORG", "Los Angeles Times": "ORG"}
+{}
+{}
+{"Barack Obama": "PER", "White House": "LOC", "Jay Carney": "PER"}
+{"Terminal 3": "LOC"}
+{"CNN": "ORG"}
+{}
+{}
+{"Los Angeles Times": "ORG"}
+{"TSA": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"CNN": "ORG"}
+{}
+{"CNN": "ORG"}
+{}
+{"Los Angeles LAX": "LOC", "USA": "LOC"}
+{"Big": "PER"}
+{"Basharat Ditta": "PER", "Neil Scarbrough": "PER"}
+{}
+{"Liverpool Crown Court": "LOC"}
+{"Big": "PER"}
+{"Basharat Ditta": "PER", "Neil Scarbrough": "PER"}
+{"Bash": "PER", "Scarborough": "PER"}
+{"Sarborough": "PER", "Blackburn": "LOC", "Lancashire": "LOC", "Law Society": "ORG"}
+{"Ditta": "PER"}
+{"Scarborough": "PER"}
+{"Lancashire": "LOC", "Cumbria": "LOC", "Merseyside": "LOC", "Berkshire": "LOC", "West Yorkshire": "LOC"}
+{}
+{"Ditta": "PER"}
+{"Ditta": "PER", "Forbes Solicitors": "ORG", "Blackburn": "LOC", "Liverpool Crown Court": "LOC"}
+{}
+{"Scarborough": "PER", "Ditta": "PER"}
+{"Ditta": "PER"}
+{"Scarborough": "PER", "Ditta": "PER", "Ewood Park": "LOC"}
+{}
+{"Ditta": "PER"}
+{"Ditta": "PER"}
+{"Ditta": "PER"}
+{}
+{}
+{"Anne Whyte": "PER"}
+{"Ditta": "PER"}
+{}
+{}
+{}
+{}
+{"Ditta": "PER"}
+{}
+{"Ditta": "PER", "Scarborough": "PER"}
+{"Lee Halstead": "PER", "Lancashire Police": "ORG", "Ditta": "PER"}
+{}
+{}
+{"Ditta": "PER"}
+{"Serious and Organised Crime Unit": "ORG", "Ditta": "PER"}
+{}
+{}
+{"Scarborough": "PER"}
+{}
+{"Ditta": "PER", "America": "LOC", "Mohammed Ali": "PER"}
+{"Revolutionary Sacred Music Factory": "ORG"}
+{"Liederkranz Dunningen": "ORG", "Dunningen Amateur Choir": "ORG", "Glee Club": "ORG", "Franz Schubert": "PER"}
+{"Liederkranz": "ORG", "Franz Schubert": "PER"}
+{"Lackendorf": "LOC"}
+{"Franz Schubert": "PER"}
+{"Johan Philipp Neumann": "PER"}
+{"Hermann Schneider": "PER", "Frohsinn Tennenbronn Music Society": "ORG", "Noemi Lokodi": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Georg Schmitt": "PER", "Freiburg": "LOC"}
+{"SE Haslach": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bruno Prinzbach": "PER"}
+{"Barbar Ritter": "PER"}
+{}
+{"Council": "ORG"}
+{}
+{"Michael Schöner": "PER"}
+{"Pfullendorf": "LOC"}
+{"Pfullendorf": "LOC"}
+{"Jörg - Arne Bias": "PER", "Pfullendorf": "LOC"}
+{}
+{}
+{}
+{"Pfullendorf": "LOC"}
+{"Jörg - Arne Bias": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ralf Becker": "PER", "Motorrad": "ORG", "Motorcycle": "ORG"}
+{}
+{"Becker": "PER"}
+{}
+{"Becker": "PER", "Higher Regional Court": "ORG"}
+{}
+{}
+{}
+{}
+{"Ralph Gerster": "PER"}
+{"Schönach": "LOC"}
+{}
+{}
+{"Andrea Rothmund": "PER"}
+{}
+{}
+{}
+{}
+{"Rothmund": "PER"}
+{}
+{}
+{"Ralph Gerster": "PER"}
+{"Gerster": "PER"}
+{}
+{}
+{}
+{"Gerster": "PER"}
+{}
+{}
+{"Gerster": "PER"}
+{"Hugo Wermter": "PER"}
+{"Hubert Wermter": "PER", "Cäcilia Male Choral Society": "ORG"}
+{"Hubert Wermter": "PER"}
+{}
+{"Wermter": "PER"}
+{"Jörg Kohr": "PER", "Cäcilian Association of Rottenburg": "ORG", "Gebhard Fürst": "PER"}
+{"German Choral Association": "ORG"}
+{"Hugo": "PER", "Betra Male Voice Choir": "ORG", "Salzstetten Choral Club": "ORG", "Baisingen Choral Division": "ORG", "Local Music Society": "ORG", "Vollmaringen": "ORG"}
+{"Vollmaringen Male Voice Choir": "ORG"}
+{"Hubert Wermter": "PER"}
+{"Betra Male Voice Choir": "ORG", "Julius Wengert": "PER", "Hubert Goisern": "PER"}
+{"Impulschor": "ORG", "Impulse Choir": "ORG", "Salzstetten Choral Club": "ORG"}
+{"Antos Gus": "PER"}
+{"Baisingen Sports Club": "ORG", "Hans Süssmuth": "PER", "Robert Pappert": "PER", "Vollmaringen Music Society": "ORG"}
+{"Oma Hanne": "PER", "Grandma Hanne": "PER", "Hannelore Stollsteimer": "PER"}
+{}
+{"Zollernalb": "LOC"}
+{"Schwarzwälder Bote": "ORG", "Black Forest Herald": "ORG", "Bauhaus": "ORG", "Sparkasse Zollernalb Savings Bank": "ORG"}
+{}
+{}
+{"Schwarzwälder Bote": "ORG"}
+{}
+{"Schwarzwälder Bote": "ORG", "Bauhaus": "ORG", "Sparkasse Zollernalb": "ORG"}
+{}
+{}
+{}
+{}
+{"Bauhaus": "ORG"}
+{}
+{}
+{}
+{}
+{"Cyrus Kamau": "PER", "Capital Group": "ORG", "CapitalFM": "ORG", "Kenya": "LOC"}
+{"Kenya": "LOC"}
+{}
+{"The Star": "ORG", "The Standard": "ORG", "Kenya": "LOC"}
+{"Westgate": "LOC"}
+{"Kenya": "LOC"}
+{"David Kimaiyo": "PER"}
+{}
+{}
+{"Daily Nation": "ORG"}
+{"Kenya": "LOC"}
+{}
+{"Nation": "ORG", "Mutuma Mathiu": "PER"}
+{}
+{}
+{}
+{"Bad - Dürrheim": "LOC", "FC": "ORG"}
+{}
+{}
+{}
+{}
+{"FC": "ORG", "Albrecht Schlenker": "PER"}
+{"Walter Klumpp": "PER", "Council": "ORG"}
+{"Lothar Held": "PER", "Paul Weizenegger": "PER", "Heiner Gail": "PER", "Peter Graf": "PER"}
+{}
+{"Karl Rombach": "PER"}
+{"Hubert Baier": "PER", "Southern Baden Football Association": "ORG", "Kuno Kayan": "PER", "Friedrich Knorr": "PER"}
+{"Klumpp": "PER"}
+{"Salinensee Lake": "LOC"}
+{}
+{}
+{"FC": "ORG"}
+{"Council": "ORG", "Klumpp": "PER"}
+{}
+{}
+{"SPD": "ORG"}
+{}
+{"Federal Police": "ORG"}
+{"Migration and Integration": "ORG"}
+{}
+{"SPD": "ORG", "Union": "ORG"}
+{"SPD": "ORG", "CSU": "ORG"}
+{"SPD": "ORG", "Florian Pronold": "PER"}
+{}
+{"Pronold": "PER"}
+{}
+{"Dieter Thomas Kuhn": "PER", "Stuttgart": "LOC"}
+{"Stuttgart": "LOC"}
+{"Stuttgart": "LOC"}
+{"Dieter Thomas Kuhn": "PER"}
+{}
+{}
+{"Aachen": "LOC"}
+{"Müsch": "LOC", "Kempener": "LOC", "Grefrath": "LOC"}
+{}
+{}
+{"Aachen": "LOC"}
+{"Konstanz": "LOC", "Schänzle": "LOC"}
+{}
+{"Stromeyersdorfstraße": "LOC"}
+{"BMW": "ORG", "Konstanz": "LOC"}
+{"BMW": "ORG"}
+{}
+{}
+{"Vienna Airport": "LOC"}
+{"Max Maier": "PER"}
+{"Vienna International Airport": "LOC"}
+{}
+{}
+{"Peter Kleeman": "PER", "Radio Vienna": "ORG", "Vienna Airport": "LOC"}
+{"Kopenhagen": "LOC", "Frankfurt": "LOC", "Dubai": "LOC"}
+{}
+{"Kleeman": "PER"}
+{"Kaltenhof": "LOC"}
+{"Kaltenhof": "LOC"}
+{}
+{"Kaltenhof": "LOC"}
+{}
+{}
+{"Peter Saile": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bohemia": "LOC", "Schömberg": "LOC"}
+{}
+{}
+{"Heinz Koch": "PER", "Weilen unter den Rinnen": "LOC"}
+{"Dornhan": "LOC", "Fool ' s Guild": "ORG"}
+{"Leinstetten Music Society": "ORG", "Böffingen Farmer ' s Band": "ORG"}
+{"Ralf": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vegetarian Association": "ORG"}
+{"Vegetarian Association of Germany": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vegetarian Association": "ORG"}
+{"New York": "LOC"}
+{"Massachusetts": "LOC", "New York": "LOC"}
+{"Brooklyn Bridge": "LOC", "Manhattan": "LOC"}
+{}
+{"Times Square": "LOC"}
+{"Statue of Liberty": "LOC"}
+{"Financial District": "LOC", "Wall Street": "LOC"}
+{"Empire State Building": "LOC"}
+{"New York": "LOC", "Central Park": "LOC"}
+{"New York": "LOC", "Boston": "LOC"}
+{"Hubert": "PER", "Marien": "LOC", "Hülsbergstrasse": "LOC"}
+{"St": "PER", "Hubert": "PER", "Lüttich": "LOC"}
+{"Jagdreiter Westfalen": "ORG", "Brigitte Kluth": "PER"}
+{}
+{}
+{"Opschlag": "ORG"}
+{}
+{}
+{}
+{"Kleve County": "LOC", "Rhein - Waal University": "ORG"}
+{}
+{}
+{}
+{}
+{"Mirjam van der Stelt": "PER", "Daniel Büttner": "PER"}
+{}
+{"Kranenburg": "LOC"}
+{"Kleve": "LOC"}
+{}
+{"Daniel Büttner": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Daniel Büttner": "PER", "Mirjam van der Stelt": "PER"}
+{"NRZ": "ORG"}
+{}
+{}
+{}
+{"Ring": "PER"}
+{}
+{}
+{"Daniel Büttner": "PER"}
+{}
+{}
+{}
+{}
+{"Kleve": "LOC"}
+{}
+{"Kleve": "LOC"}
+{"Anke Gellert": "PER"}
+{"MGV": "ORG", "Male Choral Society": "ORG", "Dinker": "LOC"}
+{"MGV": "ORG"}
+{"Dinker": "LOC"}
+{}
+{"Rolf Wagener": "PER"}
+{"Erich Schlotmann": "PER"}
+{"Dieter Schulze": "PER", "Horst Pier - Ribbert": "PER", "Friedrich Winkler": "PER"}
+{"Artur Brückner": "PER"}
+{"Ange Pier - Ribbert": "PER", "Gerda Pier - Ribbert": "PER"}
+{"MGV": "ORG"}
+{"Schlotmann": "PER"}
+{"UN": "ORG"}
+{"United Nations": "ORG"}
+{"UN": "ORG", "Rio de Janeiro": "LOC"}
+{"Gillard": "PER"}
+{"UN": "ORG", "Ban Ki": "PER", "moon": "PER"}
+{}
+{}
+{}
+{"SG Achim / Baden": "ORG"}
+{"Tomasz Malmon": "PER"}
+{}
+{}
+{"Malmon": "PER", "VfL Fred": "ORG"}
+{"Malmon": "PER"}
+{}
+{}
+{"SG": "ORG"}
+{"Malmon": "PER"}
+{}
+{}
+{}
+{"Mozambique": "LOC"}
+{"Samora Machel": "PER", "Mozambique": "LOC", "Maputo": "LOC"}
+{"Vanessa de Sousa": "PER"}
+{"Independence Square": "LOC"}
+{}
+{"Rhodesia": "LOC", "South Africa": "LOC"}
+{}
+{}
+{"Rio Tinto": "ORG", "Vale": "ORG", "Eni": "ORG", "Italy": "LOC", "Anadarko": "ORG", "US": "LOC"}
+{"Frelimo": "ORG", "Renamo": "ORG"}
+{"Renamo": "ORG", "Sofala": "LOC"}
+{"Renamo": "ORG", "Afonso Dhlakama": "PER", "Fernando Mazanga": "PER", "Financial Times": "ORG"}
+{}
+{"Armando Guebuza": "PER"}
+{"Guebuza": "PER", "AFP": "ORG", "Dhlakama": "PER"}
+{"Frelimo": "PER", "Renamo": "PER"}
+{"Mazanga": "PER", "Renamo": "ORG"}
+{"FT": "ORG"}
+{"Mazanga": "PER"}
+{}
+{"Guebuza": "PER", "Dhlakama": "PER", "Joseph Hanlon": "PER", "Open University": "ORG", "Mozambique": "LOC"}
+{}
+{"Renamo": "ORG"}
+{}
+{}
+{"Renamo": "ORG", "Democratic Movement of Mozambique": "ORG", "MDM": "ORG"}
+{"Mazanga": "PER", "Guebuza": "PER"}
+{"Mazanga": "PER"}
+{"Renamo": "ORG"}
+{"Sofala": "LOC", "Maputo": "LOC", "Beira": "LOC", "Rio Tinto": "ORG", "Vale": "ORG"}
+{"Renamo": "ORG"}
+{"Mazanga": "PER"}
+{"Renamo": "PER", "Mozambique": "LOC", "Mazanga": "PER"}
+{"Fernando Lima": "PER", "Mediacoop": "ORG"}
+{}
+{"Omar Sultuane": "PER"}
+{"Renamo": "PER", "Frelimo": "PER"}
+{}
+{"Thor": "PER"}
+{}
+{"America": "LOC"}
+{}
+{}
+{"Crossley - Holland": "PER"}
+{}
+{}
+{}
+{}
+{"Hansjakob": "PER", "Freihof": "LOC"}
+{"Heinrich Hansjakob": "PER", "Haslach": "LOC"}
+{}
+{"Alois Kraftzcyk": "PER", "Hansjakob": "PER", "Cornelia Volk": "PER"}
+{"Marcus Zagermann": "PER"}
+{"Hansjakob": "PER"}
+{"Alois Krafczyk": "PER"}
+{"Erich Becherer": "PER"}
+{}
+{"Billy Sum": "PER", "Hermann": "PER"}
+{"Mühlenbacher Bauernkapelle": "ORG"}
+{"Heinz Winkler": "PER", "Hansjakob": "PER"}
+{"Hansjakob": "PER"}
+{}
+{"Hansjakob": "PER"}
+{"Brand": "LOC"}
+{}
+{}
+{"Neckar Riesen": "ORG", "Neckar Giants": "ORG"}
+{"Ludwigsburg": "ORG"}
+{"Neckar Riesen": "ORG"}
+{"Hamburg Towers": "ORG"}
+{"Pascal Roller": "PER", "Hansa": "LOC"}
+{"Ludwigsburg": "LOC"}
+{"Neckar Riesen": "ORG", "Alexander Reil": "PER"}
+{"Düsseldorf Baskets": "ORG"}
+{"Rhineland": "LOC"}
+{"Court of Arbitration": "ORG"}
+{}
+{"Haigerloch": "LOC", "Office of Culture and Tourism": "ORG", "Church of the Holy Communion": "LOC"}
+{"Haigerloch": "LOC"}
+{}
+{}
+{"Friedrich Schüz": "PER", "Walter Kröll": "PER", "Georg Halbritter": "PER"}
+{"Milan": "LOC"}
+{}
+{}
+{}
+{"Snowden": "PER", "Russia": "LOC"}
+{"US": "LOC", "Edward Snowden": "PER"}
+{"Russia": "LOC"}
+{"Interfax Agency": "ORG"}
+{}
+{"Snowden": "PER", "Russia": "LOC"}
+{"Agency": "ORG"}
+{"Germany": "LOC", "USA": "LOC", "Snowden": "PER"}
+{}
+{}
+{}
+{"Sportfreunde Rohrdorf": "ORG", "Rohrdorf Sports Fans": "ORG"}
+{}
+{}
+{}
+{"Anja Schlichter": "PER"}
+{"Anja Schlichter": "PER", "Carmen Müller": "PER", "Inga Kronemeyer": "PER"}
+{}
+{"Andre Maier": "PER", "Matthias Bronner": "PER", "Michael Klippel": "PER", "Sadmin Osmicic": "PER"}
+{"Carmen Müller": "PER", "Andre Maier": "PER", "Matthias Bronner": "PER"}
+{"Michael Klippel": "PER", "Sadmin O": "PER"}
+{"Rainer": "PER", "Bernd Maier": "PER", "Asphaltriecher": "ORG"}
+{}
+{"Gutach": "LOC", "Hornberg": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Otsch": "PER"}
+{"Hermann Büttner": "PER"}
+{}
+{"Gutach": "LOC"}
+{}
+{"Baden - Wuerttemberg": "LOC"}
+{"New Zealand": "LOC", "Burt Munro": "PER", "America": "LOC"}
+{"Burt": "PER"}
+{"Los Angeles": "LOC"}
+{}
+{}
+{"Rhenus Mid": "ORG"}
+{}
+{}
+{"Rhenus Midgard": "ORG"}
+{}
+{}
+{}
+{"Matthias Schrell": "PER", "Rhenus Midgard": "ORG", "Wilhelmshaven": "LOC"}
+{}
+{}
+{}
+{}
+{"Matthias Schrell": "PER"}
+{"Rhenus Midgard": "ORG", "Europe": "LOC"}
+{}
+{"Schrell": "PER"}
+{}
+{"GDF - Suez": "ORG"}
+{}
+{"Bavaria": "LOC"}
+{"FC Bayern München Basketballers": "ORG"}
+{"Europe": "LOC", "Bayern": "ORG", "Svetislav Pesic": "PER"}
+{"Munich": "LOC"}
+{"Munich": "ORG"}
+{"Piräus": "PER"}
+{}
+{}
+{"Malcolm Delaney": "PER", "Nihad Djedovic": "PER", "Munich": "LOC", "Montepaschi Siena": "ORG", "Zielona Góra": "ORG"}
+{"Ben Greenman": "PER", "The New Yorker": "ORG"}
+{"New York City": "LOC", "America": "LOC", "Frank Fay": "PER", "Palace Theatre": "LOC", "Broadway": "LOC"}
+{"Fay": "PER", "New York Comedy Festival": "ORG"}
+{"Caroline Hirsch": "PER", "Carolines": "ORG"}
+{"Hirsch": "PER"}
+{}
+{"Wanda Sykes": "PER", "Kathy Griffin": "PER", "Bill Maher": "PER", "Madison Square Garden": "LOC", "Bruce Springsteen": "PER", "Jon Stewart": "PER", "Roger Waters": "PER", "Bill Cosby": "PER"}
+{}
+{"Comedy Central": "ORG", "FX": "ORG", "Spike": "ORG"}
+{"Nick Kroll": "PER", "FXX": "ORG", "Comedy Central": "ORG"}
+{"Jenny Slate": "PER"}
+{"Kroll": "PER", "Slate": "PER", "Anthony Jeselnik": "PER", "W. Kamau Bell": "PER"}
+{"David Steinberg": "PER", "Larry David": "PER"}
+{"Steinberg": "PER"}
+{"TV Land": "ORG", "David Steinberg": "PER"}
+{"Town Hall": "LOC", "Manhattan": "LOC"}
+{"Larry": "PER", "Steinberg": "PER"}
+{}
+{"Iran": "LOC"}
+{"Iran": "LOC", "UN": "ORG", "Germany": "LOC"}
+{"International Nuclear Energy Authorities": "ORG", "Mohammed Dschawad Sarif": "PER"}
+{}
+{"Uruguay": "LOC"}
+{"Uruguay": "LOC"}
+{}
+{"El País": "ORG"}
+{}
+{"Cerro Pelado": "LOC", "Punta del Este": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"District Court of Constance": "ORG", "St. Georgen": "LOC"}
+{"Afghanistan": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Afghanistan": "LOC"}
+{}
+{}
+{"Criminal Investigation Department": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"China": "LOC"}
+{"U": "LOC", "S.": "LOC", "Europe": "LOC", "New York Mercantile Exchange": "ORG"}
+{}
+{}
+{"Energy Department": "ORG", "U": "LOC"}
+{}
+{}
+{"China": "LOC"}
+{"Brent": "ORG", "U": "LOC", "ICE": "ORG", "London": "LOC"}
+{"NYPD": "ORG"}
+{"New York Police Department": "ORG"}
+{"2nd U": "ORG", "S. Circuit Court of Appeals": "ORG", "Shira Scheindlin": "PER"}
+{}
+{}
+{}
+{"U": "LOC"}
+{}
+{}
+{"New York City": "LOC"}
+{}
+{}
+{"Michael Bloomberg": "PER"}
+{}
+{"NYPD": "ORG"}
+{}
+{"NYPD": "ORG"}
+{}
+{}
+{"Wolfgang Henne": "PER", "Helping Hands": "ORG"}
+{}
+{"Henne": "PER"}
+{"Cheijk - Zajed Hospital": "LOC", "Nouakchott": "LOC", "Mauritania": "LOC"}
+{"Hanne": "PER"}
+{}
+{}
+{}
+{"Rainer Prewo": "PER", "Henne": "PER"}
+{"Sc": "ORG", "Baiersbronn": "LOC", "Socogim": "LOC", "Capital": "LOC"}
+{"Henne": "PER", "Nouakchott": "LOC"}
+{"Nagold": "ORG"}
+{"Africa": "LOC", "Henne": "PER"}
+{"Germany": "LOC"}
+{"Africa": "LOC"}
+{"Hans - Joachim Fuchtel": "PER", "Mercedes": "ORG", "Mauritania": "LOC"}
+{}
+{}
+{"Fuchtel": "PER"}
+{"Africa": "LOC"}
+{"Africa": "LOC", "Gran Canaria": "LOC"}
+{"Coulson": "PER"}
+{"News of the World": "ORG", "Andy Coulson": "PER", "Charles Clarke": "PER"}
+{"Andrew Edis": "PER", "News of the World": "ORG", "Clarke": "PER", "Hannah Pawlby": "PER"}
+{"Glenn Mulcaire": "PER", "Pawlby": "PER", "Coulson": "PER"}
+{"Coulson": "PER", "NotW": "ORG", "Edis": "PER"}
+{"NotW": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Clarke": "PER", "NotW": "ORG", "Pawlby": "PER", "Charles": "PER"}
+{}
+{"Pawlby": "PER"}
+{"Pawlby": "PER", "Edis": "PER"}
+{"Neville Thurlbeck": "PER", "James Weatherup": "PER", "Pawlby": "PER"}
+{"Coulson": "PER", "Charles": "PER"}
+{"Edis": "PER", "Coulson": "PER", "David Blunkett": "PER"}
+{"Coulson": "PER", "Blunkett": "PER", "Rebekah Brooks": "PER"}
+{"Coulson": "PER", "Brooks": "PER"}
+{"##ire": "PER", "Thurlbeck": "PER", "Weatherup": "PER"}
+{"French Football Association": "ORG"}
+{}
+{"France": "LOC"}
+{"François Hollande": "PER", "Élysée Palace": "LOC"}
+{}
+{}
+{"Union of Professional Football Clubs": "ORG", "UCPF": "ORG", "Jean - Pierre Louvel": "PER"}
+{}
+{"Gechingen": "LOC"}
+{"Jens Häußler": "PER", "Gechingen": "LOC"}
+{}
+{"Council": "ORG"}
+{"Gechingen": "LOC"}
+{"Aidlingen": "LOC", "Gechingen": "LOC"}
+{}
+{"German Weather Service": "ORG"}
+{}
+{}
+{"Gechingen": "LOC"}
+{}
+{"Gechingen": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gregor Kühn": "PER", "Wald und Corbe": "ORG"}
+{"Joachim Wald": "PER", "Wald und Corbe": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Revensdorf": "LOC", "Gettorf": "LOC", "Hyundai": "ORG"}
+{}
+{}
+{}
+{}
+{"USA": "LOC"}
+{"Philip K. Dick": "PER"}
+{}
+{"Fyodor M. Dostoevsky": "PER", "Philip K. Dick": "PER"}
+{"Heyne Verlag": "ORG", "Zweitaudenseins": "ORG"}
+{"Dick": "PER", "America": "LOC"}
+{"Dick": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ridley Scott": "PER", "Paul Verhoeven": "PER", "Steven Spielberg": "PER"}
+{}
+{}
+{"White House": "LOC"}
+{"Dick": "PER"}
+{}
+{}
+{}
+{}
+{"Dick": "PER", "NSA": "ORG"}
+{"Obama": "PER"}
+{"Dick": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Russia": "LOC"}
+{"US": "LOC", "Edward Snowden": "PER", "Angela Merkel": "PER"}
+{"German Federal Prosecutor ' s Office": "ORG", "Russia": "LOC", "Interfax Agency": "ORG"}
+{"Green Party": "ORG", "Hans - Christian Ströbele": "PER", "Snowden": "PER", "Moscow": "LOC"}
+{"NSA": "ORG"}
+{"Frankfurt": "LOC", "Germany": "LOC"}
+{"Office for the Protection of the Constitution": "ORG", "BfV": "ORG", "Germany": "LOC", "US": "LOC", "European Central Bank": "ORG", "Bundesbank": "ORG"}
+{"BfV": "ORG", "US": "LOC", "Berlin": "LOC"}
+{"James Clapper": "PER", "US": "LOC", "National Intelligence": "ORG"}
+{"Edward Snowden": "PER", "US": "LOC"}
+{"US National Security Agency": "ORG", "Petrobras": "ORG", "US": "LOC", "Google": "ORG", "Yahoo": "ORG"}
+{"Angela Merkel": "PER"}
+{"Europe": "LOC"}
+{"Snowden": "PER", "US": "LOC"}
+{}
+{"Germany": "LOC", "Oliver Grün": "PER", "BITMi": "ORG"}
+{"US": "LOC", "China": "LOC", "EY": "ORG"}
+{"Snowden": "PER", "US": "LOC"}
+{"EU": "ORG", "US": "LOC"}
+{}
+{"Google": "ORG"}
+{}
+{"Hasso Plattner": "PER", "SAP": "ORG"}
+{}
+{"Germany": "LOC"}
+{}
+{"US": "LOC", "China": "LOC"}
+{"US": "LOC"}
+{"Cloud Security Alliance": "ORG"}
+{"Jim Snabe": "PER", "SAP": "ORG"}
+{}
+{}
+{}
+{"Kurt Bock": "PER", "BASF": "ORG"}
+{}
+{}
+{}
+{"Ulrich Hackenberg": "PER", "Audi": "ORG"}
+{"Germany": "LOC", "BfV": "ORG"}
+{}
+{}
+{"Germany": "LOC"}
+{"BfV": "ORG"}
+{"US": "LOC"}
+{"France": "LOC", "Russia": "LOC", "Israel": "LOC", "China": "LOC", "The Washington Post": "ORG"}
+{}
+{"Bernard Squarcini": "PER", "DCRI": "ORG"}
+{"Hechingen": "LOC"}
+{"Sören Kierkegaard": "PER"}
+{"Hechingen": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Stefanie Koch": "PER", "Modehaus Kleidermüller": "ORG"}
+{}
+{}
+{}
+{}
+{"Uwe Link": "PER"}
+{}
+{}
+{"Elisabeth Keidel": "PER"}
+{}
+{"Marko Ripperger": "PER"}
+{}
+{}
+{}
+{}
+{"Achim Scherrenbacher": "PER", "Kandel": "LOC", "Sandy": "PER", "Marley": "PER"}
+{"Woody": "PER", "Susi Höpp": "PER"}
+{"Georgia": "LOC"}
+{"Georgia": "LOC"}
+{"Kendrick Johnson": "PER", "Valdosta": "LOC", "Ga": "LOC"}
+{"Johnson": "PER"}
+{"Benjamin Crump": "PER", "Kenneth": "PER", "Jacquelyn Johnson": "PER", "FoxNews. com": "ORG"}
+{}
+{"Crump": "PER"}
+{}
+{}
+{"U": "LOC", "S": "LOC", "Michael Moore": "PER", "Johnson": "PER"}
+{}
+{}
+{"Moore": "PER"}
+{}
+{}
+{}
+{"Moore": "PER", "Johnson": "PER"}
+{"Moore": "PER"}
+{}
+{"Moore": "PER", "Johnson": "PER", "FBI": "ORG"}
+{"Lowndes County Sheriff ' s Office": "ORG"}
+{"Georgia": "LOC"}
+{}
+{"CDC": "ORG"}
+{"Centers for Disease Control and Prevention": "ORG"}
+{"U": "LOC", "S": "LOC"}
+{"United States": "LOC"}
+{"CDC": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Germany": "LOC"}
+{}
+{}
+{}
+{"BBC": "ORG"}
+{}
+{}
+{}
+{"Wallis Simpson": "PER"}
+{"United States": "LOC"}
+{"New York City": "LOC", "Jack Drescher": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"European Commission": "ORG"}
+{}
+{}
+{}
+{"Australia": "LOC", "Nepal": "LOC"}
+{"Norrie May - Welby": "PER"}
+{"Interior Ministry": "ORG"}
+{"France": "LOC", "France 24": "ORG"}
+{}
+{"U": "LOC", "S": "LOC", "Catholic Online": "ORG"}
+{"Maryland": "LOC", "Baby Zone": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Drescher": "PER"}
+{}
+{"John Money": "PER", "Johns Hopkins University": "ORG"}
+{}
+{}
+{}
+{"Drescher": "PER"}
+{}
+{}
+{"Drescher": "PER"}
+{}
+{"Jim Bruce": "PER", "Montana": "LOC"}
+{}
+{"Bruce": "PER"}
+{}
+{"ABCNews. com": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Bruce": "PER"}
+{}
+{}
+{"Interface Project": "ORG"}
+{"Anne Tamar - Mattis": "PER", "Advocates for Informed Choice": "ORG"}
+{}
+{}
+{}
+{}
+{"Tamar - Mattis": "PER"}
+{}
+{}
+{}
+{}
+{"Arlene Baratz": "PER", "Pittsburgh": "LOC"}
+{"Baratz": "PER", "Katie": "PER"}
+{"Katie": "PER"}
+{}
+{"Katie": "PER", "University of Pennsylvania": "ORG"}
+{}
+{"Baratz": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saxony - Anhalt": "LOC"}
+{"Genthin": "LOC"}
+{"Burg": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Criminal Investigation Department": "ORG"}
+{"Kempten Police Department": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Waltraud Ries": "PER"}
+{"Stuttgart": "LOC"}
+{}
+{"Waltraud Ries": "PER"}
+{}
+{"Stuttgart": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Waltraud Ries": "PER"}
+{}
+{}
+{}
+{}
+{"Ries": "PER"}
+{}
+{}
+{}
+{"Tuscany": "LOC", "Brittany": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Ries": "PER"}
+{}
+{}
+{}
+{"State Capital": "LOC"}
+{"Theresa Rütten": "PER", "State Capital": "LOC", "Stuttgart": "LOC"}
+{}
+{"Stiftung Warentest": "ORG"}
+{}
+{"Ries": "PER"}
+{}
+{}
+{}
+{"Waltraud Ries": "PER"}
+{}
+{}
+{}
+{"USA": "LOC", "Snowden": "PER"}
+{"USA": "LOC", "US Secret Service": "ORG", "Edward Snowden": "PER"}
+{}
+{"USA": "LOC", "US Foreign Office": "ORG", "Jennifer Psaki": "PER", "Washington": "LOC"}
+{"Snowden": "PER"}
+{"Snowden": "PER", "Moscow": "LOC", "Green Party": "ORG", "Hans - Christian Ströbele": "PER", "USA": "LOC"}
+{"Psaki": "PER", "Ströbele": "PER"}
+{"Secret Service": "ORG", "Edward Snowden": "PER"}
+{}
+{"NSA": "ORG", "USA": "LOC", "Green Party": "ORG", "Hans - Christian Ströbele": "PER", "Snowden": "PER"}
+{}
+{}
+{}
+{"Edward Joseph Snowden": "PER", "United States National Security Agency": "ORG", "Defense Intelligence Agency": "ORG"}
+{}
+{}
+{"Russian Federation": "LOC"}
+{"United States": "LOC"}
+{"United States": "LOC"}
+{}
+{}
+{}
+{}
+{"United States": "LOC"}
+{}
+{}
+{"Edward Snowden": "PER", "Hans - Christian Ströbele": "PER"}
+{}
+{"Michael Maier": "PER"}
+{}
+{"Council": "ORG"}
+{}
+{"Maier": "PER"}
+{}
+{}
+{}
+{"Maier": "PER"}
+{}
+{"Hammereisenbach Music Society": "ORG"}
+{"Bianca Willmann": "PER"}
+{}
+{"Manuela Honeck": "PER"}
+{"Honeck": "PER"}
+{"Obama": "PER", "Biden": "PER", "Hillary Clinton": "PER"}
+{"Barack Obama": "PER", "Joe Biden": "PER", "Hillary Clinton": "PER", "New York Times": "ORG"}
+{"Mark Halperin": "PER", "John Heilemann": "PER"}
+{"The Times": "ORG", "Biden": "PER", "Obama": "PER"}
+{"Times": "ORG", "Jonathan Martin": "PER", "White House": "LOC", "Bill Daley": "PER", "Clinton": "PER"}
+{"Chicago": "LOC"}
+{"Daley": "PER", "Obama": "PER", "Jim Messina": "PER", "White House": "LOC", "David Axelrod": "PER", "David Plouffe": "PER"}
+{"Daley": "PER", "Biden": "PER", "Clinton": "PER", "Obama": "PER"}
+{"Martin": "PER", "Daley": "PER", "Biden": "PER", "Clinton": "PER"}
+{"Daley": "PER"}
+{}
+{"Daley": "PER", "Martin": "PER", "CNN": "ORG"}
+{"Martin": "PER"}
+{"Obama": "PER"}
+{"Martin": "PER", "CNN": "ORG", "Daley": "PER"}
+{"Daley": "PER", "Obama": "PER"}
+{"Martin": "PER", "Obama": "PER"}
+{"Cooper": "PER", "Martin": "PER", "Obama": "PER", "Biden": "PER"}
+{"Martin": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anna": "PER", "Benni": "PER"}
+{"Anna": "PER"}
+{"Google": "ORG"}
+{"Benni": "ORG"}
+{}
+{"Benni": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Google": "ORG"}
+{"Anna": "PER", "Benni": "PER", "Google": "ORG"}
+{}
+{}
+{}
+{}
+{"Secret Services": "ORG"}
+{}
+{}
+{}
+{}
+{"Yahoo": "ORG", "Google": "ORG", "Germany": "LOC"}
+{"Convios Consulting": "ORG", "Yahoo": "ORG", "Google": "ORG"}
+{"Yahoo Mail": "ORG", "Google": "ORG", "Gmail": "ORG"}
+{}
+{"Wolfsburg": "LOC"}
+{}
+{"Wolfsburg": "LOC"}
+{}
+{}
+{"Helmstedt": "LOC"}
+{}
+{"Spain": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charlie Francis": "PER"}
+{"China": "LOC"}
+{}
+{"Chris": "PER"}
+{"Charlie": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charlie": "PER", "Bristol": "LOC"}
+{}
+{}
+{}
+{}
+{"TSV Morsum": "ORG"}
+{"Ingo Ehler": "PER", "TSV Daverden": "ORG"}
+{}
+{"Ehlers": "PER"}
+{"Hendrick Blohme": "PER"}
+{"##rden": "ORG"}
+{}
+{}
+{"Dave": "PER", "Thomas Panitz": "PER", "Nordhorn": "ORG"}
+{}
+{}
+{"Panitz": "PER"}
+{"Jan - Malte Jodat": "PER"}
+{"Youth": "ORG", "Joost Windßuß": "PER", "HC Bremen": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"National Retail Federation": "ORG"}
+{}
+{"NRF": "ORG"}
+{}
+{}
+{}
+{"Google": "ORG"}
+{}
+{}
+{"NRF": "ORG"}
+{}
+{}
+{"The Nielsen Company": "ORG"}
+{}
+{"U": "ORG", "S. Commerce Department": "ORG"}
+{}
+{"National Confectioners Association": "ORG"}
+{}
+{}
+{}
+{}
+{"United States": "LOC"}
+{}
+{"Charlie Brown": "PER"}
+{}
+{"U": "ORG", "S. Census Bureau": "ORG"}
+{"Illinois": "LOC"}
+{"Tim": "PER", "Susan Mathisdon": "PER", "Napa": "LOC", "Calif": "LOC"}
+{"Helmbrechts": "LOC"}
+{}
+{"Hof": "LOC"}
+{}
+{"Helmbrechts": "LOC"}
+{"Bayreuth": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Germany": "LOC"}
+{"Protestant Lutheran Regional Church of Hanover": "ORG"}
+{"Mathis Burfien": "PER", "Protestant Press Service": "ORG"}
+{}
+{"Burfien": "PER"}
+{}
+{"Burfien": "PER", "God": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Regional Church": "ORG", "Lower Saxony": "LOC"}
+{}
+{"Harz": "LOC", "Emsland": "LOC", "Wendland": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Bowler Works": "ORG"}
+{"Drew Bowler": "PER", "Bowler Motorsport": "ORG", "Bowler": "ORG"}
+{}
+{"Land Rover": "ORG", "MSA": "ORG", "UK": "LOC"}
+{}
+{"North Africa": "LOC", "Middle East": "LOC"}
+{}
+{"Ruby": "PER"}
+{}
+{}
+{}
+{"Ruby": "PER"}
+{"Scott Alderson": "PER", "Becky Hall": "PER", "Denholme": "LOC", "West Yorkshire": "LOC", "West Yorkshire Fire and Rescue Service": "ORG"}
+{}
+{"Ruby": "PER"}
+{"Technical Rescue Team": "ORG", "Ruby": "PER"}
+{"Andy Clayton": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Peter Lau": "PER", "Ruby": "PER"}
+{}
+{"Ruby": "PER"}
+{"Hall": "PER", "Halifax": "LOC", "West Yorkshire": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alderson": "PER"}
+{}
+{}
+{"Mick Jagger": "PER", "Katy Perry": "PER"}
+{"Jagger": "PER"}
+{"Perry": "PER"}
+{}
+{"Jagger": "PER", "Katy Perry": "PER"}
+{}
+{"Perry": "PER", "Rolling Stones": "ORG"}
+{}
+{"George Kerevan": "PER", "Europe": "LOC"}
+{}
+{"Scotland": "LOC", "EU": "ORG"}
+{"Berwick": "LOC", "Hadrian ' s Wall": "LOC"}
+{"Europe": "LOC"}
+{"EU": "ORG"}
+{"Scotland": "LOC", "Brussels": "LOC"}
+{}
+{}
+{}
+{"Scotland": "LOC", "Europe": "LOC"}
+{"London": "LOC", "Brussels": "LOC"}
+{"Europe": "LOC"}
+{}
+{"EU": "ORG"}
+{"Germany": "LOC", "Alternative for Germany Party": "ORG", "Free Democrats": "ORG", "Lib Dems": "ORG"}
+{"Europe": "LOC"}
+{}
+{"Berlin": "LOC", "European Central Bank": "ORG"}
+{"Greece": "LOC"}
+{}
+{"Europe": "LOC", "Germany": "LOC"}
+{"Berlin": "LOC"}
+{}
+{"United States": "LOC"}
+{"Grangemouth": "ORG"}
+{}
+{"France": "LOC", "EU": "ORG"}
+{"EU": "ORG", "Germany": "LOC", "Paris": "LOC", "Washington": "LOC"}
+{"Berlin": "LOC", "Paris": "LOC", "Europe": "LOC"}
+{"Marine Le Pen": "PER", "EU National Front": "ORG"}
+{"Front": "ORG", "France": "LOC"}
+{"Le Pen": "PER"}
+{"EU": "ORG"}
+{"Parliament": "ORG"}
+{"Europe": "LOC"}
+{"EU": "ORG", "de Gaulle": "PER"}
+{"Germany": "LOC", "France": "LOC", "Europe": "LOC"}
+{"UK": "LOC", "US": "LOC"}
+{"Washington": "PER", "Pacific": "LOC", "Britain": "LOC", "Atlantic": "LOC"}
+{"Scotland": "LOC"}
+{}
+{"Berlin": "LOC", "Brussels": "LOC"}
+{"Scotland": "LOC"}
+{}
+{"Norway": "LOC"}
+{"SNP": "ORG", "Scotland": "LOC", "Europe": "LOC", "Labour": "ORG", "Alistair Darling": "PER"}
+{"Scotland": "LOC", "Berlin": "LOC", "Brussels": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"CNN": "ORG", "Pat Etheridge": "PER"}
+{}
+{"American Academy of Pediatrics": "ORG", "Orlando": "LOC", "Florida": "LOC", "Paul Kaplowitz": "PER"}
+{}
+{}
+{}
+{"United States": "LOC"}
+{"Kaplowitz": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kaplowitz": "PER"}
+{}
+{"Kaplowitz": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kaplowitz": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"AAP": "ORG"}
+{}
+{"Lawrence Silverman": "PER", "Goryeb Children ' s Hospital": "LOC", "Morristown": "LOC", "New Jersey": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Dubai": "LOC"}
+{"Airbus SAS": "ORG", "Boeing Co": "ORG"}
+{"Airbus": "ORG", "U": "LOC", "Boeing": "ORG"}
+{}
+{}
+{"Boeing": "ORG"}
+{"Airbus": "ORG"}
+{}
+{"Airbus": "ORG"}
+{}
+{"Boeing": "ORG", "Airbus": "ORG", "John Leahy": "PER"}
+{}
+{"U": "ORG", "S. Health Department": "ORG"}
+{"U": "LOC", "S": "LOC"}
+{"Airbus": "ORG"}
+{"Airbus": "ORG"}
+{"Boeing": "ORG", "Airbus": "ORG"}
+{}
+{"Boeing": "ORG", "Kent Craver": "PER"}
+{}
+{}
+{}
+{"U": "LOC", "S": "LOC"}
+{"Reuters": "ORG"}
+{"Airbus": "ORG", "Boeing": "ORG"}
+{"Boeing": "ORG"}
+{}
+{"Boeing": "ORG", "Kevin Keniston": "PER", "Europe": "LOC", "Airbus": "ORG"}
+{}
+{"Mary Kirby": "PER", "Runway Girl Network": "ORG"}
+{"Airbus": "ORG", "Boeing": "ORG"}
+{}
+{}
+{"Airbus": "ORG"}
+{"Airbus": "ORG"}
+{}
+{}
+{}
+{}
+{"Ronald Crystal": "PER", "Weill Cornell Medical College": "ORG", "New York": "LOC"}
+{"Cornell": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Science Translational Medicine": "ORG"}
+{}
+{}
+{}
+{"Crystal": "PER"}
+{}
+{}
+{}
+{"Obeid": "PER"}
+{"NSW Labor": "ORG", "Joe Tripodi": "PER"}
+{"NSW": "LOC", "Joe Tripodi": "PER", "Eddie Obeid": "PER"}
+{"Independent Commission Against Corruption": "ORG", "ICAC": "ORG", "Obeid": "PER", "Circular Quay": "LOC"}
+{"Tripodi": "PER", "Obeid": "PER", "Lynne Ashpole": "PER"}
+{}
+{}
+{"O": "PER"}
+{"Tripodi": "PER"}
+{"Obeid": "PER", "Tripodi": "PER"}
+{"ICAC": "ORG", "Obeid": "PER", "Tripodi": "PER", "Steve Dunn": "PER"}
+{"Anthony Whealy": "PER", "Tripodi": "PER"}
+{}
+{}
+{"Obeid": "PER"}
+{"Syria": "LOC"}
+{"Latakia": "LOC", "Fox News": "ORG"}
+{}
+{"Associated Press": "ORG"}
+{"Israel": "LOC", "Syria": "LOC"}
+{}
+{}
+{"Australia": "LOC"}
+{"Labor": "ORG", "Maxine McKew": "PER", "Australia": "LOC"}
+{"Australia India Institute": "ORG"}
+{}
+{"Chris Bowen": "PER"}
+{"Brendan O ' Connor": "PER", "Sri Lanka": "LOC"}
+{}
+{}
+{"Christmas Island": "LOC"}
+{"Australia": "LOC"}
+{"Christmas Island Hospital": "LOC"}
+{"Scotland": "LOC", "UK": "LOC"}
+{"HS2 Ltd": "ORG", "Scotland": "LOC", "England": "LOC"}
+{"Kramer": "PER", "UK": "LOC"}
+{"Keith Brown": "PER", "UK": "LOC"}
+{"London": "LOC", "West Midlands": "LOC"}
+{"Manchester": "LOC", "Leeds": "LOC"}
+{"London": "LOC"}
+{"UK": "LOC", "Transport Scotland": "ORG", "HS2 Ltd": "ORG", "England": "LOC", "Scotland": "LOC"}
+{"Glasgow": "LOC", "Edinburgh": "LOC", "London": "LOC"}
+{"Kramer": "PER", "UK": "LOC"}
+{}
+{}
+{"UK": "LOC", "Glasgow": "LOC", "Edinburgh": "LOC"}
+{"Alistair Carmichael": "PER", "Scotland": "LOC"}
+{"Keith Brown": "PER", "Carmichael": "PER", "Scotland": "LOC"}
+{"Brown": "PER", "Scotland": "LOC", "Britain": "LOC"}
+{"UK": "LOC", "Scotland": "LOC", "Glasgow": "LOC", "Edinburgh": "LOC"}
+{"UK": "LOC"}
+{"Australia": "LOC"}
+{"US": "LOC"}
+{"US Federal Aviation Administration": "ORG"}
+{}
+{}
+{"Civil Aviation Safety Authority": "ORG", "Australia": "LOC"}
+{"CASA": "ORG"}
+{}
+{"Virgin": "ORG", "CASA": "ORG"}
+{"CASA": "ORG"}
+{"Qantas": "ORG"}
+{}
+{"FAA": "ORG"}
+{"FAA": "ORG"}
+{"US": "LOC"}
+{}
+{"FAA": "ORG"}
+{}
+{}
+{"BVB": "ORG", "Veltins Arena": "LOC", "Schalke": "ORG"}
+{"Borussia Dortmund": "ORG"}
+{"VfB Stuttgart": "ORG"}
+{"Borussia Dortmend": "ORG", "VfB Stuttgart": "ORG"}
+{}
+{"BVB": "ORG"}
+{}
+{}
+{"Roman Weidenfeller": "PER", "BVB": "ORG"}
+{}
+{}
+{"Norbert Dickel": "PER", "Arsenal": "ORG", "Jörgen klopp": "PER"}
+{"Dickel": "PER"}
+{}
+{}
+{}
+{"FC Schalke 04": "ORG", "BVB": "ORG", "Roman Weidenfeller": "PER"}
+{}
+{"BVB": "ORG", "Hans Joachim Watzke": "PER", "Dortmund Ultras": "ORG", "Watzke": "PER"}
+{"BVB": "ORG", "Frankfurt": "LOC"}
+{"Watzke": "PER", "VfB Stuttgart": "ORG"}
+{}
+{"Saxony": "LOC"}
+{}
+{"BVB": "ORG", "Watzke": "PER"}
+{"Watzke": "PER"}
+{}
+{"Singapore": "LOC"}
+{"Bendemeer": "LOC", "Singapore": "LOC", "Janani Amirthalinga": "PER"}
+{"Amirthalinga": "PER"}
+{}
+{"Asia": "LOC", "ValueMax": "ORG", "Singapore": "LOC"}
+{"Amirthalinga": "PER"}
+{"Singapore": "LOC", "United Overseas Bank": "ORG"}
+{}
+{}
+{}
+{"Standard & Poor ' s": "ORG"}
+{"Malaysia": "LOC", "Thailand": "LOC", "Singapore": "LOC", "Asia": "LOC"}
+{"Malaysia": "LOC"}
+{"Thailand": "LOC"}
+{}
+{"CIMB": "ORG"}
+{}
+{"Singapore": "LOC"}
+{}
+{"Thailand": "LOC", "EasyMoney": "ORG"}
+{"ValueMax": "ORG", "Bendemeer": "LOC", "Singapore": "LOC", "Malaysia": "LOC", "Asia": "LOC", "Yeah Lee Ching": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Singapore": "LOC", "ValueMax": "ORG"}
+{}
+{}
+{}
+{"NSA": "ORG", "Google": "ORG", "Yahoo": "ORG"}
+{"Secret Service": "ORG", "Edward Snowden": "PER", "Germany": "LOC", "NSA": "ORG"}
+{"Green Party": "ORG", "Hans - Christian Ströbele": "PER", "Snowden": "PER", "Russia": "LOC", "Secret Service": "ORG"}
+{"Snowden": "PER", "Ströbele": "PER", "ARD": "ORG"}
+{}
+{"Tasmania": "LOC"}
+{"Tanya Plibersek": "PER", "Commonwealth": "ORG"}
+{"Andrew Wilkie": "PER"}
+{"Plibersek": "PER"}
+{}
+{}
+{"Hobart": "LOC", "Launceston": "LOC"}
+{"Tasmania": "LOC", "Plibersek": "PER"}
+{}
+{"Commonwealth": "ORG"}
+{}
+{"Wilkie": "PER", "Tasmania": "LOC"}
+{}
+{"Wilkie": "PER"}
+{}
+{"Peter Dutton": "PER"}
+{"Labor State Government": "ORG", "ABC TV": "ORG"}
+{"Commonwealth": "ORG"}
+{"Dutton": "PER", "Plibersek": "PER"}
+{"Guillaume Nicloux": "PER", "Denis Diderot": "PER"}
+{"France": "LOC", "Suzanne": "PER"}
+{}
+{}
+{}
+{"Syria": "LOC"}
+{"Syria": "LOC"}
+{}
+{"Organization for the Prohibition of Chemical Weapons": "ORG"}
+{"Damascus": "LOC"}
+{"Damascus": "LOC"}
+{"Syria": "LOC"}
+{"Damascus": "LOC"}
+{}
+{"Safira": "LOC", "Syrian Observatory for Human Rights": "ORG"}
+{"Syria": "LOC"}
+{}
+{"Bashar Assad": "PER", "Hezbollah": "ORG"}
+{}
+{"U": "ORG", "N": "ORG"}
+{}
+{}
+{"Assad": "PER", "Safira": "LOC"}
+{"Observatory": "ORG"}
+{"Syria": "LOC"}
+{"OPCW": "ORG", "United Nations": "ORG", "Syria": "LOC"}
+{}
+{"Damascus": "LOC"}
+{}
+{"OPCW": "ORG", "Syria": "LOC"}
+{"Safira": "LOC", "OPCW": "ORG"}
+{"Syria": "LOC", "OPCW": "ORG"}
+{"Ahmet Uzumcu": "PER", "OPCW": "ORG"}
+{"Assad": "PER"}
+{"Observatory": "ORG", "Rami Abdurrahman": "PER", "Syria": "LOC", "Latakia": "LOC"}
+{}
+{"Bali": "LOC"}
+{"Bali": "LOC", "Umar Patek": "PER"}
+{"Patek": "PER"}
+{}
+{"Kuta": "LOC"}
+{"Indonesia": "LOC"}
+{}
+{"Perth": "LOC", "June Corteen": "PER", "Jane": "PER", "Jenny": "PER", "Patek": "PER"}
+{"Patek": "PER"}
+{}
+{"Corteen": "PER", "AAP": "ORG"}
+{}
+{"Sari Club": "ORG"}
+{"Peter Hughes": "PER"}
+{}
+{"Hughes": "PER", "Patek": "PER", "Jemaah Islamiah": "ORG", "Amrozi": "PER", "Mukhlas": "PER", "Imam Samudra": "PER"}
+{}
+{}
+{}
+{"Patek": "PER", "Bali": "LOC"}
+{"Abbottabad": "LOC", "Osama bin Laden": "PER"}
+{"FBI": "ORG", "Patek": "PER", "Pakistan": "LOC", "bin Laden": "PER", "Qaeda": "ORG"}
+{"Corteen": "PER"}
+{}
+{"Bali": "LOC", "Australia": "LOC"}
+{"Corteen": "PER"}
+{"Patek": "PER"}
+{"FAA": "ORG"}
+{"Federal Aviation Administration": "ORG"}
+{}
+{"FAA": "ORG", "Michael Huerta": "PER"}
+{"FAA": "ORG"}
+{"FAA": "ORG"}
+{"Delta": "ORG", "JetBlue": "ORG"}
+{"FAA": "ORG"}
+{}
+{}
+{}
+{"FAA": "ORG"}
+{}
+{"Laura Glading": "PER", "Association of Professional Flight Attendants": "ORG"}
+{"Glading": "PER"}
+{}
+{}
+{}
+{"Alec Baldwin": "PER", "American Airlines": "ORG"}
+{}
+{}
+{"Federal Communications Commission": "ORG", "FAA": "ORG"}
+{"FAA": "ORG"}
+{"National Transportation Safety Board": "ORG", "Mark Rosenker": "PER", "CBS News": "ORG"}
+{"FCC": "ORG", "Rosenker": "PER"}
+{"FAA": "ORG"}
+{"FAA": "ORG"}
+{"Claire McCaskill": "PER", "Mo": "LOC"}
+{}
+{}
+{"FAA": "ORG"}
+{"FAA": "ORG"}
+{}
+{}
+{"Huerta": "PER"}
+{}
+{}
+{}
+{"Amazon. com": "ORG"}
+{}
+{"FAA": "ORG"}
+{"Douglas Kidd": "PER", "National Association of Airline Passengers": "ORG"}
+{}
+{"FAA": "ORG"}
+{}
+{"FAA": "ORG", "Roger Dow": "PER", "U": "ORG", "S. Travel Association": "ORG"}
+{"North Sea": "LOC"}
+{"North Sea": "LOC"}
+{"Aberdeen": "LOC", "Scottish SPCA": "ORG", "Alloa": "LOC"}
+{"Colin Seddon": "PER", "Northern Europe": "LOC", "North Sea": "LOC"}
+{}
+{}
+{}
+{"Europe": "LOC", "Britain": "LOC"}
+{"Britain": "LOC", "UK": "LOC", "EU": "ORG"}
+{"Britain": "LOC", "EU": "ORG"}
+{"YouGov": "ORG", "Britain": "LOC"}
+{}
+{"Europe": "LOC", "EU": "ORG"}
+{"China": "LOC", "India": "LOC", "Brazil": "LOC", "EU": "ORG"}
+{}
+{"Brussels": "LOC", "Europe": "LOC"}
+{"Britain": "LOC", "EU": "ORG"}
+{"UK": "LOC"}
+{"Britain": "LOC", "EU": "ORG"}
+{"Britain": "LOC", "EU": "ORG"}
+{"UK": "LOC"}
+{}
+{"Britain": "LOC", "Brussels": "LOC"}
+{"Gazprom": "ORG", "Alexei Miller": "PER", "Bulgaria": "LOC"}
+{"Bulgaria": "LOC", "Europe": "LOC", "Gazprom": "ORG"}
+{"Europe": "LOC", "Gazprom": "ORG", "Alexei Miller": "PER"}
+{}
+{"Russia": "LOC", "Europe": "LOC"}
+{"Gazprom": "ORG", "Ukraine": "LOC", "Russia": "LOC", "Europe": "LOC"}
+{"Miller": "PER", "Bulgaria": "LOC", "European Union": "ORG"}
+{"South Stream": "ORG"}
+{"Gazprom": "ORG"}
+{}
+{"Germany": "LOC"}
+{}
+{"Börsen Zeitung": "ORG"}
+{"Europe": "LOC"}
+{"Christian Ulbrich": "PER", "Jones Lang LaSalle": "ORG", "Europe": "LOC", "Near East": "LOC", "Africa": "LOC", "Börsen Zeitung": "ORG"}
+{"Ulbrich": "PER"}
+{}
+{"Great Britain": "LOC", "France": "LOC"}
+{"Ulbrich": "PER"}
+{}
+{"FAA": "ORG"}
+{"Latakia": "LOC"}
+{"Israel": "LOC", "Mideast": "LOC"}
+{"NYPD": "ORG"}
+{"Algeria": "LOC", "Sahara": "LOC"}
+{"America": "LOC"}
+{"U": "LOC", "S": "LOC", "Federal Reserve": "ORG"}
+{"California": "LOC"}
+{"Rob Ford": "PER"}
+{}
+{"Vatican": "LOC"}
+{"YMCA": "ORG", "Jonathan Lord": "PER", "Royal Commission": "ORG"}
+{"YMCA NSW": "ORG", "Jonathan Lord": "PER", "Royal Commission": "ORG"}
+{"Commission": "ORG"}
+{"Phillip Hare": "PER", "YMCA": "ORG"}
+{"Hare": "PER", "Gail Furness": "PER", "Commission": "ORG"}
+{"YMCA": "ORG"}
+{"YMCA": "ORG", "Department of Education and Communities": "ORG"}
+{"Hare": "PER", "YMCA": "ORG", "Lord": "PER"}
+{"Lord": "PER", "YMCA": "ORG"}
+{}
+{"Hare": "PER", "YMCA": "ORG"}
+{"Lord": "PER"}
+{"Danielle Ockwell": "PER", "Lord": "PER", "Jacqui Barnat": "PER"}
+{}
+{"Lord": "PER"}
+{"Hare": "PER", "YMCA NSW": "ORG", "Jonathan Lord": "PER"}
+{"Hare": "PER", "YMCA": "ORG", "Liam Whitley": "PER"}
+{}
+{"YMCA NSW": "ORG", "Jonathan Lord": "PER", "Stephen Smallbone": "PER", "Griffith University": "ORG"}
+{}
+{}
+{"Tony Blair": "PER", "Britain": "LOC"}
+{}
+{"Blair": "PER", "Quartet of": "ORG"}
+{"Blair": "PER", "London": "LOC", "Evening Standard": "ORG"}
+{"Cardiff": "LOC"}
+{"Fenton Kirkland": "PER"}
+{"Toffee": "PER"}
+{"Rudry": "LOC", "Cardiff": "LOC"}
+{"Toffee": "PER"}
+{"Fenton": "PER"}
+{"Toffee": "PER"}
+{"Fenton": "PER"}
+{"Donna": "PER", "Fenton": "PER", "Toffee": "PER"}
+{}
+{"Toffee": "PER"}
+{}
+{"Nantyglo": "LOC", "Ebbw Vale": "LOC", "South Wales": "LOC", "Sharon Howells": "PER"}
+{"Howells": "PER"}
+{}
+{"Fenton": "PER"}
+{}
+{"Fenton": "PER"}
+{}
+{"Fenton": "PER", "Toffee": "PER"}
+{"Fenton": "PER"}
+{"Fenton": "PER"}
+{"China": "LOC"}
+{}
+{"New Express": "ORG", "Chen Yongzhou": "PER"}
+{"Chen": "PER"}
+{"New Express": "ORG"}
+{"Guangdong Administration of Press and Publication, Radio, Film and Television": "ORG"}
+{"Yangcheng Evening News Group": "ORG", "New Express": "ORG", "Zoomlion": "ORG"}
+{"New Express": "ORG"}
+{"Chen Yongzhou": "PER"}
+{"Yangcheng Evening News Group": "ORG", "New Express": "ORG"}
+{"Chen": "PER", "New Express": "ORG", "Zoomlion": "ORG"}
+{}
+{"Chen": "PER"}
+{"Zoomlion": "ORG", "CCTV": "ORG"}
+{}
+{}
+{"Chen": "PER", "New Express": "ORG"}
+{}
+{}
+{"Mexico": "LOC"}
+{"USA": "LOC", "Mexico": "LOC"}
+{}
+{"Tijuana": "LOC", "Mexico": "LOC", "San Diego": "LOC", "USA": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Nogales": "LOC", "Arizona": "LOC"}
+{"San Diego": "LOC"}
+{"Mexico": "LOC"}
+{"Tijuana": "LOC", "San Diego": "LOC"}
+{"Orlando Bloom": "PER", "Miranda Kerr": "PER"}
+{"Orlando Bloom": "PER", "Miranda Kerr": "PER"}
+{"Bloom": "PER", "Kerr": "PER"}
+{"Miranda Kerr": "PER", "Orlando Bloom": "PER", "Flynn": "PER"}
+{"Orlando Bloom": "PER", "Miranda Kerr": "PER"}
+{"US": "LOC", "Katie Couric": "PER", "Bloom": "PER"}
+{"Kerr": "PER"}
+{"Flynn": "PER"}
+{"Kerr": "PER", "Bloom": "PER", "Flynn": "PER"}
+{}
+{}
+{}
+{}
+{"Ute Henkelmann": "PER"}
+{"Reuben Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{"Proctor": "PER"}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Proctor": "PER"}
+{"Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{"Proctor": "PER"}
+{}
+{}
+{}
+{}
+{"Mannheim": "LOC"}
+{"Proctor": "PER"}
+{}
+{}
+{"Proctor": "PER"}
+{"Proctor": "PER"}
+{}
+{}
+{"Reuben Proctor": "PER", "Lars Thomsen": "PER"}
+{"Proctor": "PER"}
+{}
+{}
+{"OMX": "ORG"}
+{}
+{}
+{"OMX": "ORG"}
+{}
+{}
+{}
+{"US": "LOC", "Goldman Sachs": "ORG"}
+{}
+{"USA": "LOC"}
+{"Facebook": "ORG"}
+{"Exchange Supervisory Authority": "ORG"}
+{"Konstanz": "LOC"}
+{"Bahnhofplatz": "LOC", "Marktstätte": "LOC"}
+{}
+{}
+{}
+{"Assange": "PER"}
+{"WikiLeaks": "ORG", "Julian Assange": "PER", "Ecuador": "LOC", "London": "LOC"}
+{"Scotland Yard": "ORG"}
+{"Assange": "PER", "Sweden": "LOC", "Supreme Court": "ORG"}
+{"Stockholm": "LOC", "US": "LOC", "Ecuador": "LOC", "London": "LOC"}
+{"Scotland Yard": "ORG"}
+{}
+{}
+{"Assange": "PER", "Sweden": "LOC", "United States": "LOC", "WikiLeaks": "ORG"}
+{}
+{}
+{"Andrew Howie": "PER", "Tiptree": "LOC", "Essex": "LOC", "Braintree": "LOC"}
+{}
+{"Howie": "PER"}
+{}
+{"Howie": "PER"}
+{"London": "LOC"}
+{"Treasury": "ORG", "Osborne": "PER"}
+{"Westminster": "LOC", "Kensington & Chelsea": "LOC", "Northern Ireland": "LOC", "Wales": "LOC", "Scotland": "LOC", "North East": "LOC", "North West": "LOC", "Yorkshire": "LOC", "Humber": "LOC"}
+{"Cook": "PER"}
+{"London": "LOC"}
+{"London": "LOC", "Fulham": "LOC", "Wimbledon": "LOC"}
+{"London": "LOC"}
+{}
+{}
+{}
+{"Georgio Vallortigara": "PER", "University of Trento": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Vallortigara": "PER"}
+{}
+{}
+{"Vallortigara": "PER"}
+{}
+{}
+{}
+{"John Bradshaw": "PER", "University of Bristol": "ORG"}
+{"University of Lincoln": "ORG"}
+{"University of Victoria": "ORG", "Canada": "LOC"}
+{}
+{}
+{}
+{}
+{"Arctic Monkeys": "ORG", "Glasgow": "LOC", "Alex Turner": "PER"}
+{"Arctic Monkeys": "ORG", "Glasgow": "LOC"}
+{"Sheffield": "LOC"}
+{"Alex Turner": "PER"}
+{"L": "LOC", "Arena": "LOC", "Birmingham": "LOC"}
+{"Arctic Monkeys": "ORG", "Birmingham L": "LOC", "Arena": "LOC"}
+{"Alex Turner": "PER"}
+{"Arena": "LOC", "Birmingham": "LOC"}
+{}
+{}
+{}
+{"Pope Francis": "PER"}
+{"Pope Francis": "PER", "Vatican": "LOC"}
+{"Francis": "PER"}
+{}
+{}
+{"Federico Lombardi": "PER", "Vatican": "LOC"}
+{"Pope Francis": "PER", "Lombardi": "PER"}
+{"Jack Valero": "PER", "Catholic Voices": "ORG"}
+{}
+{"Francis": "PER", "Valero": "PER"}
+{"Europe": "LOC", "Italy": "LOC"}
+{}
+{"South America": "LOC"}
+{"Francis": "PER", "Council of Cardinals": "ORG"}
+{}
+{"Francis": "PER", "Valero": "PER"}
+{"Francis": "PER"}
+{}
+{"Valero": "PER", "Francis": "PER"}
+{"GM": "ORG", "U": "LOC", "S.": "LOC"}
+{"General Motors Co": "ORG", "U": "LOC", "S": "LOC"}
+{}
+{}
+{"National Highway Traffic Safety Administration": "ORG"}
+{}
+{"GM": "ORG", "U": "LOC", "S": "LOC"}
+{"GM": "ORG"}
+{"NHTSA": "ORG"}
+{"GM": "ORG"}
+{"GM": "ORG"}
+{"GM": "ORG", "New York Stock Exchange": "ORG"}
+{"Obama": "PER"}
+{"Obama": "PER"}
+{"Obama": "PER"}
+{}
+{"Obama": "PER"}
+{"Nathaniel P. Morris": "PER"}
+{}
+{}
+{"Barack Obama": "PER"}
+{}
+{}
+{}
+{"White House": "LOC"}
+{"Obama": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Obama": "PER", "Iraq": "LOC"}
+{"Guantanamo Bay": "LOC"}
+{"Obama": "PER"}
+{}
+{}
+{"National Security Agency": "ORG"}
+{"Anwar al - Awlaki": "PER"}
+{"White House": "LOC"}
+{}
+{}
+{}
+{"Newtown": "LOC"}
+{}
+{}
+{"Obama": "PER"}
+{"Mitt Romney": "PER"}
+{"Obama": "PER"}
+{"Obama": "PER"}
+{}
+{"Obama": "PER", "Clinton": "PER", "Pennsylvania": "LOC"}
+{}
+{}
+{}
+{}
+{"Nathaniel Morris": "PER"}
+{"Clive Palmer": "PER", "Tony Abbott": "PER"}
+{"Clive Palmer": "PER", "Tony Abbott": "PER"}
+{}
+{"Palmer United Party": "ORG", "Senate": "ORG"}
+{"Palmer": "PER", "Abbott": "PER"}
+{"Palmer": "PER"}
+{"Palmer": "PER", "Sunshine Coast": "LOC"}
+{"Palmer": "PER"}
+{"Tony Abbott": "PER", "Frances": "PER", "Bridget": "PER"}
+{}
+{}
+{}
+{"Palmer": "PER"}
+{}
+{}
+{"Electoral Commission": "ORG", "New Zealand": "LOC"}
+{"Palmer": "PER", "Sunshine Coast": "LOC"}
+{}
+{}
+{"RBS": "ORG"}
+{"Royal Bank of Scotland": "ORG"}
+{"UBS": "ORG", "Barclays": "ORG", "Deutsche Bank": "ORG", "RBS": "ORG"}
+{"RBS": "ORG"}
+{}
+{"FCA": "ORG"}
+{"RBS": "ORG", "UK": "LOC", "Financial Conduct Authority": "ORG"}
+{"Richard Usher": "PER", "RBS": "ORG", "JPMorgan": "ORG"}
+{"Rohan Ramchandani": "PER", "Citi": "ORG", "Matt Gardiner": "PER", "Barclays": "ORG", "UBS": "ORG", "Standard Chartered": "ORG"}
+{}
+{"Usher": "PER", "Barclays": "ORG", "Citigroup": "ORG"}
+{"UBS": "ORG", "Finma": "ORG"}
+{"European Commission": "ORG", "Finma": "ORG", "Switzerland": "LOC", "Weko": "ORG", "FCA": "ORG", "Department of Justice": "ORG", "US": "LOC", "Hong Kong Monetary Authority": "ORG"}
+{"HSBC": "ORG", "Citigroup": "ORG", "JPMorgan": "ORG", "Credit Suisse": "ORG"}
+{}
+{}
+{}
+{}
+{"Credit Suisse": "ORG", "London": "LOC"}
+{}
+{"Credit Suisse": "ORG"}
+{}
+{"Bad Herrenalb": "LOC"}
+{}
+{}
+{"Alfred Abel": "PER", "Reinhard Domke": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ralf Rangnick": "PER", "Red Bull Salzburg": "ORG", "Bulls": "ORG"}
+{"Mane": "PER", "Alan": "PER", "Salburg": "LOC"}
+{"Rangnick": "PER", "Mane": "PER", "Grödig": "PER"}
+{"Rangnick": "PER", "Harkam": "PER"}
+{"Harkam": "PER", "Salzburg": "ORG", "Roger Schmidt": "PER", "Adi Hütter": "PER"}
+{"Roger Schmidt": "PER"}
+{"Schmidt": "PER", "Hütter": "PER"}
+{}
+{}
+{"Rangnick": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rangnick": "PER"}
+{"Supreme Court": "ORG"}
+{"Obama": "PER", "US Supreme Court": "ORG", "Barack Obama": "PER"}
+{}
+{"John Roberts": "PER", "Scalia": "PER", "Thomas": "PER", "Alito": "PER", "Kennedy": "PER"}
+{}
+{"National Federation of Independent Business": "ORG"}
+{"Mitt Romney": "PER"}
+{"Norway": "LOC"}
+{}
+{"Rjukan": "LOC", "Vestfjord": "LOC"}
+{}
+{"Steinar Bergsland": "PER", "TV2": "ORG"}
+{}
+{}
+{"Martin Andersen": "PER"}
+{}
+{"Council": "ORG"}
+{"Viganella": "LOC"}
+{}
+{"Post AG": "ORG", "FDP": "ORG"}
+{"FDP": "ORG"}
+{"Hüttenfeld": "LOC"}
+{"Hofheim": "LOC", "Rosengarten": "LOC", "FDP": "ORG"}
+{"FDP": "ORG", "Fritz Röhrenbeck": "PER"}
+{}
+{}
+{"Thomas Bittner": "PER", "Liberal Party Parliamentary Group": "ORG", "Municipal Association": "ORG"}
+{}
+{"Neuschloß": "LOC", "Rosengarten": "LOC", "Bittner": "PER", "Röhrenbeck": "PER"}
+{}
+{"Röhrenbeck": "PER", "Council": "ORG"}
+{"Erich Maier": "PER"}
+{"Hofheim": "LOC"}
+{}
+{"Maier": "PER"}
+{"Frankfurt": "LOC"}
+{"Frankfurt": "LOC"}
+{"Stefan Majer": "PER", "Green Party": "ORG"}
+{}
+{}
+{"City Council": "ORG"}
+{"Retail Committee": "ORG", "Frankfurt Chamber of Industry and Commerce": "ORG"}
+{}
+{"Verkehrsclub Deutschland": "ORG", "German Traffic Club": "ORG"}
+{}
+{"Freudenstadt": "LOC"}
+{"Reutlingen": "LOC", "##G G": "ORG", "##nningen": "ORG", "Swabian Alb": "LOC"}
+{"Alb": "ORG"}
+{}
+{"Gönningen": "PER"}
+{"Simon Schenk": "PER", "Eduard Schulz": "PER"}
+{}
+{}
+{"TV Baiersbronn": "ORG", "Nagold": "LOC"}
+{"TSV Freudenstadt": "ORG", "Dominik Bäuerle": "PER", "Yannik Büchle": "PER", "Sebastian Dölker": "PER", "Felix Pälchen": "PER", "Stefan Räller": "PER", "Simon Schenk": "PER", "Eduard Schulz": "PER"}
+{"Baiersbronn": "LOC", "Freudenstadt": "LOC"}
+{}
+{}
+{"Marcus Blasutto": "PER", "TSV": "ORG"}
+{}
+{"Ibach": "LOC"}
+{"Helmut Kaiser": "PER"}
+{"Kaiser": "PER"}
+{}
+{}
+{}
+{"Department of Nature Conservation": "ORG", "Freiburg Regional Council": "ORG", "Tilman Bollacher": "PER"}
+{}
+{}
+{}
+{"Tribukait": "PER"}
+{}
+{}
+{"Christoph Wehle": "PER", "Life Project": "ORG", "Cornelia Bischoff": "PER"}
+{}
+{}
+{}
+{"Köpfler": "PER"}
+{"Löffingen": "LOC", "Baar": "LOC"}
+{"Norbert Brugger": "PER", "Dieter Köpfler": "PER", "Löffingen": "LOC"}
+{}
+{"Google": "ORG", "Samsung": "ORG", "Huawei": "ORG", "Nortel": "ORG"}
+{"Nortel": "ORG", "Google": "ORG"}
+{"Rockstar": "ORG", "Nortel": "ORG", "Samsung Electronics Co Ltd": "ORG", "HTC Corp": "ORG", "Huawei": "ORG", "U": "ORG", "Texas": "LOC"}
+{"Rockstar": "ORG", "Apple": "ORG", "Microsoft": "ORG", "Blackberry": "ORG", "Ericsson": "ORG", "Sony": "ORG"}
+{"Google": "ORG"}
+{"Google": "ORG"}
+{"Samsung": "ORG", "Huawei": "ORG", "HTC": "ORG", "Rockstar": "ORG"}
+{"Samsung": "ORG", "Huawei": "ORG", "HTC": "ORG", "Google": "ORG", "Apple": "ORG", "Microsoft": "ORG"}
+{"Google": "ORG", "Nortel": "ORG"}
+{"Google": "ORG"}
+{"Rockstar": "ORG", "Nortel": "ORG", "Google": "ORG", "Motorola Mobility": "ORG", "Motorola": "ORG"}
+{"Google": "ORG"}
+{"Rockstar": "ORG", "Google": "ORG"}
+{"Egypt": "LOC"}
+{"Mohamed Morsi": "PER", "Egypt": "LOC"}
+{"Mohamed Morsi": "PER", "Egypt": "LOC", "Hosni Mubarak": "PER"}
+{"Supreme Constitutional Court": "ORG", "Morsi": "PER", "Egypt": "LOC"}
+{}
+{"Egypt": "LOC", "Morsi": "PER"}
+{"Morsi": "PER", "Muslim Brotherhood": "ORG"}
+{"Morsi": "PER"}
+{"Mubarak": "PER"}
+{"Brotherhood": "ORG", "Mubarak": "PER"}
+{"Egypt": "LOC", "Morsi": "PER"}
+{"Morsi": "PER", "Cairo University": "ORG"}
+{}
+{"Hussein Tantawi": "PER"}
+{}
+{"Cairo University": "ORG"}
+{"Morsi": "PER", "Tahrir Square": "LOC", "Mubarak": "PER"}
+{}
+{"Morsi": "PER", "Tahrir Square": "LOC"}
+{}
+{"F": "ORG", "##enberg": "ORG", "Blue Velvet": "ORG"}
+{}
+{}
+{}
+{"Eggelsberg": "LOC"}
+{}
+{}
+{"Salzburg Regional Hospital": "LOC"}
+{"South Africa": "LOC"}
+{"South Africa": "LOC"}
+{"SABC": "ORG"}
+{}
+{"Johannes Kana": "PER"}
+{}
+{"Anene Booysen": "PER", "Bredasdorp": "LOC", "Capetown": "LOC"}
+{}
+{}
+{"Kana": "PER", "Booysen": "PER"}
+{}
+{}
+{"Kana": "PER"}
+{"South Africa": "LOC"}
+{"Germany": "LOC", "South Africa": "LOC"}
+{"South Africa": "LOC"}
+{"Black Forest": "LOC"}
+{"Jumbo": "PER", "Bonndorf": "LOC"}
+{}
+{}
+{"Uli": "PER", "Schwarzwald": "LOC", "Adler": "ORG"}
+{"Germany": "LOC", "Jumbo": "PER", "Black Forest": "LOC"}
+{}
+{"Jumbo": "PER"}
+{"Jumbo": "PER", "Waldshut": "LOC"}
+{"Black Forest": "LOC"}
+{}
+{"Uli": "PER"}
+{}
+{}
+{}
+{}
+{"Roberto Blanco": "PER", "Jumbo": "PER"}
+{}
+{}
+{}
+{"Black Forest": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Flight Centre": "ORG"}
+{"Australia": "LOC", "United Kingdom": "LOC"}
+{}
+{}
+{"Graham Turner": "PER", "Flight Centre": "ORG", "UK": "LOC"}
+{}
+{"Australia": "LOC", "United Kingdom": "LOC"}
+{"Australia": "LOC"}
+{"UK": "LOC", "Flight Centre": "ORG"}
+{"US": "LOC"}
+{"Flight Centre": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Department for Education": "ORG"}
+{}
+{"Ofqual": "ORG"}
+{"Michael Gove": "PER"}
+{}
+{"Singapore": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"W514": "ORG"}
+{}
+{}
+{}
+{"Hermann Arndt": "PER"}
+{}
+{}
+{"Pamela Anderson": "PER"}
+{"Pam": "PER", "Baywatch": "ORG"}
+{"Pamela Anderson": "PER"}
+{"Baywatch": "ORG"}
+{"LA": "LOC"}
+{}
+{"Pammy": "PER"}
+{}
+{"Salem": "LOC", "Johanna Rahner": "PER", "Ecumenical Discussion Forum": "ORG"}
+{"Neues Museum des Schlosses": "LOC", "New Castle Museum": "LOC"}
+{"Johanna Rahner": "PER"}
+{"Ecumenical Discussion Forum": "ORG", "Salem": "LOC", "Salem Castle": "LOC"}
+{"Johanna Rahner": "PER"}
+{}
+{}
+{}
+{"Johanna Rahner": "PER"}
+{}
+{"Johanna Rahner": "PER", "Baden - Baden": "LOC"}
+{"Freiburg": "LOC"}
+{"Westfalian Wilhelm ' s University": "ORG"}
+{"Johanna Rahner": "PER", "Institute for Catholic Theology": "ORG", "University of Ka": "ORG"}
+{"Kleiner Heuberg": "LOC"}
+{"Am Kleinen Heuberg": "ORG"}
+{"Laudato - Si Group": "ORG", "The Spirit": "ORG"}
+{}
+{"Reiner Dehner": "PER"}
+{"Untermachtal": "LOC"}
+{"Illmensee": "LOC"}
+{"Illmensee": "LOC"}
+{"Ulrich Knobel": "PER", "Illmensee Sports Club": "ORG"}
+{}
+{"Felix Bader": "PER", "Bad Waldsee": "LOC", "Pascal Treubel": "PER"}
+{}
+{"Felix Bader": "PER"}
+{"Pascal Treubel": "PER"}
+{"Theresa Duelli": "PER", "Team Albtraum": "ORG"}
+{"Anne Adel": "PER", "Leonie Treiber": "PER"}
+{}
+{}
+{}
+{}
+{}
+{"Philipp Pangerl": "PER", "Black Tusk Racing Team": "ORG"}
+{"Pangerl": "PER"}
+{}
+{"Roland Ballerstedt": "PER"}
+{}
+{"Pangerl": "PER"}
+{"Ballerstedt": "PER"}
+{"Hermann": "PER", "Warthmann": "PER"}
+{"Christiane Cohsmann": "PER"}
+{"Areane Blersch": "PER", "Natascha Werner": "PER"}
+{}
+{}
+{"Georges Bwelle": "PER", "Cameroon": "LOC"}
+{"Bwelle": "PER"}
+{}
+{}
+{"Georges Bwelle": "PER"}
+{}
+{}
+{"Georges Bwelle": "PER"}
+{"Jamef Bwelle": "PER", "Yaounde": "LOC", "Cameroon": "LOC"}
+{}
+{"Cameroon": "LOC", "Georges Bwelle": "PER"}
+{"Cameroon": "LOC"}
+{"Bwelle": "PER"}
+{"Bwelle": "PER"}
+{}
+{}
+{}
+{"Bwelle": "PER"}
+{"Cameroon": "LOC", "World Health Organization": "ORG"}
+{"United States": "LOC"}
+{}
+{}
+{"Bwelle": "PER"}
+{}
+{"Bwelle": "PER"}
+{"Georges Bwelle": "PER"}
+{"Yaounde": "LOC", "Central Hospital": "LOC"}
+{"ASCOVIME": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{"Bwelle": "PER"}
+{}
+{"Bwelle": "PER"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bwelle": "PER"}
+{}
+{"Bwelle": "PER"}
+{}
+{}
+{}
+{}
+{"Bwelle": "PER", "Yaounde": "LOC"}
+{}
+{"Katie O ' Malley": "PER", "Drexel University": "ORG", "Philadelphia": "LOC", "Bwelle": "PER"}
+{}
+{"O ' Malley": "PER", "United States": "LOC", "Europe": "LOC", "Bwelle": "PER"}
+{"Bwelle": "PER", "O ' Malley": "PER"}
+{"America": "LOC"}
+{"Cameroon": "LOC"}
+{"Yaounde": "LOC"}
+{"O ' Malley": "PER"}
+{"Cameroon": "LOC"}
+{"Bwelle": "PER"}
+{}
+{"Bwelle": "PER"}
+{}
+{}
+{}
+{"ASCOVIME": "ORG"}
+{}
+{"Santiago": "PER", "Hemingway": "PER", "Horst Janson": "PER"}
+{"Janson": "PER"}
+{"Santiago": "PER"}
+{}
+{"Manolo": "PER"}
+{"Santiago": "PER", "Janson": "PER"}
+{"Janson": "PER"}
+{"Hemingway": "PER"}
+{"Janson": "PER"}
+{}
+{}
+{"Jens Hasselmann": "PER"}
+{"Santiago": "PER", "Marie - Luise Gunst": "PER"}
+{}
+{}
+{"Cologne": "LOC"}
+{"Cologne": "LOC"}
+{"Europe": "LOC"}
+{}
+{"Rainer Schulze": "PER", "Cologne": "LOC"}
+{"Cologne Tourism Service Centre": "ORG"}
+{"Schulze": "PER"}
+{}
+{}
+{}
+{}
+{"Schulze": "PER"}
+{"Schulze": "PER"}
+{}
+{}
+{"Alps": "LOC", "CCAA": "ORG"}
+{"CCAA": "ORG"}
+{"Site of the Altars": "LOC"}
+{"' s Palace": "LOC", "Rhine": "LOC"}
+{}
+{"Schulze": "PER"}
+{"Schulze": "PER"}
+{}
+{}
+{}
+{}
+{"Town Hall Square": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bandidos": "ORG"}
+{"Finowfurt": "LOC"}
+{}
+{"Hell ' s Angels": "ORG"}
+{"Berlin": "LOC"}
+{}
+{}
+{}
+{}
+{}
+{"Federal Supreme Court": "ORG", "Public Prosecutor ' s Office": "ORG", "District Court": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Stefan Golfier": "PER", "Oder": "LOC", ") Public Prosecutor ' s Office": "ORG"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Obama": "PER"}
+{"Obama": "PER"}
+{}
+{"Obama": "PER"}
+{"Boston": "LOC"}
+{"Obama": "PER"}
+{}
+{}
+{}
+{"Sebelius": "PER", "House Energy and Commerce Committee": "ORG", "Washington": "LOC"}
+{"Sebelius": "PER"}
+{}
+{}
+{"Sebelius": "PER", "House": "ORG", "Billy Long": "PER", "Mo": "LOC"}
+{"Long": "PER", "Sebelius": "PER"}
+{"Jerusalem": "LOC"}
+{"CNN": "ORG", "Latakia": "LOC"}
+{"Hezbollah": "ORG", "CNN": "ORG"}
+{"Al - Arabiya": "ORG", "Latakia": "LOC"}
+{"Channel 2": "ORG", "Latakia": "LOC"}
+{"Jerusalem": "LOC"}
+{"Reuters": "ORG", "Israel": "LOC"}
+{"Ministry of Defence": "ORG"}
+{"Ron Ben - Yishai": "PER", "Yedioth Ahronoth": "ORG", "Hezbollah": "ORG"}
+{"Syria": "LOC", "Hezbollah": "ORG"}
+{"John Kerry": "PER", "US": "LOC"}
+{"John Kerry": "PER", "U": "LOC", "S": "LOC"}
+{"Barack Obama": "PER", "Edward Snowden": "PER", "NSA": "ORG"}
+{"US": "LOC"}
+{"London": "LOC", "Kerry": "PER"}
+{"U": "LOC", "S": "LOC"}
+{}
+{}
+{}
+{"Kerry": "PER", "NSA": "ORG"}
+{}
+{}
+{}
+{}
+{"U": "LOC", "S": "LOC", "Europe": "LOC", "Senate": "ORG"}
+{"Chris Murphy": "PER", "Connecticut": "LOC", "National Security Agency": "ORG"}
+{"U": "LOC", "S": "LOC", "Murphy": "PER", "Senate Foreign Relations Subcommittee": "ORG", "European Affairs": "ORG", "Washington": "LOC"}
+{"Europe": "LOC", "NSA": "ORG"}
+{"NSA": "ORG", "Europe": "LOC", "U": "LOC", "S.": "LOC", "United States": "LOC"}
+{"Snowden": "PER", "NSA": "ORG", "Angela Merkel": "PER"}
+{"James Clapper": "PER"}
+{"Murphy": "PER"}
+{}
+{}
+{"Murphy": "PER"}
+{}
+{"Murphy": "PER"}
+{"Kerry": "PER", "Middle East": "LOC", "Poland": "LOC", "U": "LOC", "S": "LOC", "Syria": "LOC", "Egypt": "LOC", "Iran": "LOC"}
+{"Nicolai Müller": "PER", "FSV Mainz": "ORG", "FC Augsburg": "ORG"}
+{"Nicolai Müller": "PER"}
+{}
+{}
+{"Thomas Tuchel": "PER"}
+{}
+{"Mainz": "ORG", "Niki Zimling": "PER", "Julian Baumgartlinger": "PER", "Niko Bungert": "PER"}
+{}
+{"Sydney": "LOC", "Phuket": "LOC"}
+{"Stevie Rochelle Bamford": "PER", "Phuket": "LOC"}
+{}
+{"Phuket": "LOC", "Bamford": "PER"}
+{}
+{"Bamford": "PER", "Phuket": "LOC"}
+{"Peter Tunks": "PER", "Department of Foreign Affairs": "ORG", "Canberra": "LOC"}
+{"Tunks": "PER", "Sydney": "LOC", "Sunday Telegraph": "ORG", "Australia": "LOC"}
+{"Tunks": "PER"}
+{"Bamford": "PER"}
+{"Australia": "LOC", "Krabi": "LOC", "Southern Thailand": "LOC"}
+{"Bamford": "PER", "Phuket": "LOC"}
+{"Michelle Smith": "PER", "Phuket": "LOC", "Thailand": "LOC"}

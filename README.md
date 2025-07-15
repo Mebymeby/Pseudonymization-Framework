@@ -20,26 +20,7 @@ Framework Diagram:
    - Download source code for evaluation metrics to `<project_path>/Metrics/`, or
    - Directly import the `evaluate` library in your code
 4. Install dependencies
-5. Execute the inference script from `<project_path>` directory
-    ```python
-    # Example command for squad dataset with ner_rand_direct scheme:
-    python main.py --dataset squad \
-                   --data_split validation \
-                   --data_size 1000 \
-                   --eval_model Qwen2.5-14B-Instruct \
-                   --eval_model_gpu 0 \
-                   --comment ner_rand_direct \
-                   --embedding_model all-mpnet-base-v2 \
-                   --ner_model ner_pipe \
-                   --ner_keys entity \
-                   --entity_score_threshold 0.8 \
-                   --entity_map_method ner_dict_select \
-                   --rep_gen_method str_replace \
-                   --recover_method str_replace
-    ```
-   For all available parameters, see `<project_path>/Utils/argparse_util.py`
-
-
+5. Execute the inference script from `<project_path>` directory. For all available parameters, see `<project_path>/Utils/argparse_util.py` and `run_cmd.md`
 
 ## Key Features
 - Pseudonymization framework for privacy preservation in remote LLM interactions
@@ -63,23 +44,5 @@ Framework Diagram:
 └── main.py               # Main execution script
 ```
 
-## Citation
-If you find this work useful, please cite our paper:
-```bibtex
-@misc{anonymous2024pseudonymization,
-  title         = {A General Pseudonymization Framework for Cloud-Based LLMs: Replacing Privacy Information in Controlled Text Generation},
-  author        = {Anonymous},
-  year          = {2025},
-  archivePrefix = {arXiv},
-  eprint        = {2502.15233},
-  primaryClass  = {cs.CL}
-}
-```
-
 ## License
 This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-For any inquiries, please:
-- Open an issue on GitHub
-- Contact the authors at: hou_work@yeah.net or longzi@sztu.edu.cn

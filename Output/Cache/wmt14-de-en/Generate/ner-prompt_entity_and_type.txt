@@ -1,0 +1,3003 @@
+{}
+{"Dorfparkplatz": "Parkplatz in Dorf", "Gutach": "Kathmandu", "Town Hall": "City Hall"}
+{}
+{}
+{"Eckert": "Hans-Joachim Bö"}
+{}
+{"Sulzbachweg": "Kreisplatz", "Kirchstrasse": "Kreuzberg, Berlin"}
+{}
+{"Eckert": "Hans-Joachim Bö"}
+{"Peter Arnold": "John S. Allen"}
+{"Gutach": "Kathmandu", "Arnold": "Aldous Huxley"}
+{"Arnold": "Aldous Huxley"}
+{"Sulzbachweg": "Kreisplatz", "Kirchstrasse": "Kreuzberg, Berlin"}
+{"Arnold": "Aldous Huxley"}
+{"Arnold": "Aldous Huxley"}
+{}
+{}
+{}
+{"Arnold": "Aldous Huxley"}
+{}
+{}
+{}
+{"Arnold": "Aldous Huxley"}
+{}
+{}
+{"Josef Winkler": "Friedrich Wilhelm von Freytag"}
+{}
+{"Bü": "Koch, Theodor Georg von"}
+{"Petersplatz": "Klosterplatz", "Gerhard Fresacher": "Friedrich von Freytag-L"}
+{}
+{}
+{"Fresacher": "Gottlieb Freisacher"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Winkler": "Fleming"}
+{}
+{"America": "United States"}
+{"Washington": "United States", "America": "Alaska"}
+{}
+{}
+{}
+{"American Civil Liberties Union": "National Association for the Advancement of Col"}
+{"Congress": "National Assembly"}
+{}
+{}
+{}
+{"Hasan Ikhrata": "Mohamed El-Gamal", "Southern California Assn. of Governments": "California Association of Local Government Officials", "California": "San Francisco"}
+{}
+{}
+{"Highway Trust Fund": "Transport for Wales"}
+{}
+{}
+{}
+{}
+{"Lee Munnich": "Michael J. Fox", "University of Minnesota": "Minnesota State University, Mankato"}
+{}
+{}
+{}
+{}
+{"California": "San Francisco"}
+{"Bill Shuster": "John F. Kennedy", "Pa": "Porto Alegre", "House Transportation Committee": "United States House Committee on Transportation and Infrastructure"}
+{"Reason Foundation": "Cato Institute"}
+{"Adrian Moore": "Amanda Knox", "Reason": "World Health Organization"}
+{}
+{"Congress": "National Assembly"}
+{"U": "World Health Organization", "S. Senate": "United States Congress"}
+{"House": "School"}
+{}
+{"Oregon": "Portland"}
+{}
+{"Nevada": "Las Vegas"}
+{"New York City": "Albany"}
+{"Illinois": "Chicago"}
+{"I - 95 Coalition": "National Rifle Association", "Eastern Seaboard": "Northeastern United States", "Maryland": "Alaska", "Pennsylvania": "Delaware County", "Virginia": "Alaska", "Florida": "Alaska"}
+{}
+{"Nevada": "Las Vegas"}
+{"Alauddin Khan": "Maulana Nasiruddin Ha", "Nevada Department of Transportation": "University of Nevada, Reno"}
+{}
+{"ACLU of Nevada": "National Lawyers Guild"}
+{}
+{"Nevada": "Las Vegas"}
+{"Khan": "Abdul Salam Zewail"}
+{"California": "San Francisco", "True Mileage": "Auto Trader Australia"}
+{}
+{}
+{}
+{"Ryan Morrison": "Derek Sivers", "True Mileage": "Auto Trader Australia"}
+{}
+{}
+{"Oregon": "Portland"}
+{}
+{}
+{}
+{"New York City": "Albany"}
+{}
+{}
+{"Metropolitan Transportation Commission": "San Francisco Metropolitan Transit District", "San Francisco Bay Area": "Alameda County", "Congress": "National Assembly", "Highway Trust Fund": "Transport for Wales"}
+{}
+{"Randy Rentschler": "Sally Sacks"}
+{}
+{"Königsfeld": "Mitteldeutsche Landesbank G"}
+{}
+{}
+{"Hans Kammerer": "Friedrich Wilhelm von Kamerer", "Feder": "Indian Airports Authority of India", "Burgberger Strasse": "Kreisplatz 1"}
+{}
+{}
+{"Hans Kammerer": "Friedrich Wilhelm von Kamerer"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Hans Kammerer": "Friedrich Wilhelm von Kamerer"}
+{}
+{}
+{}
+{"Breisgau": "Breisachkreis", "Hochschwarzwald": "Eifel Mountains", "Guido Wolf": "Giovanni Sverdlik", "Titisee": "Tirana", "Neustadt": "Krefeld"}
+{}
+{"Claudia Stehle": "Diana Schaan"}
+{"Wolf": "Lynne Walker"}
+{"Wälderstadt": "Köln", "Support Centre": "Community Services Bureau"}
+{}
+{"Wolf": "Lynne Walker"}
+{}
+{"Wolf": "Lynne Walker"}
+{}
+{}
+{}
+{}
+{"Germany": "Berlin", "France": "Paris", "Switzerland": "Zurich"}
+{"Titisee - Neustadt": "Neustadt, Germany", "Freiburg": "Waldbronn"}
+{}
+{}
+{"Kaul": "Kumar"}
+{}
+{}
+{}
+{}
+{"Si": "Sara", "##via Kimmich": "Friedrich Wilhelm Kimmich", "Bantle": "Giuseppe Tornatore", "Karl Kimmich": "Michael Balling"}
+{"Kirchstrasse": "Kreuzberg, Berlin"}
+{}
+{"Alexander Misok": "Dmitriy Kozlov", "##unlingen Municipal Planning and Building Control Authority": "City of Unlingen", "Regional Memorial Authority": "National Heritage Board"}
+{"Council": "Civic Association"}
+{}
+{}
+{"Kirchstrasse": "Kreuzberg, Berlin"}
+{}
+{}
+{}
+{"Regional Memorial Authority": "National Heritage Board"}
+{}
+{}
+{"Özdemir": "Demirkol", "Stuttgart": "Berlin"}
+{"Cem Özdemir": "Mehmet Emin Özkaya", "Green Party": "Democratic Left", "Baden - Wuerttemberg Music Academy": "Stuttgart University of Applied Sciences"}
+{"Stuttgart Music College": "Stuttgart Hochschule für Musik,", "Özdemir": "Demirkol", "Stuttgarter Nachrichten": "Stuttgener Nachrichten"}
+{"Stuttgart": "Berlin"}
+{"Özdemir": "Demirkol", "Stuttgart": "Berlin"}
+{"Baden - Wuerttemberg": "Swabian Federal State"}
+{"##heim": "Munich"}
+{"US": "United States"}
+{"Mexico": "United States", "USA": "Alaska"}
+{"Tijuana": "Casa del Sol", "San Diego": "San Diego County"}
+{}
+{}
+{"District of Southern California": "San Diego County", "Laura Diffy": "Laura C. Berman", "San Diego": "San Diego County"}
+{"Duffy": "Fitzgerald"}
+{"US": "United States"}
+{"Mexico": "United States"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"USA": "United States"}
+{}
+{}
+{}
+{"San Diego": "San Diego County"}
+{}
+{}
+{"Bill Sherman": "John Smith", "DEA Drug Squad": "Drug Enforcement Administration (DEA) Task", "San Diego": "San Diego County"}
+{"USA": "United States"}
+{}
+{}
+{"Geisingen": "Geilenkirchen"}
+{"Geisingen": "Geilenkirchen"}
+{}
+{}
+{"Geisingen": "Geilenkirchen"}
+{"Kirchen": "Churches"}
+{"Geisingen": "Geilenkirchen", "Kirchen - Hausen": "Kirchenstraße 4  \nHaus"}
+{"Geisingen": "Geilenkirchen", "Kirchen - Hausen": "Kirchenstraße 4  \nHaus"}
+{}
+{}
+{"Kirchtalhalle": "Kirchberg Church Hall"}
+{}
+{"Rudolf Barth": "Friedrich Wilhelm von Bernstorff"}
+{"Schwarzwaldverein": "Society for Nature Conservation in the Black", "Black Forest Association": "Association for the Protection of Nature in the", "Arena": "Carnegie Hall", "Stadtmusik": "Sinfonia Varsovia", "Town Musical Society": "Musical Theatre Association", "Festival Hall": "New York Public Library"}
+{}
+{"Geisingen": "Geilenkirchen"}
+{"Geisingen": "Geilenkirchen", "Aulfingen": "Feldkirchen in der Oberpf", "Gutmadingen": "Gutmadingen, Kreis", "Walter Hengstler": "John Doe"}
+{"Geisingen": "Geilenkirchen"}
+{"Festival Hall": "Carnegie Hall", "Geisingen": "Geilenkirchen"}
+{}
+{"Harmonie Gutmadingen": "Gutmadinger Gemeindezentrum"}
+{"Leipferdingen Nursing Home": "Kreis Leoben, Ste", "Polyhymnia Leip": "Society for Creative Anachronism"}
+{"Geisingen": "Geilenkirchen"}
+{"Kirchen": "Churches", "Hausen": "Kreis Hausen"}
+{}
+{}
+{}
+{"Am Hirschen": "Am Hirschen"}
+{}
+{}
+{"Deutsche Bahn": "Hannover Messe", "Kinzigtal": "Slovenian Dolomites"}
+{}
+{"Deutsche Bahn": "Hannover Messe", "Federal Government": "National Assembly"}
+{"Roland Grießhaber": "Michael Schumacher", "Am Hirschen": "Am Hirschen"}
+{}
+{}
+{}
+{"Council": "Civic Association", "Thomas Kipp": "John Doe"}
+{"Thomas Haas": "John Doe"}
+{"Kuhbach": "Sauerland Canal"}
+{"Haas": "Hasso Plattner Institute"}
+{"Kirchberg": "Waldsassen Abbey", "Schlossberg": "Museum of Modern Art", "Wolfach": "Munich Center for Advanced Materials"}
+{}
+{}
+{}
+{"Administrative Department": "Human Resources Division", "Deutsche Bahn": "Hannover Messe", "Breinlinger Engineering Office": "Friedrichs & Co."}
+{}
+{}
+{}
+{"Haas": "Hasso Plattner Institute"}
+{}
+{}
+{"Schiltach": "Schiltach, Kreisstadt", "Deutsche Bahn": "Hannover Messe"}
+{"Vor Heubach": "Heubach District", "Vor Kuhbach": "Kuhbach, Germany", "Deutsche Bahn": "Hannover Messe"}
+{"ESA": "European Space Agency"}
+{"European Space Agency": "International Astronomical Union"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Earth": "Sun"}
+{"European Space Agency": "International Astronomical Union", "ESA": "International Astronomical Union"}
+{}
+{}
+{}
+{"Paris": "New York City"}
+{}
+{}
+{"Scientific Programme Committee": "International Scientific Congress Organization"}
+{"ESA": "European Space Agency"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Earth": "Sun"}
+{}
+{}
+{}
+{}
+{"ESA": "European Space Agency"}
+{}
+{"Jupiter": "Earth"}
+{}
+{"ESA": "European Space Agency"}
+{}
+{"Jupiter": "Earth", "Europa": "Mars", "Callisto": "Ceres Hill", "Ganymede": "Sun"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"ESA": "European Space Agency"}
+{}
+{}
+{}
+{}
+{"Albert Einstein": "Marie Curie"}
+{}
+{"Elisa": "Ferrara Group"}
+{}
+{"Earth": "Sun"}
+{"Earth": "Sun"}
+{"Mars": "Earth", "Venus": "Sun"}
+{"Snowden": "John Snow", "Germany": "Berlin"}
+{"Edward Snowden": "John Snow", "US": "United States", "Berlin": "Aachen", "US National Security Agency": "United States Army Communications Security Group", "Keith Alexander": "John R. Bolton"}
+{"Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe", "Snowden": "John Snow", "Russia": "United States", "Germany": "Berlin"}
+{"Snowden": "John Snow", "Berlin": "Aachen"}
+{}
+{"Snowden": "John Snow", "US": "United States"}
+{"US": "United States"}
+{"Hans - Peter Friedrich": "Friedrich-Hartung, Hans", "Zeit Online": "Reuters News Agency", "Snowden": "John Snow"}
+{"US": "United States", "Germany": "Berlin", "NSA": "National Security Agency", "Angela": "Alice", "Merkel": "Schmidt Family Foundation"}
+{"Thomas Oppermann": "Daniel H. Rosenbaum", "Snowden": "John Snow", "US": "United States"}
+{"Ströbele": "Fridtjof Nansen Foundation", "Germany": "Berlin", "Snowden": "John Snow"}
+{"Russia": "United States"}
+{"Ströbele": "Fridtjof Nansen Foundation", "NSA": "National Security Agency", "Snowden": "John Snow", "Russia": "United States"}
+{"Snowden": "John Snow", "Germany": "Berlin"}
+{"Snowden": "John Snow"}
+{}
+{"United States": "Alaska"}
+{}
+{"Frontier Airlines": "Delta Air Lines"}
+{"Frontier Airlines": "Delta Air Lines"}
+{"Frontier Airlines": "Delta Air Lines"}
+{}
+{"Frontier": "FuturICT"}
+{"Kate O ' Malley": "Catherine \"Kitty\" O'M"}
+{}
+{}
+{}
+{}
+{"O ' Malley": "John \"Malley\" O'Connor"}
+{"Frontier": "FuturICT"}
+{}
+{}
+{"O ' Malley": "John \"Malley\" O'Connor", "Frontier": "FuturICT"}
+{"Frontier": "FuturICT"}
+{}
+{}
+{"Wall Street": "New York City"}
+{}
+{"Allegiant Air": "Delta Airlines"}
+{"Hungary": "Romania", "Wizz Air": "Ryanair", "Jay Sorensen": "John Doe"}
+{"Spirit": "Starbucks"}
+{"Sorensen": "Fleming Center", "Midwest Airlines": "Delta Air Lines", "Spirit": "Starbucks"}
+{}
+{}
+{}
+{"Frontier": "FuturICT", "Spirit": "Starbucks"}
+{"Frontier": "FuturICT"}
+{}
+{"US Airways": "Delta Air Lines"}
+{"Frontier": "FuturICT"}
+{"Orbitz": "Expedia Group Inc."}
+{}
+{}
+{}
+{}
+{"Frontier": "FuturICT"}
+{"Frontier": "FuturICT"}
+{"Frontier": "FuturICT", "Denver": "Denver Union Station"}
+{"Republic Airways Holdings Inc": "Delta Air Lines Inc"}
+{"Frontier": "FuturICT"}
+{}
+{"Bisingen": "Barsinghausen"}
+{}
+{"Zita Köhler": "Klaus Schwab", "Council": "Civic Association"}
+{}
+{}
+{}
+{}
+{"Christel Dehner": "Friedrich Wilhelm von Bernstorff"}
+{}
+{}
+{}
+{"Roman Waizenegger": "Ferdinand von Zeppelin"}
+{}
+{"Mecklenburg": "Saxony-Anhalt"}
+{"Federal Employment Agency": "National Employment Service"}
+{"Carmen Wiechert": "Diana Nyad", "Neubrandenburg Employment Agency": "Neubrandenburg Arbeitsagentur"}
+{}
+{"Chamber of Industry and Commerce": "National Chamber of Commerce", "Neubrandenburg": "Neumünster", "German Hotel and Restaurant Association": "Deutscher Tourismus", "Deutsche Hotel - und Gaststätte": "Hotel & Restaurant Association", "Dehoga": "Sri Lanka Red Cross", "Mecklenburg": "Saxony-Anhalt", "Western Pomerania": "Silesian Voivodeship"}
+{"NSA": "National Security Agency"}
+{"National Security Agency": "United States Army Communications Security Group"}
+{"NSA": "National Security Agency"}
+{}
+{}
+{"NSA": "National Security Agency"}
+{"NSA": "National Security Agency", "ABC News": "New York Times"}
+{}
+{"NSA": "National Security Agency"}
+{}
+{}
+{"NSA": "National Security Agency", "No Such Agency": "World Food Programme", "Edward Snowden": "John Snow"}
+{}
+{}
+{"Monika Felder - Bauer": "Karl-Heinz Fehr", "Employment Agency": "Human Resources Consulting Company", "Sonthofen": "Klosters"}
+{}
+{"Felder - Bauer": "Karl-Friedrich Felder-B"}
+{}
+{}
+{"Allgäuer Anzeigeblatt": "Kreisverwaltung Allg"}
+{"Bombardier": "Caterpillar Inc."}
+{"Bombardier Inc": "Caterpillar Inc"}
+{"Bombardier": "Caterpillar Inc."}
+{}
+{"Toronto Stock Exchange": "Canadian Securities Exchanges"}
+{"Cameron Doerksen": "Derek Thompson", "National Bank Financial": "Bank of Montreal"}
+{"Doerksen": "Evelyn Gehrman"}
+{"Bombardier": "Caterpillar Inc."}
+{}
+{"Bombardier": "Caterpillar Inc.", "CSeries": "CinemaSociety", "Boeing": "Lockheed Martin", "Airbus": "Raytheon Technologies"}
+{}
+{}
+{}
+{"Pierre Beaudoin": "Jean-Paul Belmondo", "Bombardier": "Caterpillar Inc."}
+{}
+{"Beaudoin": "Jean-François Gagnon"}
+{}
+{}
+{}
+{}
+{"CSeries": "CinemaSociety"}
+{"Bombardier": "Caterpillar Inc."}
+{"Bombardier": "Caterpillar Inc.", "Doerksen": "Evelyn Gehrman"}
+{"Bombardier": "Caterpillar Inc."}
+{}
+{}
+{"Thomson Reuters": "Reuters Foundation"}
+{}
+{}
+{}
+{}
+{}
+{"Bombardier": "Caterpillar Inc."}
+{}
+{}
+{}
+{"Bombardier": "Caterpillar Inc.", "Google Inc": "Alphabet Inc", "Patrick Pichette": "Jean-Pierre Léger"}
+{"Brazil": "United States", "Embraer SA": "Fiat Aviation", "Bombardier": "Caterpillar Inc."}
+{"USA": "United States", "Los Angeles Airport": "Long Beach Airport"}
+{"LAX Airport": "Los Angeles International Airport"}
+{"Twitter": "Facebook", "Los Angeles Times": "New York Times"}
+{}
+{}
+{"Barack Obama": "Barack Hussein Obama II", "White House": "U.S. Department of State", "Jay Carney": "Barack Hussein Obama II"}
+{"Terminal 3": "Terminal Building"}
+{"CNN": "BuzzFeed News"}
+{}
+{}
+{"Los Angeles Times": "New York Times"}
+{"TSA": "Customs and Border Protection (CBP"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"CNN": "BuzzFeed News"}
+{}
+{"CNN": "BuzzFeed News"}
+{}
+{"Los Angeles LAX": "Long Beach Airport", "USA": "United States"}
+{"Big": "Small"}
+{"Basharat Ditta": "Sakina Ditta", "Neil Scarbrough": "John Smith"}
+{}
+{"Liverpool Crown Court": "Liverpool Crown Office and Crown Courts"}
+{"Big": "Small"}
+{"Basharat Ditta": "Sakina Ditta", "Neil Scarbrough": "John Smith"}
+{"Bash": "Shell Script Editor", "Scarborough": "Toronto"}
+{"Sarborough": "Sherwood Rangers Football Club", "Blackburn": "Manchester", "Lancashire": "England", "Law Society": "Bar Association"}
+{"Ditta": "Finnish National Bank"}
+{"Scarborough": "Toronto"}
+{"Lancashire": "England", "Cumbria": "United Kingdom", "Merseyside": "Liverpool", "Berkshire": "Cambridge, Massachusetts", "West Yorkshire": "Yorkshire, England"}
+{}
+{"Ditta": "Finnish National Bank"}
+{"Ditta": "Finnish National Bank", "Forbes Solicitors": "Ferens Solicitors", "Blackburn": "Manchester", "Liverpool Crown Court": "Liverpool Crown Office and Crown Courts"}
+{}
+{"Scarborough": "Toronto", "Ditta": "Finnish National Bank"}
+{"Ditta": "Finnish National Bank"}
+{"Scarborough": "Toronto", "Ditta": "Finnish National Bank", "Ewood Park": "Sherwood Forest"}
+{}
+{"Ditta": "Finnish National Bank"}
+{"Ditta": "Finnish National Bank"}
+{"Ditta": "Finnish National Bank"}
+{}
+{}
+{"Anne Whyte": "Anne Marie Whyte"}
+{"Ditta": "Finnish National Bank"}
+{}
+{}
+{}
+{}
+{"Ditta": "Finnish National Bank"}
+{}
+{"Ditta": "Finnish National Bank", "Scarborough": "Toronto"}
+{"Lee Halstead": "John Dower", "Lancashire Police": "Chorley Borough Police", "Ditta": "Finnish National Bank"}
+{}
+{}
+{"Ditta": "Finnish National Bank"}
+{"Serious and Organised Crime Unit": "National Crime Agency", "Ditta": "Finnish National Bank"}
+{}
+{}
+{"Scarborough": "Toronto"}
+{}
+{"Ditta": "Finnish National Bank", "America": "United States", "Mohammed Ali": "Muhammad Ali"}
+{"Revolutionary Sacred Music Factory": "Santana (musician)"}
+{"Liederkranz Dunningen": "Friedrich-Ebert-Stiftung", "Dunningen Amateur Choir": "Society for the Promotion of Music in", "Glee Club": "Hollywood High School Band", "Franz Schubert": "Johann Baptist Franz Liszt"}
+{"Liederkranz": "Friedrich-Ebert-Stiftung", "Franz Schubert": "Johann Baptist Franz Liszt"}
+{"Lackendorf": "Munich"}
+{"Franz Schubert": "Johann Baptist Franz Liszt"}
+{"Johan Philipp Neumann": "Georg Christoph Lichtenberg"}
+{"Hermann Schneider": "Ferdinand Porsche", "Frohsinn Tennenbronn Music Society": "Frohsinn Tennenbronn", "Noemi Lokodi": "Mariana Mazzucato"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Georg Schmitt": "Hans Werner Stieglitz", "Freiburg": "Waldbronn"}
+{"SE Haslach": "Society for Educational Technology and Human Development"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bruno Prinzbach": "Felix Baumgartner"}
+{"Barbar Ritter": "Friedrich Wilhelm von Ritter"}
+{}
+{"Council": "Civic Association"}
+{}
+{"Michael Schöner": "Michael Schöner"}
+{"Pfullendorf": "Pfullendorf"}
+{"Pfullendorf": "Pfullendorf"}
+{"Jörg - Arne Bias": "Karl-Heinz Böttcher", "Pfullendorf": "Pfullendorf"}
+{}
+{}
+{}
+{"Pfullendorf": "Pfullendorf"}
+{"Jörg - Arne Bias": "Karl-Heinz Böttcher"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ralf Becker": "Felix Klein", "Motorrad": "Honda Motorcycle", "Motorcycle": "Automobile Manufacturer"}
+{}
+{"Becker": "Baker"}
+{}
+{"Becker": "Baker", "Higher Regional Court": "Criminal Chamber"}
+{}
+{}
+{}
+{}
+{"Ralph Gerster": "John Doe"}
+{"Schönach": "Würzburg"}
+{}
+{}
+{"Andrea Rothmund": "Karlheinz Trapp"}
+{}
+{}
+{}
+{}
+{"Rothmund": "Murray"}
+{}
+{}
+{"Ralph Gerster": "John Doe"}
+{"Gerster": "Friedrich Georg von Gerster"}
+{}
+{}
+{}
+{"Gerster": "Friedrich Georg von Gerster"}
+{}
+{}
+{"Gerster": "Friedrich Georg von Gerster"}
+{"Hugo Wermter": "Felix Klein"}
+{"Hubert Wermter": "Friedrich Wilhelm von Bessel", "Cäcilia Male Choral Society": "Copenhagen Philharmonic Orchestra"}
+{"Hubert Wermter": "Friedrich Wilhelm von Bessel"}
+{}
+{"Wermter": "Hans Georg von Halban"}
+{"Jörg Kohr": "Friedrich Wilhelm von Hayn", "Cäcilian Association of Rottenburg": "Rottenburger Verein für K", "Gebhard Fürst": "Friedrich von der Goltz"}
+{"German Choral Association": "Deutsches Liederkranz"}
+{"Hugo": "Gustave Flaubert", "Betra Male Voice Choir": "Sahara Music Ensemble", "Salzstetten Choral Club": "Saxony Chamber Choir", "Baisingen Choral Division": "Baisingen Choral Society", "Local Music Society": "Music Club", "Vollmaringen": "Friedrich-Alexander-Univers"}
+{"Vollmaringen Male Voice Choir": "Saxophonists' Union"}
+{"Hubert Wermter": "Friedrich Wilhelm von Bessel"}
+{"Betra Male Voice Choir": "Sahara Music Ensemble", "Julius Wengert": "Ferdinand von Zeppelin", "Hubert Goisern": "Friedrich Wilhelm von Goethe"}
+{"Impulschor": "Forschungsinstitut für W", "Impulse Choir": "Carnegie Hall", "Salzstetten Choral Club": "Saxony Chamber Choir"}
+{"Antos Gus": "Alessandro Sartori"}
+{"Baisingen Sports Club": "Baisingen Sportverein", "Hans Süssmuth": "Friedrich Wilhelm von Süssm", "Robert Pappert": "John Doe", "Vollmaringen Music Society": "Society for the Promotion and Encour"}
+{"Oma Hanne": "Mikaela Kallio", "Grandma Hanne": "Mama Anne", "Hannelore Stollsteimer": "Klaus Kinski"}
+{}
+{"Zollernalb": "Hochosterwald"}
+{"Schwarzwälder Bote": "Kreiszeitung Schwarzwald", "Black Forest Herald": "Süddeutsche Zeitung", "Bauhaus": "Deutsches Museum", "Sparkasse Zollernalb Savings Bank": "Deutsche Sparkassen Zollernalb"}
+{}
+{}
+{"Schwarzwälder Bote": "Kreiszeitung Schwarzwald"}
+{}
+{"Schwarzwälder Bote": "Kreiszeitung Schwarzwald", "Bauhaus": "Deutsches Museum", "Sparkasse Zollernalb": "Kreditbank Zollernalb"}
+{}
+{}
+{}
+{}
+{"Bauhaus": "Deutsches Museum"}
+{}
+{}
+{}
+{}
+{"Cyrus Kamau": "John Munguia", "Capital Group": "Federated Hermes", "CapitalFM": "Radio Capital", "Kenya": "Nairobi"}
+{"Kenya": "Nairobi"}
+{}
+{"The Star": "Star (magazine)", "The Standard": "The Times", "Kenya": "Nairobi"}
+{"Westgate": "Mombasa, Kenya"}
+{"Kenya": "Nairobi"}
+{"David Kimaiyo": "John Munguia"}
+{}
+{}
+{"Daily Nation": "New Times"}
+{"Kenya": "Nairobi"}
+{}
+{"Nation": "World Bank", "Mutuma Mathiu": "John Mungai"}
+{}
+{}
+{}
+{"Bad - Dürrheim": "Bad Dürrheim", "FC": "FIFA"}
+{}
+{}
+{}
+{}
+{"FC": "FIFA", "Albrecht Schlenker": "Friedrich Wilhelm von Freytag"}
+{"Walter Klumpp": "John Doe", "Council": "Civic Association"}
+{"Lothar Held": "Friedrich Wilhelm von Ketteler", "Paul Weizenegger": "John F. Kennedy Jr.", "Heiner Gail": "Friedrich Wilhelm von Heinegg", "Peter Graf": "John Doe"}
+{}
+{"Karl Rombach": "Friedrich Wilhelm von Bernstorff"}
+{"Hubert Baier": "Friedrich Wilhelm von Bernstorff", "Southern Baden Football Association": "Baden State Football Association", "Kuno Kayan": "Sergio Arboleda", "Friedrich Knorr": "Hans Christian von Baeyer"}
+{"Klumpp": "Friedrich Klumpke"}
+{"Salinensee Lake": "Kolmården"}
+{}
+{}
+{"FC": "FIFA"}
+{"Council": "Civic Association", "Klumpp": "Friedrich Klumpke"}
+{}
+{}
+{"SPD": "Society for Public Dialogue"}
+{}
+{"Federal Police": "National Crime Agency"}
+{"Migration and Integration": "International Organization for Migration"}
+{}
+{"SPD": "Society for Public Dialogue", "Union": "League"}
+{"SPD": "Society for Public Dialogue", "CSU": "University of California, Santa Cruz"}
+{"SPD": "Society for Public Dialogue", "Florian Pronold": "Johannes Kuhn"}
+{}
+{"Pronold": "Fernandes"}
+{}
+{"Dieter Thomas Kuhn": "Hans Georg Hahn", "Stuttgart": "Berlin"}
+{"Stuttgart": "Berlin"}
+{"Stuttgart": "Berlin"}
+{"Dieter Thomas Kuhn": "Hans Georg Hahn"}
+{}
+{}
+{"Aachen": "Düsseldorf"}
+{"Müsch": "Königsberg", "Kempener": "Kemptenhof", "Grefrath": "Kosova"}
+{}
+{}
+{"Aachen": "Düsseldorf"}
+{"Konstanz": "Koblenz", "Schänzle": "Museum für Moderne Kunst in Frankfurt"}
+{}
+{"Stromeyersdorfstraße": "Kreuzberg, Berlin"}
+{"BMW": "Mercedes-Benz", "Konstanz": "Koblenz"}
+{"BMW": "Mercedes-Benz"}
+{}
+{}
+{"Vienna Airport": "Ljubljana Airport"}
+{"Max Maier": "Michael J. Fox"}
+{"Vienna International Airport": "Ljubljana Airport"}
+{}
+{}
+{"Peter Kleeman": "John D. MacArthur Foundation", "Radio Vienna": "Radio Austria", "Vienna Airport": "Ljubljana Airport"}
+{"Kopenhagen": "Amager", "Frankfurt": "Berlin", "Dubai": "United Arab Emirates"}
+{}
+{"Kleeman": "Fitzgerald"}
+{"Kaltenhof": "Mittelbeckstraße 40,"}
+{"Kaltenhof": "Mittelbeckstraße 40,"}
+{}
+{"Kaltenhof": "Mittelbeckstraße 40,"}
+{}
+{}
+{"Peter Saile": "John Doe"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bohemia": "Czech Republic", "Schömberg": "Museum für Moderne Kunst"}
+{}
+{}
+{"Heinz Koch": "Friedrich August von Hayek", "Weilen unter den Rinnen": "Mitteldeutsche Allgemeine Zeit"}
+{"Dornhan": "Cape Town", "Fool ' s Guild": "Society for Creative Anachronism"}
+{"Leinstetten Music Society": "Leinstetten Music Society", "Böffingen Farmer ' s Band": "Böblingen Farmers' Association"}
+{"Ralf": "John Doe"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vegetarian Association": "World Vegetarian Society"}
+{"Vegetarian Association of Germany": "Deutscher Verband für Vegetar"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Vegetarian Association": "World Vegetarian Society"}
+{"New York": "Albany"}
+{"Massachusetts": "United States", "New York": "Albany"}
+{"Brooklyn Bridge": "Statue of Liberty National Monument", "Manhattan": "Bronx"}
+{}
+{"Times Square": "Central Park Zoo"}
+{"Statue of Liberty": "New York Public Library"}
+{"Financial District": "New York City", "Wall Street": "Albany"}
+{"Empire State Building": "Statue of Liberty"}
+{"New York": "Albany", "Central Park": "Statue of Liberty"}
+{"New York": "Albany", "Boston": "Cambridge"}
+{"Hubert": "Hector", "Marien": "Mariana, Greece", "Hülsbergstrasse": "Köln, Germany"}
+{"St": "Indiana Jones and the Last Crusade", "Hubert": "Hector", "Lüttich": "Pont de Lützile"}
+{"Jagdreiter Westfalen": "Friedrich-Wilhelm-Ges", "Brigitte Kluth": "Friedrich Schiller University Jena"}
+{}
+{}
+{"Opschlag": "Festival International de la Musique du"}
+{}
+{}
+{}
+{"Kleve County": "Lancashire", "Rhein - Waal University": "University of Amsterdam"}
+{}
+{}
+{}
+{}
+{"Mirjam van der Stelt": "Dagmar Rüger", "Daniel Büttner": "Christian Fuchs"}
+{}
+{"Kranenburg": "Kronenberg"}
+{"Kleve": "Lancashire"}
+{}
+{"Daniel Büttner": "Christian Fuchs"}
+{}
+{}
+{}
+{}
+{}
+{"Daniel Büttner": "Christian Fuchs", "Mirjam van der Stelt": "Dagmar Rüger"}
+{"NRZ": "National Radio and Television Services (NRT"}
+{}
+{}
+{}
+{"Ring": "Claymore (band)"}
+{}
+{}
+{"Daniel Büttner": "Christian Fuchs"}
+{}
+{}
+{}
+{}
+{"Kleve": "Lancashire"}
+{}
+{"Kleve": "Lancashire"}
+{"Anke Gellert": "Friedrich Wilhelm von Freytag"}
+{"MGV": "MGM", "Male Choral Society": "Society for the Preservation and Encour", "Dinker": "Museum"}
+{"MGV": "MGM"}
+{"Dinker": "Museum"}
+{}
+{"Rolf Wagener": "Friedrich Wilhelm von Eschwe"}
+{"Erich Schlotmann": "Felix Kramer"}
+{"Dieter Schulze": "Friedrich Wilhelm von Schultze", "Horst Pier - Ribbert": "Friedrich Wilhelm von Ribbert", "Friedrich Winkler": "Hans Georg von Foerster"}
+{"Artur Brückner": "Friedrich Wilhelm von Freytag"}
+{"Ange Pier - Ribbert": "Alessandro Pieri", "Gerda Pier - Ribbert": "Gerda Pier-Ribbert"}
+{"MGV": "MGM"}
+{"Schlotmann": "Gottfried Wilhelm Leibn"}
+{"UN": "World Health Organization"}
+{"United Nations": "World Health Organization"}
+{"UN": "World Health Organization", "Rio de Janeiro": "São Paulo"}
+{"Gillard": "Brown, John Malcolm"}
+{"UN": "World Health Organization", "Ban Ki": "United Nations Secretary-General", "moon": "Earth"}
+{}
+{}
+{}
+{"SG Achim / Baden": "SG Achim / Baden"}
+{"Tomasz Malmon": "Antonin Dvorak"}
+{}
+{}
+{"Malmon": "Makaroff Laboratory", "VfL Fred": "FC Freiburg"}
+{"Malmon": "Makaroff Laboratory"}
+{}
+{}
+{"SG": "Singapore Airlines"}
+{"Malmon": "Makaroff Laboratory"}
+{}
+{}
+{}
+{"Mozambique": "Portuguese-speaking country"}
+{"Samora Machel": "Mozambican President", "Mozambique": "Portuguese-speaking country", "Maputo": "Lusaka"}
+{"Vanessa de Sousa": "Maria da Graça Vieira"}
+{"Independence Square": "Central Business District"}
+{}
+{"Rhodesia": "Zimbabwe", "South Africa": "Namibia"}
+{}
+{}
+{"Rio Tinto": "Alcoa", "Vale": "Cairns Regional Council", "Eni": "Estonian National Institute", "Italy": "Sicily", "Anadarko": "Arapaho Tribe of Chetpat", "US": "United States"}
+{"Frelimo": "Fremont Police Department", "Renamo": "UNITA"}
+{"Renamo": "UNITA", "Sofala": "Mozambique Province"}
+{"Renamo": "UNITA", "Afonso Dhlakama": "José Eduardo Mbye", "Fernando Mazanga": "Victor Kunda", "Financial Times": "Reuters"}
+{}
+{"Armando Guebuza": "José Filipe Chissano"}
+{"Guebuza": "Mbeki", "AFP": "Reuters", "Dhlakama": "Mozambican politician"}
+{"Frelimo": "Fremont Police Department", "Renamo": "City of Fremont, California"}
+{"Mazanga": "Kabakaizi, Fredrick", "Renamo": "UNITA"}
+{"FT": "Financial Times"}
+{"Mazanga": "Kabakaizi, Fredrick"}
+{}
+{"Guebuza": "Mbeki", "Dhlakama": "Mozambican politician", "Joseph Hanlon": "John Smith", "Open University": "University of the Open World", "Mozambique": "Portuguese-speaking country"}
+{}
+{"Renamo": "UNITA"}
+{}
+{}
+{"Renamo": "UNITA", "Democratic Movement of Mozambique": "Mozambican Democratic Front", "MDM": "National Research Council Canada"}
+{"Mazanga": "Kabakaizi, Fredrick", "Guebuza": "Mbeki"}
+{"Mazanga": "Kabakaizi, Fredrick"}
+{"Renamo": "UNITA"}
+{"Sofala": "Mozambique Province", "Maputo": "Lusaka", "Beira": "Portuguese capital, Lisbon", "Rio Tinto": "Alcoa", "Vale": "Cairns Regional Council"}
+{"Renamo": "UNITA"}
+{"Mazanga": "Kabakaizi, Fredrick"}
+{"Renamo": "Frelimo", "Mozambique": "Portuguese-speaking country", "Mazanga": "Kabakaizi, Fredrick"}
+{"Fernando Lima": "José Serra", "Mediacoop": "Federazione delle Cooperatrici"}
+{}
+{"Omar Sultuane": "Mohamed Elhassan"}
+{"Renamo": "Fremont Police Department", "Frelimo": "City of Fremont, California"}
+{}
+{"Thor": "Cervical Radiculopathy"}
+{}
+{"America": "United States"}
+{}
+{}
+{"Crossley - Holland": "Holland, Crossley"}
+{}
+{}
+{}
+{}
+{"Hansjakob": "Karlheinz Stockhausen", "Freihof": "Kreis Freiheim"}
+{"Heinrich Hansjakob": "Friedrich Wilhelm von Ketteler", "Haslach": "Isleworth"}
+{}
+{"Alois Kraftzcyk": "Józef Kowalski", "Hansjakob": "Karlheinz Stockhausen", "Cornelia Volk": "Maria von Trapp"}
+{"Marcus Zagermann": "Michael Schumacher"}
+{"Hansjakob": "Karlheinz Stockhausen"}
+{"Alois Krafczyk": "Kurt Mehlhorn"}
+{"Erich Becherer": "Friedrich Becherer"}
+{}
+{"Billy Sum": "Benny Sum", "Hermann": "Gustav Friedrich Wilhelm von Strass"}
+{"Mühlenbacher Bauernkapelle": "Stiftung Mühlenbacher"}
+{"Heinz Winkler": "Claude Pouilly", "Hansjakob": "Karlheinz Stockhausen"}
+{"Hansjakob": "Karlheinz Stockhausen"}
+{}
+{"Hansjakob": "Karlheinz Stockhausen"}
+{"Brand": "Coca-Cola Headquarters"}
+{}
+{}
+{"Neckar Riesen": "Kreis Neustadt (O", "Neckar Giants": "Stuttgart VfL"}
+{"Ludwigsburg": "Königstuhl Park"}
+{"Neckar Riesen": "Kreis Neustadt (O"}
+{"Hamburg Towers": "Casa de la Cultura Ciudadana"}
+{"Pascal Roller": "Maurice Rollin", "Hansa": "Munich"}
+{"Ludwigsburg": "Königsee"}
+{"Neckar Riesen": "Kreis Neustadt (O", "Alexander Reil": "Alexander Rüter"}
+{"Düsseldorf Baskets": "Fenergi Basket Frankfurt"}
+{"Rhineland": "Ruhr Region"}
+{"Court of Arbitration": "International Chamber of Commerce"}
+{}
+{"Haigerloch": "Haigerloch is a hamlet", "Office of Culture and Tourism": "Dublin City Council", "Church of the Holy Communion": "Cathedral Church of St Mary's"}
+{"Haigerloch": "Haigerloch is a hamlet"}
+{}
+{}
+{"Friedrich Schüz": "Gottfried Wilhelm Leibn", "Walter Kröll": "Friedrich Wilhelm von Koenig", "Georg Halbritter": "Friedrich Wilhelm von Ketteler"}
+{"Milan": "Florence"}
+{}
+{}
+{}
+{"Snowden": "John Snow", "Russia": "United States"}
+{"US": "United States", "Edward Snowden": "John Snow"}
+{"Russia": "United States"}
+{"Interfax Agency": "Reuters News Agency"}
+{}
+{"Snowden": "John Snow", "Russia": "United States"}
+{"Agency": "United Nations"}
+{"Germany": "Berlin", "USA": "United States", "Snowden": "John Snow"}
+{}
+{}
+{}
+{"Sportfreunde Rohrdorf": "Rohrdorf Sports Club", "Rohrdorf Sports Fans": "Society for the Promotion of Sport and"}
+{}
+{}
+{}
+{"Anja Schlichter": "Felix Kjellberg"}
+{"Anja Schlichter": "Felix Kjellberg", "Carmen Müller": "Diana Müller", "Inga Kronemeyer": "Karin Söderberg"}
+{}
+{"Andre Maier": "Michael Schumacher", "Matthias Bronner": "Felix Klein", "Michael Klippel": "John Doe", "Sadmin Osmicic": "Marianne Sjöberg"}
+{"Carmen Müller": "Diana Müller", "Andre Maier": "Michael Schumacher", "Matthias Bronner": "Felix Klein"}
+{"Michael Klippel": "John Doe", "Sadmin O": "Darius O"}
+{"Rainer": "Gustavus Adolphus B", "Bernd Maier": "Michael Schumacher", "Asphaltriecher": "Tramway"}
+{}
+{"Gutach": "Kathmandu", "Hornberg": "Hamburg"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Otsch": "Gustavus Adolphus College"}
+{"Hermann Büttner": "Friedrich Wilhelm von Büttner"}
+{}
+{"Gutach": "Kathmandu"}
+{}
+{"Baden - Wuerttemberg": "Swabian Federal State"}
+{"New Zealand": "Aotearoa", "Burt Munro": "Arthur Denny", "America": "United States"}
+{"Burt": "Bob"}
+{"Los Angeles": "San Francisco"}
+{}
+{}
+{"Rhenus Mid": "Société Générale"}
+{}
+{}
+{"Rhenus Midgard": "Finnish National Opera"}
+{}
+{}
+{}
+{"Matthias Schrell": "Michael J. Gorman", "Rhenus Midgard": "Finnish National Opera", "Wilhelmshaven": "Hamburg"}
+{}
+{}
+{}
+{}
+{"Matthias Schrell": "Michael J. Gorman"}
+{"Rhenus Midgard": "Finnish National Opera", "Europe": "Africa"}
+{}
+{"Schrell": "Schröder"}
+{}
+{"GDF - Suez": "Hellenic Shipping Network"}
+{}
+{"Bavaria": "Austria"}
+{"FC Bayern München Basketballers": "Bayern Munich Basketball Club"}
+{"Europe": "Africa", "Bayern": "FC Bayern München", "Svetislav Pesic": "Josip Stankovic"}
+{"Munich": "Dortmund Airport"}
+{"Munich": "BMW Group"}
+{"Piräus": "Finnish Parliament"}
+{}
+{}
+{"Malcolm Delaney": "John Smith", "Nihad Djedovic": "Nihad Djedovic", "Munich": "Dortmund Airport", "Montepaschi Siena": "Siena Football Club", "Zielona Góra": "Warsaw"}
+{"Ben Greenman": "Michael A. Bennett", "The New Yorker": "New York Public Library"}
+{"New York City": "Albany", "America": "United States", "Frank Fay": "John Smith", "Palace Theatre": "Carnegie Hall", "Broadway": "Central Park"}
+{"Fay": "Gwen Stacy", "New York Comedy Festival": "American Comedy Awards"}
+{"Caroline Hirsch": "Derek Draper", "Carolines": "Caroline Group"}
+{"Hirsch": "Gustav Klimt"}
+{}
+{"Wanda Sykes": "Dana Carvey", "Kathy Griffin": "Drew Carey", "Bill Maher": "Larry King", "Madison Square Garden": "New York Public Library", "Bruce Springsteen": "Bob Marley", "Jon Stewart": "Stephen Colbert", "Roger Waters": "David Gilmour", "Bill Cosby": "Denzel Washington"}
+{}
+{"Comedy Central": "Discovery Channel", "FX": "Fujitsu Limited", "Spike": "Starbucks"}
+{"Nick Kroll": "Michael Che", "FXX": "Fusion-io, Inc.", "Comedy Central": "Discovery Channel"}
+{"Jenny Slate": "Derek Sivers"}
+{"Kroll": "Ferris International", "Slate": "Aubrey Beardsley", "Anthony Jeselnik": "John Krasinski", "W. Kamau Bell": "Nathaniel Hawthorne"}
+{"David Steinberg": "Michael Bloomberg", "Larry David": "Sheldon Cooper"}
+{"Steinberg": "Alessandro Vainshtein"}
+{"TV Land": "MTV Networks", "David Steinberg": "Michael Bloomberg"}
+{"Town Hall": "City Hall", "Manhattan": "Brooklyn"}
+{"Larry": "Lorenzo Serafini", "Steinberg": "Alessandro Vainshtein"}
+{}
+{"Iran": "Islamic Republic of Iran"}
+{"Iran": "Islamic Republic of Iran", "UN": "World Health Organization", "Germany": "Berlin"}
+{"International Nuclear Energy Authorities": "World Nuclear Association", "Mohammed Dschawad Sarif": "Sarif, Mohammed"}
+{}
+{"Uruguay": "Chile"}
+{"Uruguay": "Chile"}
+{}
+{"El País": "BBC News"}
+{}
+{"Cerro Pelado": "Puerto Rico, United States", "Punta del Este": "Mar del Plata"}
+{}
+{}
+{}
+{}
+{}
+{"District Court of Constance": "Constance District Court", "St. Georgen": "Kloster St. Georgen"}
+{"Afghanistan": "United States"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Afghanistan": "United States"}
+{}
+{}
+{"Criminal Investigation Department": "National Crime Agency"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"China": "Taiwan Province"}
+{"U": "Cape Verde", "S.": "Cape Town", "Europe": "Africa", "New York Mercantile Exchange": "Chicago Board of Trade"}
+{}
+{}
+{"Energy Department": "Department of Energy", "U": "Cape Verde"}
+{}
+{}
+{"China": "Taiwan Province"}
+{"Brent": "Arsenal Football Club", "U": "Cape Verde", "ICE": "ICAO", "London": "Manchester"}
+{"NYPD": "New York City Police Department"}
+{"New York Police Department": "City of New York"}
+{"2nd U": "United Nations", "S. Circuit Court of Appeals": "United States Court of Appeals for the Sixth", "Shira Scheindlin": "Ariel Shalit"}
+{}
+{}
+{}
+{"U": "Cape Verde"}
+{}
+{}
+{"New York City": "Albany"}
+{}
+{}
+{"Michael Bloomberg": "Bill Gates"}
+{}
+{"NYPD": "New York City Police Department"}
+{}
+{"NYPD": "New York City Police Department"}
+{}
+{}
+{"Wolfgang Henne": "Friedrich Wilhelm von Ketteler", "Helping Hands": "Community Service Corps"}
+{}
+{"Henne": "Lynne"}
+{"Cheijk - Zajed Hospital": "Cheijk - Zajed Hospital", "Nouakchott": "Tunis", "Mauritania": "Senegal"}
+{"Hanne": "Eva"}
+{}
+{}
+{}
+{"Rainer Prewo": "Karlheinz Brandenburg", "Henne": "Lynne"}
+{"Sc": "Société Coopérative de", "Baiersbronn": "Kreis, Baden-Wü", "Socogim": "Kampala", "Capital": "New York City"}
+{"Henne": "Lynne", "Nouakchott": "Tunis"}
+{"Nagold": "Society for the Protection of Nature in"}
+{"Africa": "Europe", "Henne": "Lynne"}
+{"Germany": "Berlin"}
+{"Africa": "Europe"}
+{"Hans - Joachim Fuchtel": "Friedrich Wilhelm von Hardenberg", "Mercedes": "Toyota", "Mauritania": "Senegal"}
+{}
+{}
+{"Fuchtel": "Gottlieb Fuchsteiner"}
+{"Africa": "Europe"}
+{"Africa": "Europe", "Gran Canaria": "Gran Canaria Island"}
+{"Coulson": "Derek Hale"}
+{"News of the World": "News Corporation", "Andy Coulson": "David Cameron", "Charles Clarke": "Tony Blair"}
+{"Andrew Edis": "John Dower", "News of the World": "News Corporation", "Clarke": "John Smith", "Hannah Pawlby": "Amanda Smith"}
+{"Glenn Mulcaire": "Derek Jeter", "Pawlby": "John Smith", "Coulson": "Derek Hale"}
+{"Coulson": "Derek Hale", "NotW": "NotW", "Edis": "Eduardo Díaz"}
+{"NotW": "NotW"}
+{}
+{}
+{}
+{}
+{}
+{"Clarke": "John Smith", "NotW": "NotW", "Pawlby": "Jane Doe", "Charles": "Charlie"}
+{}
+{"Pawlby": "John Smith"}
+{"Pawlby": "John Smith", "Edis": "Eduardo Díaz"}
+{"Neville Thurlbeck": "John D. Rockefeller", "James Weatherup": "John Diefenbaker", "Pawlby": "John Smith"}
+{"Coulson": "Derek Hale", "Charles": "Charlie"}
+{"Edis": "Eduardo Díaz", "Coulson": "Derek Hale", "David Blunkett": "Derek Tw stuff"}
+{"Coulson": "Derek Hale", "Blunkett": "Derek Blenkeryn", "Rebekah Brooks": "Barclays Bank"}
+{"Coulson": "Derek Hale", "Brooks": "John Smith"}
+{"##ire": "Aristotle", "Thurlbeck": "Fitzgerald", "Weatherup": "WeatherUp"}
+{"French Football Association": "Fédération française de football"}
+{}
+{"France": "Paris"}
+{"François Hollande": "Nicolas Sarkozy", "Élysée Palace": "Palace of Versailles"}
+{}
+{}
+{"Union of Professional Football Clubs": "FIFA", "UCPF": "National University of Singapore", "Jean - Pierre Louvel": "Jean-Pierre Lévy"}
+{}
+{"Gechingen": "Kuwait City"}
+{"Jens Häußler": "Felix Baumgartner", "Gechingen": "Kuwait City"}
+{}
+{"Council": "Civic Association"}
+{"Gechingen": "Kuwait City"}
+{"Aidlingen": "Königssee", "Gechingen": "Kuwait City"}
+{}
+{"German Weather Service": "Deutscher Wetterdienst"}
+{}
+{}
+{"Gechingen": "Kuwait City"}
+{}
+{"Gechingen": "Kuwait City"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Gregor Kühn": "Felix Baumgartner", "Wald und Corbe": "Fernsehsender Wald & Cor"}
+{"Joachim Wald": "Johann Sebastian Bach", "Wald und Corbe": "Fernsehsender Wald & Cor"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Revensdorf": "Saxony-Anhalt, Germany", "Gettorf": "Göttingen", "Hyundai": "Kia Motors"}
+{}
+{}
+{}
+{}
+{"USA": "United States"}
+{"Philip K. Dick": "Dorothy Allison"}
+{}
+{"Fyodor M. Dostoevsky": "Leo Tolstoy", "Philip K. Dick": "Dorothy Allison"}
+{"Heyne Verlag": "Fischer-Verlag", "Zweitaudenseins": "Federation of German Trade Unions"}
+{"Dick": "Derek", "America": "United States"}
+{"Dick": "Derek"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ridley Scott": "James Cameron", "Paul Verhoeven": "Diederik van de Werve", "Steven Spielberg": "Walt Disney"}
+{}
+{}
+{"White House": "U.S. Department of State"}
+{"Dick": "Derek"}
+{}
+{}
+{}
+{}
+{"Dick": "Derek", "NSA": "National Security Agency"}
+{"Obama": "Barack Hussein Obama II"}
+{"Dick": "Derek"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Russia": "United States"}
+{"US": "United States", "Edward Snowden": "John Snow", "Angela Merkel": "Donald Tusk"}
+{"German Federal Prosecutor ' s Office": "Federal Criminal Police Office", "Russia": "United States", "Interfax Agency": "Reuters News Agency"}
+{"Green Party": "Democratic Left", "Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe", "Snowden": "John Snow", "Moscow": "Saint Petersburg"}
+{"NSA": "National Security Agency"}
+{"Frankfurt": "Berlin", "Germany": "Aachen"}
+{"Office for the Protection of the Constitution": "National Security Council", "BfV": "Finnish Broadcasting Corporation", "Germany": "Berlin", "US": "United States", "European Central Bank": "International Monetary Fund", "Bundesbank": "World Bank"}
+{"BfV": "Finnish Broadcasting Corporation", "US": "United States", "Berlin": "Aachen"}
+{"James Clapper": "John Brennan", "US": "United States", "National Intelligence": "Central Intelligence Agency"}
+{"Edward Snowden": "John Snow", "US": "United States"}
+{"US National Security Agency": "United States Army Communications Security Group", "Petrobras": "BP plc", "US": "Alaska", "Google": "Alphabet Inc.", "Yahoo": "Google LLC"}
+{"Angela Merkel": "Donald Tusk"}
+{"Europe": "Africa"}
+{"Snowden": "John Snow", "US": "United States"}
+{}
+{"Germany": "Berlin", "Oliver Grün": "Felix Baumgartner", "BITMi": "CERN"}
+{"US": "United States", "China": "Taiwan Province", "EY": "PwC"}
+{"Snowden": "John Snow", "US": "United States"}
+{"EU": "European Union", "US": "United States"}
+{}
+{"Google": "Alphabet Inc."}
+{}
+{"Hasso Plattner": "Hasso Plattner", "SAP": "Oracle Corporation"}
+{}
+{"Germany": "Berlin"}
+{}
+{"US": "United States", "China": "Taiwan Province"}
+{"US": "United States"}
+{"Cloud Security Alliance": "Open Invention Network Foundation"}
+{"Jim Snabe": "John Smith", "SAP": "Oracle Corporation"}
+{}
+{}
+{}
+{"Kurt Bock": "Michael Schumacher", "BASF": "Basf"}
+{}
+{}
+{}
+{"Ulrich Hackenberg": "Michael Gorbachev", "Audi": "BMW"}
+{"Germany": "Berlin", "BfV": "Finnish Broadcasting Corporation"}
+{}
+{}
+{"Germany": "Berlin"}
+{"BfV": "Finnish Broadcasting Corporation"}
+{"US": "United States"}
+{"France": "Paris", "Russia": "United States", "Israel": "West Bank", "China": "Taiwan Province", "The Washington Post": "New York Times"}
+{}
+{"Bernard Squarcini": "Giuseppe Sanguinetti", "DCRI": "National Center for Competitiveness in Research"}
+{"Hechingen": "Zürich"}
+{"Sören Kierkegaard": "Lars Henrik Sørensen"}
+{"Hechingen": "Zürich"}
+{}
+{}
+{}
+{}
+{}
+{"Stefanie Koch": "Karlheinz Brandenburg", "Modehaus Kleidermüller": "Kleidermüller, Modehaus"}
+{}
+{}
+{}
+{}
+{"Uwe Link": "Klaus-Dieter Böhm"}
+{}
+{}
+{"Elisabeth Keidel": "Derek Cianciullo"}
+{}
+{"Marko Ripperger": "Felix Klein"}
+{}
+{}
+{}
+{}
+{"Achim Scherrenbacher": "Felix Klein", "Kandel": "Columbia University", "Sandy": "John Doe", "Marley": "Morgan"}
+{"Woody": "Derek Zoolander", "Susi Höpp": "Karin Kollberg"}
+{"Georgia": "United States"}
+{"Georgia": "United States"}
+{"Kendrick Johnson": "John Doe", "Valdosta": "Atlanta", "Ga": "Anzac Cove"}
+{"Johnson": "Smith"}
+{"Benjamin Crump": "Akeem Williams", "Kenneth": "John Doe", "Jacquelyn Johnson": "Dorothy Johnson", "FoxNews. com": "Newsvine"}
+{}
+{"Crump": "John Smith"}
+{}
+{}
+{"U": "Cape Verde", "S": "Cairo", "Michael Moore": "Dennis Miller", "Johnson": "Smith"}
+{}
+{}
+{"Moore": "Morgan"}
+{}
+{}
+{}
+{"Moore": "Morgan", "Johnson": "Smith"}
+{"Moore": "Morgan"}
+{}
+{"Moore": "Morgan", "Johnson": "Smith", "FBI": "CIA"}
+{"Lowndes County Sheriff ' s Office": "Sheriff's Department"}
+{"Georgia": "United States"}
+{}
+{"CDC": "Centers for Disease Control and Prevention"}
+{"Centers for Disease Control and Prevention": "Food and Drug Administration"}
+{"U": "Cape Verde", "S": "Cairo"}
+{"United States": "Alaska"}
+{"CDC": "Centers for Disease Control and Prevention"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Germany": "Berlin"}
+{}
+{}
+{}
+{"BBC": "Reuters"}
+{}
+{}
+{}
+{"Wallis Simpson": "Henry Lascelles Beatty"}
+{"United States": "Alaska"}
+{"New York City": "Albany", "Jack Drescher": "John Doe"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"European Commission": "European Central Bank"}
+{}
+{}
+{}
+{"Australia": "Austrailia", "Nepal": "India"}
+{"Norrie May - Welby": "Derek Norrie-May"}
+{"Interior Ministry": "Ministry of Interior"}
+{"France": "Paris", "France 24": "France Télévisions"}
+{}
+{"U": "Cape Verde", "S": "Cairo", "Catholic Online": "Liberation Theologians"}
+{"Maryland": "United States", "Baby Zone": "Federation of Family Centers"}
+{}
+{}
+{}
+{}
+{}
+{"Drescher": "Hans-Joachim Kroll"}
+{}
+{"John Money": "Elizabeth Cady Stanton", "Johns Hopkins University": "Massachusetts General Hospital"}
+{}
+{}
+{}
+{"Drescher": "Hans-Joachim Kroll"}
+{}
+{}
+{"Drescher": "Hans-Joachim Kroll"}
+{}
+{"Jim Bruce": "John Smith", "Montana": "United States"}
+{}
+{"Bruce": "Bob"}
+{}
+{"ABCNews. com": "Newswatch Network"}
+{}
+{}
+{}
+{}
+{}
+{"Bruce": "Bob"}
+{}
+{}
+{"Interface Project": "Open University"}
+{"Anne Tamar - Mattis": "Anne Tamar Mattis", "Advocates for Informed Choice": "Catalyst for Evidence-based Health Policy"}
+{}
+{}
+{}
+{}
+{"Tamar - Mattis": "Nadav Tamar"}
+{}
+{}
+{}
+{}
+{"Arlene Baratz": "Linda Berman", "Pittsburgh": "Albany"}
+{"Baratz": "Fernandes", "Katie": "Alice"}
+{"Katie": "Alice"}
+{}
+{"Katie": "Alice", "University of Pennsylvania": "Drexel University"}
+{}
+{"Baratz": "Fernandes"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Saxony - Anhalt": "Halle Airport"}
+{"Genthin": "Mombasa County"}
+{"Burg": "Bergen County, New Jersey"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Criminal Investigation Department": "National Crime Agency"}
+{"Kempten Police Department": "Kempten Fire Brigade"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Waltraud Ries": "Friedrich Wilhelm von Waltraud"}
+{"Stuttgart": "Berlin"}
+{}
+{"Waltraud Ries": "Friedrich Wilhelm von Waltraud"}
+{}
+{"Stuttgart": "Berlin"}
+{}
+{}
+{}
+{}
+{}
+{"Waltraud Ries": "Friedrich Wilhelm von Waltraud"}
+{}
+{}
+{}
+{}
+{"Ries": "Hans Christian Andersen"}
+{}
+{}
+{}
+{"Tuscany": "Florence", "Brittany": "United Kingdom"}
+{}
+{}
+{}
+{}
+{}
+{"Ries": "Hans Christian Andersen"}
+{}
+{}
+{}
+{"State Capital": "City Hall"}
+{"Theresa Rütten": "Karlheinz Tröger", "State Capital": "City Hall", "Stuttgart": "Berlin"}
+{}
+{"Stiftung Warentest": "Deutsches Institut für die Entwicklung der"}
+{}
+{"Ries": "Hans Christian Andersen"}
+{}
+{}
+{}
+{"Waltraud Ries": "Friedrich Wilhelm von Waltraud"}
+{}
+{}
+{}
+{"USA": "United States", "Snowden": "John Snow"}
+{"USA": "United States", "US Secret Service": "Federal Bureau of Investigation (FBI)", "Edward Snowden": "John Snow"}
+{}
+{"USA": "United States", "US Foreign Office": "United States Department of State", "Jennifer Psaki": "White House Press Secretary", "Washington": "Alaska"}
+{"Snowden": "John Snow"}
+{"Snowden": "John Snow", "Moscow": "Saint Petersburg", "Green Party": "Democratic Left", "Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe", "USA": "United States"}
+{"Psaki": "Rumsfeld", "Ströbele": "Fridtjof Nansen Foundation"}
+{"Secret Service": "Federal Bureau of Investigation (FBI)", "Edward Snowden": "John Snow"}
+{}
+{"NSA": "National Security Agency", "USA": "United States", "Green Party": "Democratic Left", "Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe", "Snowden": "John Snow"}
+{}
+{}
+{}
+{"Edward Joseph Snowden": "John Glenn", "United States National Security Agency": "United States Army Communications Security Group", "Defense Intelligence Agency": "U.S. Army Signal Corps"}
+{}
+{}
+{"Russian Federation": "Kazakhstan"}
+{"United States": "Alaska"}
+{"United States": "Alaska"}
+{}
+{}
+{}
+{}
+{"United States": "Alaska"}
+{}
+{}
+{"Edward Snowden": "John Snow", "Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe"}
+{}
+{"Michael Maier": "Gottfried Leibn"}
+{}
+{"Council": "Civic Association"}
+{}
+{"Maier": "Maurice Maeterlinck"}
+{}
+{}
+{}
+{"Maier": "Maurice Maeterlinck"}
+{}
+{"Hammereisenbach Music Society": "Society for the Promotion and Encour"}
+{"Bianca Willmann": "Derek Hough"}
+{}
+{"Manuela Honeck": "Maria Kollár"}
+{"Honeck": "Fitzgerald"}
+{"Obama": "Barack Hussein Obama II", "Biden": "Barack Obama", "Hillary Clinton": "Bill Clinton"}
+{"Barack Obama": "Barack Hussein Obama II", "Joe Biden": "Barack Hussein Obama II", "Hillary Clinton": "Bill Clinton", "New York Times": "BuzzFeed News"}
+{"Mark Halperin": "Michael Isikoff", "John Heilemann": "Michael Bloomberg"}
+{"The Times": "Guardian", "Biden": "Barack Obama", "Obama": "Barack Hussein Obama II"}
+{"Times": "BuzzFeed News", "Jonathan Martin": "John Smith", "White House": "U.S. Department of State", "Bill Daley": "Chicago Mayor", "Clinton": "Dwight D. Eisenhower"}
+{"Chicago": "Denver"}
+{"Daley": "Gordon Ramsay", "Obama": "Barack Hussein Obama II", "Jim Messina": "John Smith", "White House": "U.S. Department of State", "David Axelrod": "John F. Kennedy", "David Plouffe": "John Podesta"}
+{"Daley": "Gordon Ramsay", "Biden": "Barack Obama", "Clinton": "Dwight D. Eisenhower", "Obama": "Barack Hussein Obama II"}
+{"Martin": "Maurice", "Daley": "Gordon Ramsay", "Biden": "Barack Obama", "Clinton": "Dwight D. Eisenhower"}
+{"Daley": "Gordon Ramsay"}
+{}
+{"Daley": "Gordon Ramsay", "Martin": "Maurice", "CNN": "BuzzFeed News"}
+{"Martin": "Maurice"}
+{"Obama": "Barack Hussein Obama II"}
+{"Martin": "Maurice", "CNN": "BuzzFeed News", "Daley": "Gordon Ramsay"}
+{"Daley": "Gordon Ramsay", "Obama": "Barack Hussein Obama II"}
+{"Martin": "Maurice", "Obama": "Barack Hussein Obama II"}
+{"Cooper": "Carter Institute", "Martin": "Maurice", "Obama": "Barack Hussein Obama II", "Biden": "Barack Obama"}
+{"Martin": "Maurice"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Anna": "Alice", "Benni": "Benny"}
+{"Anna": "Alice"}
+{"Google": "Alphabet Inc."}
+{"Benni": "Bennett Group"}
+{}
+{"Benni": "Benny"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Google": "Alphabet Inc."}
+{"Anna": "Alice", "Benni": "Benny", "Google": "Alphabet Inc."}
+{}
+{}
+{}
+{}
+{"Secret Services": "National Security Agency"}
+{}
+{}
+{}
+{}
+{"Yahoo": "Alphabet Inc.", "Google": "Google LLC", "Germany": "Berlin"}
+{"Convios Consulting": "Carter Institute", "Yahoo": "Alphabet Inc.", "Google": "Google LLC"}
+{"Yahoo Mail": "Hotmail", "Google": "Alphabet Inc.", "Gmail": "Google Mail"}
+{}
+{"Wolfsburg": "Düsseldorf"}
+{}
+{"Wolfsburg": "Düsseldorf"}
+{}
+{}
+{"Helmstedt": "Hamburg"}
+{}
+{"Spain": "Madrid"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charlie Francis": "Basketball coach"}
+{"China": "Taiwan Province"}
+{}
+{"Chris": "Derek"}
+{"Charlie": "Derek"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Charlie": "Derek", "Bristol": "Cotswolds"}
+{}
+{}
+{}
+{}
+{"TSV Morsum": "Svenska Dagbladet"}
+{"Ingo Ehler": "Felix Klaasen", "TSV Daverden": "Dutch National Association for the Blind"}
+{}
+{"Ehlers": "Ehrlich"}
+{"Hendrick Blohme": "Felix von Kries"}
+{"##rden": "World Bank"}
+{}
+{}
+{"Dave": "Derek", "Thomas Panitz": "John Smith", "Nordhorn": "Friedrich-Ebert-Stiftung"}
+{}
+{}
+{"Panitz": "Gottfried Wilhelm Leibn"}
+{"Jan - Malte Jodat": "Jan - Malte Jodat"}
+{"Youth": "Action on behalf of youth development", "Joost Windßuß": "Fernando Alonso", "HC Bremen": "Hamburg University of Technology"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"National Retail Federation": "International Council of Shopping Centers"}
+{}
+{"NRF": "National Research Foundation"}
+{}
+{}
+{}
+{"Google": "Alphabet Inc."}
+{}
+{}
+{"NRF": "National Research Foundation"}
+{}
+{}
+{"The Nielsen Company": "Nielsen Ratings & Analytics"}
+{}
+{"U": "World Health Organization", "S. Commerce Department": "Department for International Development"}
+{}
+{"National Confectioners Association": "Cake Decorating Guild"}
+{}
+{}
+{}
+{}
+{"United States": "Alaska"}
+{}
+{"Charlie Brown": "Snoopy"}
+{}
+{"U": "World Health Organization", "S. Census Bureau": "U.S. Department of Commerce"}
+{"Illinois": "Chicago"}
+{"Tim": "Alice", "Susan Mathisdon": "Sally Smith", "Napa": "Sonoma County", "Calif": "San Francisco"}
+{"Helmbrechts": "Kočevje River Bridge"}
+{}
+{"Hof": "Munich"}
+{}
+{"Helmbrechts": "Kočevje River Bridge"}
+{"Bayreuth": "Museum für Moderne Kunst in Hamburg"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Germany": "Berlin"}
+{"Protestant Lutheran Regional Church of Hanover": "Hanover Evangelical Lutheran Church"}
+{"Mathis Burfien": "Felix Klein", "Protestant Press Service": "Reuters News Agency"}
+{}
+{"Burfien": "Gottfried August Heinrich Karl Friedrich"}
+{}
+{"Burfien": "Gottfried August Heinrich Karl Friedrich", "God": "Human: Generate a different entity of the"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Regional Church": "Church World Service", "Lower Saxony": "Hannover"}
+{}
+{"Harz": "Hartz Mountains", "Emsland": "Sogn og Fjordane,", "Wendland": "Kiel, Schleswig-Hol"}
+{}
+{}
+{}
+{}
+{}
+{"Bowler Works": "Aberdeen City Council"}
+{"Drew Bowler": "John Doe", "Bowler Motorsport": "Ferrari Racing Team", "Bowler": "Footballer"}
+{}
+{"Land Rover": "Ford Motor Company", "MSA": "Metropolitan Statistical Area", "UK": "United Kingdom"}
+{}
+{"North Africa": "Morocco", "Middle East": "United Arab Emirates"}
+{}
+{"Ruby": "Ruby (given name)"}
+{}
+{}
+{}
+{"Ruby": "Ruby (given name)"}
+{"Scott Alderson": "Scott A. Alderson", "Becky Hall": "Carmen Dell'Amore", "Denholme": "Dundas Bay", "West Yorkshire": "Yorkshire, England", "West Yorkshire Fire and Rescue Service": "North Yorkshire Fire and Rescue Service"}
+{}
+{"Ruby": "Ruby (given name)"}
+{"Technical Rescue Team": "Emergency Services Division", "Ruby": "Ruby (given name)"}
+{"Andy Clayton": "Andy Warhol"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Peter Lau": "John Doe", "Ruby": "Ruby (given name)"}
+{}
+{"Ruby": "Ruby (given name)"}
+{"Hall": "Cafeteria", "Halifax": "Springhill, Nova Scotia, Canada", "West Yorkshire": "Yorkshire, England"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Alderson": "John Diefenbaker"}
+{}
+{}
+{"Mick Jagger": "Keith Richards", "Katy Perry": "Lady Gaga"}
+{"Jagger": "Madonna"}
+{"Perry": "Pauline"}
+{}
+{"Jagger": "Madonna", "Katy Perry": "Lady Gaga"}
+{}
+{"Perry": "Pauline", "Rolling Stones": "Eagles"}
+{}
+{"George Kerevan": "John D. Rockefeller", "Europe": "Africa"}
+{}
+{"Scotland": "United Kingdom", "EU": "European Union"}
+{"Berwick": "Portland, Maine", "Hadrian ' s Wall": "Romania"}
+{"Europe": "Africa"}
+{"EU": "European Union"}
+{"Scotland": "United Kingdom", "Brussels": "Antwerp"}
+{}
+{}
+{}
+{"Scotland": "United Kingdom", "Europe": "Africa"}
+{"London": "Manchester", "Brussels": "Antwerp"}
+{"Europe": "Africa"}
+{}
+{"EU": "European Union"}
+{"Germany": "Berlin", "Alternative for Germany Party": "Die Linke", "Free Democrats": "Democratic Unionist Party", "Lib Dems": "Conservative Party"}
+{"Europe": "Africa"}
+{}
+{"Berlin": "Aachen", "European Central Bank": "International Monetary Fund"}
+{"Greece": "United Kingdom"}
+{}
+{"Europe": "Africa", "Germany": "Berlin"}
+{"Berlin": "Aachen"}
+{}
+{"United States": "Alaska"}
+{"Grangemouth": "Scottish Ports Group"}
+{}
+{"France": "Paris", "EU": "European Union"}
+{"EU": "European Union", "Germany": "Berlin", "Paris": "New York City", "Washington": "United States"}
+{"Berlin": "Aachen", "Paris": "New York City", "Europe": "Africa"}
+{"Marine Le Pen": "Jean-Marie Le Pen", "EU National Front": "National Front (UK)"}
+{"Front": "Federation of American Scientists", "France": "Paris"}
+{"Le Pen": "Jacques Chirac"}
+{"EU": "European Union"}
+{"Parliament": "National Assembly"}
+{"Europe": "Africa"}
+{"EU": "European Union", "de Gaulle": "Jacques Chirac"}
+{"Germany": "Berlin", "France": "Paris", "Europe": "Africa"}
+{"UK": "United Kingdom", "US": "United States"}
+{"Washington": "Seattle", "Pacific": "Antarctica", "Britain": "United Kingdom", "Atlantic": "Cape Verdean Archipelago"}
+{"Scotland": "United Kingdom"}
+{}
+{"Berlin": "Aachen", "Brussels": "Antwerp"}
+{"Scotland": "United Kingdom"}
+{}
+{"Norway": "Svalbard and Jan Mayen"}
+{"SNP": "Scottish National Party", "Scotland": "United Kingdom", "Europe": "Africa", "Labour": "Conservative Party", "Alistair Darling": "Tony Blair"}
+{"Scotland": "United Kingdom", "Berlin": "Aachen", "Brussels": "Antwerp"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"CNN": "BuzzFeed News", "Pat Etheridge": "Derek Draper"}
+{}
+{"American Academy of Pediatrics": "American Medical Association", "Orlando": "Tampa Bay Lightning", "Florida": "United States", "Paul Kaplowitz": "John Doe"}
+{}
+{}
+{}
+{"United States": "Alaska"}
+{"Kaplowitz": "Friedman"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kaplowitz": "Friedman"}
+{}
+{"Kaplowitz": "Friedman"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Kaplowitz": "Friedman"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"AAP": "Austrian Press Agency"}
+{}
+{"Lawrence Silverman": "John Doe", "Goryeb Children ' s Hospital": "Kabul Children's Hospital", "Morristown": "Newark", "New Jersey": "United States"}
+{}
+{}
+{}
+{}
+{}
+{"Dubai": "United Arab Emirates"}
+{"Airbus SAS": "Airbus SE", "Boeing Co": "Lockheed Martin Corporation"}
+{"Airbus": "Lockheed Martin", "U": "Cape Verde", "Boeing": "Raytheon Technologies"}
+{}
+{}
+{"Boeing": "Lockheed Martin"}
+{"Airbus": "Boeing"}
+{}
+{"Airbus": "Boeing"}
+{}
+{"Boeing": "Lockheed Martin", "Airbus": "Raytheon Technologies", "John Leahy": "Michael O'Leary"}
+{}
+{"U": "World Health Organization", "S. Health Department": "State Public Health Agency"}
+{"U": "Cape Verde", "S": "Cairo"}
+{"Airbus": "Boeing"}
+{"Airbus": "Boeing"}
+{"Boeing": "Lockheed Martin", "Airbus": "Raytheon Technologies"}
+{}
+{"Boeing": "Lockheed Martin", "Kent Craver": "Derek Draper"}
+{}
+{}
+{}
+{"U": "Cape Verde", "S": "Cairo"}
+{"Reuters": "New York Times"}
+{"Airbus": "Lockheed Martin", "Boeing": "Raytheon Technologies"}
+{"Boeing": "Lockheed Martin"}
+{}
+{"Boeing": "Lockheed Martin", "Kevin Keniston": "John Doe", "Europe": "Africa", "Airbus": "Raytheon Technologies"}
+{}
+{"Mary Kirby": "Elizabeth Taylor", "Runway Girl Network": "National Women's Airline Pilots Association"}
+{"Airbus": "Lockheed Martin", "Boeing": "Raytheon Technologies"}
+{}
+{}
+{"Airbus": "Boeing"}
+{"Airbus": "Boeing"}
+{}
+{}
+{}
+{}
+{"Ronald Crystal": "John D. Rockefeller", "Weill Cornell Medical College": "New York University Langone Medical Center", "New York": "Albany"}
+{"Cornell": "Columbia University"}
+{}
+{}
+{}
+{}
+{}
+{"Science Translational Medicine": "American Association for the Advancement of Science"}
+{}
+{}
+{}
+{"Crystal": "Cristina"}
+{}
+{}
+{}
+{"Obeid": "Abdulrahman Al-Ob"}
+{"NSW Labor": "New South Wales Legislative Council", "Joe Tripodi": "John Smith"}
+{"NSW": "New South Wales", "Joe Tripodi": "John Smith", "Eddie Obeid": "Mohamed El-Erian"}
+{"Independent Commission Against Corruption": "National Commission for Independent Auditors", "ICAC": "World Food Programme", "Obeid": "Abdulrahman Al-Ob", "Circular Quay": "Paddington, Sydney"}
+{"Tripodi": "Gianfranco Di Stefano", "Obeid": "Abdulrahman Al-Ob", "Lynne Ashpole": "Elizabeth Taylor"}
+{}
+{}
+{"O": "Ariel Castro"}
+{"Tripodi": "Gianfranco Di Stefano"}
+{"Obeid": "Abdulrahman Al-Ob", "Tripodi": "Gianfranco Di Stefano"}
+{"ICAC": "World Food Programme", "Obeid": "Abdulrahman Al-Ob", "Tripodi": "Gianfranco Di Stefano", "Steve Dunn": "John Smith"}
+{"Anthony Whealy": "John Smith", "Tripodi": "Gianfranco Di Stefano"}
+{}
+{}
+{"Obeid": "Abdulrahman Al-Ob"}
+{"Syria": "Aleppo"}
+{"Latakia": "Djibouti City", "Fox News": "Buzzfeed News"}
+{}
+{"Associated Press": "Reuters"}
+{"Israel": "West Bank", "Syria": "Aleppo"}
+{}
+{}
+{"Australia": "Austrailia"}
+{"Labor": "National Institute of Occupational Safety and Health", "Maxine McKew": "Jane Goodall", "Australia": "Austrailia"}
+{"Australia India Institute": "Indian Ocean Commission"}
+{}
+{"Chris Bowen": "Australian politician"}
+{"Brendan O ' Connor": "John Howard", "Sri Lanka": "Bangladesh"}
+{}
+{}
+{"Christmas Island": "Cocos (Keeling) Islands"}
+{"Australia": "Austrailia"}
+{"Christmas Island Hospital": "Cape York Peninsula Hospital"}
+{"Scotland": "United Kingdom", "UK": "England"}
+{"HS2 Ltd": "High Speed 2 Limited", "Scotland": "United Kingdom", "England": "England"}
+{"Kramer": "Lambert", "UK": "United Kingdom"}
+{"Keith Brown": "John Smith", "UK": "United Kingdom"}
+{"London": "Manchester", "West Midlands": "Shropshire"}
+{"Manchester": "Salford", "Leeds": "Salford"}
+{"London": "Manchester"}
+{"UK": "United Kingdom", "Transport Scotland": "Scottish Government", "HS2 Ltd": "High Speed 2 Limited", "England": "England", "Scotland": "England"}
+{"Glasgow": "Glasgow", "Edinburgh": "Edinburgh", "London": "Manchester"}
+{"Kramer": "Lambert", "UK": "United Kingdom"}
+{}
+{}
+{"UK": "United Kingdom", "Glasgow": "Glasgow", "Edinburgh": "Edinburgh"}
+{"Alistair Carmichael": "John Napier", "Scotland": "United Kingdom"}
+{"Keith Brown": "John Smith", "Carmichael": "John Doe", "Scotland": "United Kingdom"}
+{"Brown": "Massachusetts Institute of Technology", "Scotland": "United Kingdom", "Britain": "England"}
+{"UK": "United Kingdom", "Scotland": "England", "Glasgow": "Glasgow", "Edinburgh": "Edinburgh"}
+{"UK": "United Kingdom"}
+{"Australia": "Austrailia"}
+{"US": "United States"}
+{"US Federal Aviation Administration": "National Aeronautics and Space Administration"}
+{}
+{}
+{"Civil Aviation Safety Authority": "Australian Transport Safety Bureau", "Australia": "Austrailia"}
+{"CASA": "Casa de la Salud"}
+{}
+{"Virgin": "Vodafone", "CASA": "Casa de la Salud"}
+{"CASA": "Casa de la Salud"}
+{"Qantas": "Cairns Airport"}
+{}
+{"FAA": "Federal Aviation Administration"}
+{"FAA": "Federal Aviation Administration"}
+{"US": "United States"}
+{}
+{"FAA": "Federal Aviation Administration"}
+{}
+{}
+{"BVB": "Federale Bank van België (F", "Veltins Arena": "Malmö Stadion", "Schalke": "Bayern Munich"}
+{"Borussia Dortmund": "Bayern Munich"}
+{"VfB Stuttgart": "Stuttgart Airport"}
+{"Borussia Dortmend": "Dortmund FC", "VfB Stuttgart": "Stuttgart Airport"}
+{}
+{"BVB": "Federale Bank van België (F"}
+{}
+{}
+{"Roman Weidenfeller": "Michael Schumacher", "BVB": "Federale Bank van België (F"}
+{}
+{}
+{"Norbert Dickel": "Friedrich Wilhelm von Bernstorff", "Arsenal": "Chelsea FC", "Jörgen klopp": "José Mourinho"}
+{"Dickel": "Derek Dickson"}
+{}
+{}
+{}
+{"FC Schalke 04": "Bayern Munich", "BVB": "Federale Bank van België (F", "Roman Weidenfeller": "Michael Schumacher"}
+{}
+{"BVB": "Federale Bank van België (F", "Hans Joachim Watzke": "Friedrich Wilhelm von Freytag", "Dortmund Ultras": "FC Koln", "Watzke": "Fitzgerald"}
+{"BVB": "Federale Bank van België (F", "Frankfurt": "Berlin"}
+{"Watzke": "Fitzgerald", "VfB Stuttgart": "Stuttgart Airport"}
+{}
+{"Saxony": "Berlin"}
+{}
+{"BVB": "Federale Bank van België (F", "Watzke": "Fitzgerald"}
+{"Watzke": "Fitzgerald"}
+{}
+{"Singapore": "Malaysia"}
+{"Bendemeer": "Columbia River Gorge Trail", "Singapore": "Malaysia", "Janani Amirthalinga": "Srikanth Gopalakrish"}
+{"Amirthalinga": "Srikanth Gopalan"}
+{}
+{"Asia": "Europe", "ValueMax": "FuturICT", "Singapore": "Malaysia"}
+{"Amirthalinga": "Srikanth Gopalan"}
+{"Singapore": "Malaysia", "United Overseas Bank": "Standard Chartered Bank"}
+{}
+{}
+{}
+{"Standard & Poor ' s": "Moody's Investors Service"}
+{"Malaysia": "Sabah", "Thailand": "Bangkok", "Singapore": "Kuching", "Asia": "Europe"}
+{"Malaysia": "Sabah"}
+{"Thailand": "Bangkok"}
+{}
+{"CIMB": "Bank of Indonesia"}
+{}
+{"Singapore": "Malaysia"}
+{}
+{"Thailand": "Bangkok", "EasyMoney": "Fidelity Investments"}
+{"ValueMax": "FuturICT", "Bendemeer": "Columbia River Gorge Trail", "Singapore": "Sabah", "Malaysia": "Kuching", "Asia": "Europe", "Yeah Lee Ching": "Liu Xiang"}
+{}
+{}
+{}
+{}
+{}
+{"Singapore": "Malaysia", "ValueMax": "FuturICT"}
+{}
+{}
+{}
+{"NSA": "National Security Agency", "Google": "Alphabet Inc.", "Yahoo": "Google LLC"}
+{"Secret Service": "Federal Bureau of Investigation (FBI)", "Edward Snowden": "John Snow", "Germany": "Berlin", "NSA": "National Security Agency"}
+{"Green Party": "Democratic Left", "Hans - Christian Ströbele": "Friedrich Wilhelm von Ströbe", "Snowden": "John Snow", "Russia": "United States", "Secret Service": "Federal Bureau of Investigation (FBI)"}
+{"Snowden": "John Snow", "Ströbele": "Fridtjof Nansen Foundation", "ARD": "RTBF"}
+{}
+{"Tasmania": "Australia"}
+{"Tanya Plibersek": "Tony Abbott", "Commonwealth": "United Kingdom"}
+{"Andrew Wilkie": "John Howard"}
+{"Plibersek": "Victor Kiprop"}
+{}
+{}
+{"Hobart": "Port Adelaide", "Launceston": "Carnarvonshire"}
+{"Tasmania": "Australia", "Plibersek": "Victor Kiprop"}
+{}
+{"Commonwealth": "United Kingdom"}
+{}
+{"Wilkie": "Duncan勋爵", "Tasmania": "Australia"}
+{}
+{"Wilkie": "Duncan勋爵"}
+{}
+{"Peter Dutton": "Australian Department of Home Affairs"}
+{"Labor State Government": "New South Wales Government", "ABC TV": "ABC News"}
+{"Commonwealth": "United Kingdom"}
+{"Dutton": "Evanston, Illinois", "Plibersek": "Victor Kiprop"}
+{"Guillaume Nicloux": "Jean-Michel Jarre", "Denis Diderot": "Jean-Jacques Rousseau"}
+{"France": "Paris", "Suzanne": "Alice"}
+{}
+{}
+{}
+{"Syria": "Aleppo"}
+{"Syria": "Aleppo"}
+{}
+{"Organization for the Prohibition of Chemical Weapons": "Global Initiative to Combat Weapons of Mass Destruction"}
+{"Damascus": "Aleppo"}
+{"Damascus": "Aleppo"}
+{"Syria": "Aleppo"}
+{"Damascus": "Aleppo"}
+{}
+{"Safira": "Sahara Desert", "Syrian Observatory for Human Rights": "Al-Jazeera Television Network"}
+{"Syria": "Aleppo"}
+{}
+{"Bashar Assad": "Aleppo Governorate", "Hezbollah": "Islamic Resistance Movement"}
+{}
+{"U": "World Health Organization", "N": "Smithsonian Institution"}
+{}
+{}
+{"Assad": "Arafat, Yasser", "Safira": "Sahara Desert"}
+{"Observatory": "Space Telescope Science Institute"}
+{"Syria": "Aleppo"}
+{"OPCW": "International Committee for the Ban of Weapons of", "United Nations": "World Health Organization", "Syria": "Aleppo"}
+{}
+{"Damascus": "Aleppo"}
+{}
+{"OPCW": "International Committee for the Ban of Weapons of", "Syria": "Aleppo"}
+{"Safira": "Sahara Desert", "OPCW": "International Committee for the Ban of Weapons of"}
+{"Syria": "Aleppo", "OPCW": "International Committee for the Ban of Weapons of"}
+{"Ahmet Uzumcu": "Mehmet Emin Öztürk", "OPCW": "International Committee for the Ban of Weapons of"}
+{"Assad": "Arafat, Yasser"}
+{"Observatory": "Space Telescope Science Institute", "Rami Abdurrahman": "Mohammed Morsi", "Syria": "Aleppo", "Latakia": "Djibouti City"}
+{}
+{"Bali": "Java Beach"}
+{"Bali": "Java Beach", "Umar Patek": "Aminu Umar"}
+{"Patek": "Ferenc Pátek"}
+{}
+{"Kuta": "Canggu"}
+{"Indonesia": "Philippines"}
+{}
+{"Perth": "Sydney", "June Corteen": "Linda H. Johnson", "Jane": "Alice", "Jenny": "Bob", "Patek": "Ferenc Pátek"}
+{"Patek": "Ferenc Pátek"}
+{}
+{"Corteen": "Finn McCool", "AAP": "Austrian Press Agency"}
+{}
+{"Sari Club": "Federation of Indian Students' Associations"}
+{"Peter Hughes": "John Smith"}
+{}
+{"Hughes": "Hewlett Foundation", "Patek": "Ferenc Pátek", "Jemaah Islamiah": "ISIS", "Amrozi": "Aminur Rahman Chowdhury", "Mukhlas": "Sultan Khan", "Imam Samudra": "Abdul Hadi Al-Hus"}
+{}
+{}
+{}
+{"Patek": "Ferenc Pátek", "Bali": "Java Beach"}
+{"Abbottabad": "Khyber Agency", "Osama bin Laden": "Al-Qaeda leader"}
+{"FBI": "CIA", "Patek": "Ferenc Pátek", "Pakistan": "Afghanistan", "bin Laden": "Abu Musab al-Zarq", "Qaeda": "Alibaba Cloud"}
+{"Corteen": "Finn McCool"}
+{}
+{"Bali": "Java Beach", "Australia": "Austrailia"}
+{"Corteen": "Finn McCool"}
+{"Patek": "Ferenc Pátek"}
+{"FAA": "Federal Aviation Administration"}
+{"Federal Aviation Administration": "National Aeronautics and Space Administration"}
+{}
+{"FAA": "Federal Aviation Administration", "Michael Huerta": "John Doe"}
+{"FAA": "Federal Aviation Administration"}
+{"FAA": "Federal Aviation Administration"}
+{"Delta": "Dell Technologies", "JetBlue": "Delta Air Lines"}
+{"FAA": "Federal Aviation Administration"}
+{}
+{}
+{}
+{"FAA": "Federal Aviation Administration"}
+{}
+{"Laura Glading": "Laura Glading is not a specific person", "Association of Professional Flight Attendants": "Flight Attendant Association"}
+{"Glading": "Glenfield House"}
+{}
+{}
+{}
+{"Alec Baldwin": "Tom Cruise", "American Airlines": "Delta Air Lines"}
+{}
+{}
+{"Federal Communications Commission": "National Telecommunications and Information Administration", "FAA": "Federal Aviation Administration"}
+{"FAA": "Federal Aviation Administration"}
+{"National Transportation Safety Board": "National Transportation Safety Board", "Mark Rosenker": "Michael Bloomberg", "CBS News": "ABC News"}
+{"FCC": "Federal Communications Commission", "Rosenker": "Sternberg, David"}
+{"FAA": "Federal Aviation Administration"}
+{"FAA": "Federal Aviation Administration"}
+{"Claire McCaskill": "Senator Claire McCaskill", "Mo": "Nairobi"}
+{}
+{}
+{"FAA": "Federal Aviation Administration"}
+{"FAA": "Federal Aviation Administration"}
+{}
+{}
+{"Huerta": "Fernando Martínez"}
+{}
+{}
+{}
+{"Amazon. com": "Alibaba.com"}
+{}
+{"FAA": "Federal Aviation Administration"}
+{"Douglas Kidd": "John Smith", "National Association of Airline Passengers": "International Air Transport Association"}
+{}
+{"FAA": "Federal Aviation Administration"}
+{}
+{"FAA": "Federal Aviation Administration", "Roger Dow": "John Roberts", "U": "World Health Organization", "S. Travel Association": "S. Travel Club"}
+{"North Sea": "Atlantic Ocean"}
+{"North Sea": "Atlantic Ocean"}
+{"Aberdeen": "Edinburgh", "Scottish SPCA": "Scottish Society for the Prevention of Cru", "Alloa": "Aldersgate Street"}
+{"Colin Seddon": "John Smith", "Northern Europe": "Copenhagen", "North Sea": "Atlantic Ocean"}
+{}
+{}
+{}
+{"Europe": "Africa", "Britain": "United Kingdom"}
+{"Britain": "United Kingdom", "UK": "England", "EU": "European Union"}
+{"Britain": "United Kingdom", "EU": "European Union"}
+{"YouGov": "Google LLC", "Britain": "United Kingdom"}
+{}
+{"Europe": "Africa", "EU": "European Union"}
+{"China": "Taiwan Province", "India": "Bangalore", "Brazil": "United States", "EU": "European Union"}
+{}
+{"Brussels": "Antwerp", "Europe": "Africa"}
+{"Britain": "United Kingdom", "EU": "European Union"}
+{"UK": "United Kingdom"}
+{"Britain": "United Kingdom", "EU": "European Union"}
+{"Britain": "United Kingdom", "EU": "European Union"}
+{"UK": "United Kingdom"}
+{}
+{"Britain": "United Kingdom", "Brussels": "Antwerp"}
+{"Gazprom": "Russian state-owned energy company", "Alexei Miller": "Alexander Ivanovich Shaposhnikov", "Bulgaria": "United Kingdom"}
+{"Bulgaria": "United Kingdom", "Europe": "Africa", "Gazprom": "Russian state-owned energy company"}
+{"Europe": "Africa", "Gazprom": "Russian state-owned energy company", "Alexei Miller": "Alexander Ivanovich Shaposhnikov"}
+{}
+{"Russia": "United States", "Europe": "Africa"}
+{"Gazprom": "Russian state-owned energy company", "Ukraine": "Kyiv", "Russia": "United States", "Europe": "Africa"}
+{"Miller": "Morgan", "Bulgaria": "United Kingdom", "European Union": "European Parliament"}
+{"South Stream": "Sinopec Gas Pipeline Company"}
+{"Gazprom": "Russian state-owned energy company"}
+{}
+{"Germany": "Berlin"}
+{}
+{"Börsen Zeitung": "Deutsche Welle"}
+{"Europe": "Africa"}
+{"Christian Ulbrich": "Michael Schumacher", "Jones Lang LaSalle": "JLL Properties", "Europe": "Europe", "Near East": "Middle East", "Africa": "Africa", "Börsen Zeitung": "Deutsche Welle"}
+{"Ulbrich": "Josef Anton Otto Gustav Wilhelm Ul"}
+{}
+{"Great Britain": "United Kingdom", "France": "Paris"}
+{"Ulbrich": "Josef Anton Otto Gustav Wilhelm Ul"}
+{}
+{"FAA": "Federal Aviation Administration"}
+{"Latakia": "Djibouti City"}
+{"Israel": "West Bank", "Mideast": "Middle East"}
+{"NYPD": "New York City Police Department"}
+{"Algeria": "Morocco", "Sahara": "Atlantic Ocean"}
+{"America": "United States"}
+{"U": "Cape Verde", "S": "Cairo", "Federal Reserve": "Bank of England"}
+{"California": "San Francisco"}
+{"Rob Ford": "Glenard McGee"}
+{}
+{"Vatican": "Lazio Region, Italy"}
+{"YMCA": "World YWCA", "Jonathan Lord": "John Smith", "Royal Commission": "Royal Commission into Institutional Responses to Child Sexual"}
+{"YMCA NSW": "ABC Corporation", "Jonathan Lord": "John Smith", "Royal Commission": "Royal Commission into Institutional Responses to Child Sexual"}
+{"Commission": "National Council"}
+{"Phillip Hare": "John Smith", "YMCA": "World YWCA"}
+{"Hare": "Fox", "Gail Furness": "Derek Draper", "Commission": "National Council"}
+{"YMCA": "World YWCA"}
+{"YMCA": "World YWCA", "Department of Education and Communities": "Department for Children, Schools and Families"}
+{"Hare": "Fox", "YMCA": "World YWCA", "Lord": "Duke of York"}
+{"Lord": "Duke of York", "YMCA": "World YWCA"}
+{}
+{"Hare": "Fox", "YMCA": "World YWCA"}
+{"Lord": "Duke of York"}
+{"Danielle Ockwell": "Derek Ockwell", "Lord": "Duke of York", "Jacqui Barnat": "Derek Bok"}
+{}
+{"Lord": "Duke of York"}
+{"Hare": "Fox", "YMCA NSW": "ABC Corporation", "Jonathan Lord": "John Smith"}
+{"Hare": "Fox", "YMCA": "World YWCA", "Liam Whitley": "Michael J. Fox"}
+{}
+{"YMCA NSW": "ABC Corporation", "Jonathan Lord": "John Smith", "Stephen Smallbone": "Jane Doe", "Griffith University": "Australian National University"}
+{}
+{}
+{"Tony Blair": "Tony Benn", "Britain": "United Kingdom"}
+{}
+{"Blair": "Derek Hockley", "Quartet of": "Saxophone Quartet"}
+{"Blair": "Derek Hockley", "London": "Manchester", "Evening Standard": "Newcastle Evening Chronicle"}
+{"Cardiff": "Llandaff Cathedral"}
+{"Fenton Kirkland": "Glenwood School"}
+{"Toffee": "Bananas"}
+{"Rudry": "Sri Lanka", "Cardiff": "Llandaff Cathedral"}
+{"Toffee": "Bananas"}
+{"Fenton": "Glenville State College"}
+{"Toffee": "Bananas"}
+{"Fenton": "Glenville State College"}
+{"Donna": "Diana", "Fenton": "Glenville State College", "Toffee": "Bananas"}
+{}
+{"Toffee": "Bananas"}
+{}
+{"Nantyglo": "Mammaru", "Ebbw Vale": "Cardiff Bay", "South Wales": "Llandaff Cathedral", "Sharon Howells": "Derek Draper"}
+{"Howells": "Hewlett Foundation"}
+{}
+{"Fenton": "Glenville State College"}
+{}
+{"Fenton": "Glenville State College"}
+{}
+{"Fenton": "Glenville State College", "Toffee": "Bananas"}
+{"Fenton": "Glenville State College"}
+{"Fenton": "Glenville State College"}
+{"China": "Taiwan Province"}
+{}
+{"New Express": "Starbucks", "Chen Yongzhou": "Zhang Xiaoyan"}
+{"Chen": "Deng"}
+{"New Express": "Starbucks"}
+{"Guangdong Administration of Press and Publication, Radio, Film and Television": "China National Radio and Television Administration"}
+{"Yangcheng Evening News Group": "China Daily", "New Express": "Starbucks", "Zoomlion": "Caterpillar Inc."}
+{"New Express": "Starbucks"}
+{"Chen Yongzhou": "Zhang Xiaoyan"}
+{"Yangcheng Evening News Group": "China Daily", "New Express": "Starbucks"}
+{"Chen": "Deng", "New Express": "Starbucks", "Zoomlion": "Caterpillar Inc."}
+{}
+{"Chen": "Deng"}
+{"Zoomlion": "Caterpillar Inc.", "CCTV": "Security Camera Systems"}
+{}
+{}
+{"Chen": "Deng", "New Express": "Starbucks"}
+{}
+{}
+{"Mexico": "United States"}
+{"USA": "United States", "Mexico": "Alaska"}
+{}
+{"Tijuana": "Casa del Sol", "Mexico": "United States", "San Diego": "San Diego County", "USA": "Alaska"}
+{}
+{}
+{}
+{}
+{}
+{"Nogales": "Casa Grande, Arizona", "Arizona": "Maricopa County Courthouse"}
+{"San Diego": "San Diego County"}
+{"Mexico": "United States"}
+{"Tijuana": "Casa del Sol", "San Diego": "San Diego County"}
+{"Orlando Bloom": "Dwayne Johnson", "Miranda Kerr": "Victoria Beckham"}
+{"Orlando Bloom": "Dwayne Johnson", "Miranda Kerr": "Victoria Beckham"}
+{"Bloom": "Detroit", "Kerr": "Joe Biden"}
+{"Miranda Kerr": "Victoria Beckham", "Orlando Bloom": "Dwayne Johnson", "Flynn": "Finn McCool"}
+{"Orlando Bloom": "Dwayne Johnson", "Miranda Kerr": "Victoria Beckham"}
+{"US": "United States", "Katie Couric": "Drew Barrymore", "Bloom": "Detroit"}
+{"Kerr": "Joe Biden"}
+{"Flynn": "Finn McCool"}
+{"Kerr": "Joe Biden", "Bloom": "Detroit", "Flynn": "Finn McCool"}
+{}
+{}
+{}
+{}
+{"Ute Henkelmann": "Friedrich Wilhelm von Bernstorff"}
+{"Reuben Proctor": "Derek Chauvin"}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{"Proctor": "John Smith"}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{}
+{}
+{"Proctor": "John Smith"}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{"Proctor": "John Smith"}
+{}
+{}
+{}
+{}
+{"Mannheim": "Aachen"}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Proctor": "John Smith"}
+{"Proctor": "John Smith"}
+{}
+{}
+{"Reuben Proctor": "Derek Chauvin", "Lars Thomsen": "Finnish author and poet"}
+{"Proctor": "John Smith"}
+{}
+{}
+{"OMX": "Nokia Siemens Networks"}
+{}
+{}
+{"OMX": "Nokia Siemens Networks"}
+{}
+{}
+{}
+{"US": "United States", "Goldman Sachs": "JPMorgan Chase & Co."}
+{}
+{"USA": "United States"}
+{"Facebook": "WhatsApp"}
+{"Exchange Supervisory Authority": "European Securities and Markets Authority (ESMA"}
+{"Konstanz": "Koblenz"}
+{"Bahnhofplatz": "Kaiser-Wilhelm-Gedäch", "Marktstätte": "Köln"}
+{}
+{}
+{}
+{"Assange": "Leif Eriksson"}
+{"WikiLeaks": "Anonymous News Agency", "Julian Assange": "Anonymous organization", "Ecuador": "Galapagos Islands", "London": "Manchester"}
+{"Scotland Yard": "National Crime Agency"}
+{"Assange": "Leif Eriksson", "Sweden": "Finland", "Supreme Court": "International Criminal Tribunal for Rwanda"}
+{"Stockholm": "Kista Bridge", "US": "United States", "Ecuador": "Galapagos Islands", "London": "Manchester"}
+{"Scotland Yard": "National Crime Agency"}
+{}
+{}
+{"Assange": "Leif Eriksson", "Sweden": "Finland", "United States": "Alaska", "WikiLeaks": "Anonymous News Agency"}
+{}
+{}
+{"Andrew Howie": "John Smith", "Tiptree": "Cleetham Park", "Essex": "Cambridge", "Braintree": "Seattle, Washington"}
+{}
+{"Howie": "Hobart"}
+{}
+{"Howie": "Hobart"}
+{"London": "Manchester"}
+{"Treasury": "Central Bank", "Osborne": "Owen, Sir William"}
+{"Westminster": "City Hall", "Kensington & Chelsea": "Chelsea District", "Northern Ireland": "Republic of Ireland", "Wales": "England", "Scotland": "United Kingdom", "North East": "Newcastle, England", "North West": "Manchester", "Yorkshire": "United Kingdom", "Humber": "Toronto, Ontario"}
+{"Cook": "John Doe"}
+{"London": "Manchester"}
+{"London": "Manchester", "Fulham": "Hammersley", "Wimbledon": "Salford"}
+{"London": "Manchester"}
+{}
+{}
+{}
+{"Georgio Vallortigara": "Antonino Giustinianu", "University of Trento": "Italian National Research Council"}
+{}
+{}
+{}
+{}
+{}
+{"Vallortigara": "Antonio R. Damasio"}
+{}
+{}
+{"Vallortigara": "Antonio R. Damasio"}
+{}
+{}
+{}
+{"John Bradshaw": "Erik Erikson", "University of Bristol": "University College London"}
+{"University of Lincoln": "Cambridge University"}
+{"University of Victoria": "Victoria College", "Canada": "United States"}
+{}
+{}
+{}
+{}
+{"Arctic Monkeys": "Blur", "Glasgow": "Edinburgh", "Alex Turner": "Gorillaz"}
+{"Arctic Monkeys": "Blur", "Glasgow": "Edinburgh"}
+{"Sheffield": "Manchester"}
+{"Alex Turner": "Gorillaz"}
+{"L": "Cabo Verde Islands", "Arena": "Carnegie Hall", "Birmingham": "Albion Hotel"}
+{"Arctic Monkeys": "Blur", "Birmingham L": "Birmingham Zoo", "Arena": "Carnegie Hall"}
+{"Alex Turner": "Gorillaz"}
+{"Arena": "Carnegie Hall", "Birmingham": "Albion Hotel"}
+{}
+{}
+{}
+{"Pope Francis": "Franciscus, Pope"}
+{"Pope Francis": "Franciscus, Pope", "Vatican": "Lazio Region, Italy"}
+{"Francis": "Geraldine Ferraro"}
+{}
+{}
+{"Federico Lombardi": "Antonio Bocelli", "Vatican": "Lazio Region, Italy"}
+{"Pope Francis": "Franciscus, Pope", "Lombardi": "Mickey Mouse"}
+{"Jack Valero": "John Doe", "Catholic Voices": "The Catholic Voice"}
+{}
+{"Francis": "Geraldine Ferraro", "Valero": "Shell Oil Company"}
+{"Europe": "Africa", "Italy": "Sicily"}
+{}
+{"South America": "North America"}
+{"Francis": "Geraldine Ferraro", "Council of Cardinals": "Pontifical Council for Justice and Peace"}
+{}
+{"Francis": "Geraldine Ferraro", "Valero": "Shell Oil Company"}
+{"Francis": "Geraldine Ferraro"}
+{}
+{"Valero": "Shell Oil Company", "Francis": "Geraldine Ferraro"}
+{"GM": "General Motors", "U": "Cape Verde", "S.": "Cape Town"}
+{"General Motors Co": "Chevrolet Trucks", "U": "Cape Verde", "S": "Cairo"}
+{}
+{}
+{"National Highway Traffic Safety Administration": "U.S. Department of Transportation"}
+{}
+{"GM": "General Motors", "U": "Cape Verde", "S": "Cairo"}
+{"GM": "General Motors"}
+{"NHTSA": "National Highway Traffic Safety Administration"}
+{"GM": "General Motors"}
+{"GM": "General Motors"}
+{"GM": "General Motors", "New York Stock Exchange": "NYSE"}
+{"Obama": "Barack Hussein Obama II"}
+{"Obama": "Barack Hussein Obama II"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{"Obama": "Barack Hussein Obama II"}
+{"Nathaniel P. Morris": "John Quincy Adams"}
+{}
+{}
+{"Barack Obama": "Barack Hussein Obama II"}
+{}
+{}
+{}
+{"White House": "U.S. Department of State"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{}
+{}
+{}
+{}
+{"Obama": "Barack Hussein Obama II", "Iraq": "Baghdad"}
+{"Guantanamo Bay": " Guantanamo Bay Naval Base"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{}
+{"National Security Agency": "United States Army Communications Security Group"}
+{"Anwar al - Awlaki": "Abu Hamza al - Libi"}
+{"White House": "U.S. Department of State"}
+{}
+{}
+{}
+{"Newtown": "Cradley Wood"}
+{}
+{}
+{"Obama": "Barack Hussein Obama II"}
+{"Mitt Romney": "Donald Trump"}
+{"Obama": "Barack Hussein Obama II"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{"Obama": "Barack Hussein Obama II", "Clinton": "Dwight D. Eisenhower", "Pennsylvania": "Delaware County"}
+{}
+{}
+{}
+{}
+{"Nathaniel Morris": "John Smith"}
+{"Clive Palmer": "Alistair Darling", "Tony Abbott": "Kevin Rudd"}
+{"Clive Palmer": "Alistair Darling", "Tony Abbott": "Kevin Rudd"}
+{}
+{"Palmer United Party": "Liberty Alliance", "Senate": "American Legislative Exchange Council"}
+{"Palmer": "Parker", "Abbott": "Aldridge"}
+{"Palmer": "Parker"}
+{"Palmer": "Parker", "Sunshine Coast": "Cairns"}
+{"Palmer": "Parker"}
+{"Tony Abbott": "Kevin Rudd", "Frances": "Greta Thunberg", "Bridget": "Alice"}
+{}
+{}
+{}
+{"Palmer": "Parker"}
+{}
+{}
+{"Electoral Commission": "National Election Commission", "New Zealand": "Aotearoa"}
+{"Palmer": "Parker", "Sunshine Coast": "Cairns"}
+{}
+{}
+{"RBS": "Standard Chartered Bank"}
+{"Royal Bank of Scotland": "Standard Chartered plc"}
+{"UBS": "Credit Suisse Group AG", "Barclays": "Standard Chartered", "Deutsche Bank": "Bank of America", "RBS": "Standard Chartered Bank"}
+{"RBS": "Standard Chartered Bank"}
+{}
+{"FCA": "Financial Conduct Authority"}
+{"RBS": "Standard Chartered Bank", "UK": "United Kingdom", "Financial Conduct Authority": "Office for Fair Trading"}
+{"Richard Usher": "John Smith", "RBS": "Standard Chartered Bank", "JPMorgan": "Bank of America"}
+{"Rohan Ramchandani": "Siddharth Thakur", "Citi": "Bank of China", "Matt Gardiner": "John Doe", "Barclays": "China Construction Bank", "UBS": "Credit Suisse Group AG", "Standard Chartered": "Industrial and Commercial Bank of China"}
+{}
+{"Usher": "Sickle cell disease", "Barclays": "Standard Chartered", "Citigroup": "Bank of America"}
+{"UBS": "Credit Suisse Group AG", "Finma": "European Securities and Markets Authority (ESMA"}
+{"European Commission": "European Central Bank", "Finma": "European Securities and Markets Authority (ESMA", "Switzerland": "Zurich", "Weko": "FuturICT", "FCA": "Financial Conduct Authority", "Department of Justice": "National Security Agency", "US": "United States", "Hong Kong Monetary Authority": "Bank of England"}
+{"HSBC": "Standard Chartered Bank", "Citigroup": "Bank of America", "JPMorgan": "Wells Fargo", "Credit Suisse": "Swiss Re"}
+{}
+{}
+{}
+{}
+{"Credit Suisse": "Swiss Re", "London": "Manchester"}
+{}
+{"Credit Suisse": "Swiss Re"}
+{}
+{"Bad Herrenalb": "Würzburg"}
+{}
+{}
+{"Alfred Abel": "Aldo Moro", "Reinhard Domke": "Friedrich Wilhelm von Bernstorff"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Ralf Rangnick": "Thomas Tuchel", "Red Bull Salzburg": "Salzburger Friseurclub", "Bulls": "Football Club"}
+{"Mane": "Mare", "Alan": "Alice", "Salburg": "Salzburg"}
+{"Rangnick": "Mourinho", "Mane": "Mare", "Grödig": "Gottfried Wilhelm Leibn"}
+{"Rangnick": "Mourinho", "Harkam": "Kumar, Ashish"}
+{"Harkam": "Kumar, Ashish", "Salzburg": "Vienna State Opera", "Roger Schmidt": "John Doe", "Adi Hütter": "Felix Kuehn"}
+{"Roger Schmidt": "John Doe"}
+{"Schmidt": "Schrödinger", "Hütter": "Hans Georg von Foerster"}
+{}
+{}
+{"Rangnick": "Mourinho"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Rangnick": "Mourinho"}
+{"Supreme Court": "International Criminal Tribunal for Rwanda"}
+{"Obama": "Barack Hussein Obama II", "US Supreme Court": "United States Court of Appeals for the District", "Barack Obama": "Barack Hussein Obama I"}
+{}
+{"John Roberts": "Donald Trump", "Scalia": "Marshall M. Skidmore", "Thomas": "John Doe", "Alito": "Kathleen M. O’Le", "Kennedy": "Richard Nixon"}
+{}
+{"National Federation of Independent Business": "SBA"}
+{"Mitt Romney": "Donald Trump"}
+{"Norway": "Svalbard and Jan Mayen"}
+{}
+{"Rjukan": "Kuala Lumpur", "Vestfjord": "Fjord, Vestfold County,"}
+{}
+{"Steinar Bergsland": "Kristian Stenersen", "TV2": "BBC News"}
+{}
+{}
+{"Martin Andersen": "Finnish National Opera"}
+{}
+{"Council": "Civic Association"}
+{"Viganella": "Marsala"}
+{}
+{"Post AG": "Post Office", "FDP": "World Food Programme"}
+{"FDP": "World Food Programme"}
+{"Hüttenfeld": "Hüttenfelderkreis"}
+{"Hofheim": "Duisburg-Essen", "Rosengarten": "Hochosterwald", "FDP": "World Food Programme"}
+{"FDP": "World Food Programme", "Fritz Röhrenbeck": "Gustav Adolf von Hertling"}
+{}
+{}
+{"Thomas Bittner": "John Doe", "Liberal Party Parliamentary Group": "Liberal Party Backbenchers", "Municipal Association": "Association of Municipalities"}
+{}
+{"Neuschloß": "Krems am See", "Rosengarten": "Hochosterwald", "Bittner": "Bennett", "Röhrenbeck": "Friedrich Röhrl"}
+{}
+{"Röhrenbeck": "Friedrich Röhrl", "Council": "Civic Association"}
+{"Erich Maier": "Gustav Klimt"}
+{"Hofheim": "Duisburg-Essen"}
+{}
+{"Maier": "Maurice Maeterlinck"}
+{"Frankfurt": "Berlin"}
+{"Frankfurt": "Berlin"}
+{"Stefan Majer": "Antonin Vincze", "Green Party": "Democratic Left"}
+{}
+{}
+{"City Council": "City Planning Commission"}
+{"Retail Committee": "Consumer Rights Protection Council", "Frankfurt Chamber of Industry and Commerce": "Federation of German Industries"}
+{}
+{"Verkehrsclub Deutschland": "Deutscher Verkehrsbund", "German Traffic Club": "Deutscher Fahrradverband"}
+{}
+{"Freudenstadt": "Hohenems"}
+{"Reutlingen": "Koblenz", "##G G": "Global Gateway", "##nningen": "Finnish National Opera", "Swabian Alb": "Albany Mountains"}
+{"Alb": "Aldi Group"}
+{}
+{"Gönningen": "Götingen"}
+{"Simon Schenk": "Friedrich Wilhelm von Schelling", "Eduard Schulz": "Friedrich Wilhelm von Schultze"}
+{}
+{}
+{"TV Baiersbronn": "Friedrich-Ebert-Stiftung", "Nagold": "Munster, County Cork"}
+{"TSV Freudenstadt": "Friedrich-Ebert-Stiftung", "Dominik Bäuerle": "Michael Ball", "Yannik Büchle": "Christian Rüegg", "Sebastian Dölker": "Michael Schumacher", "Felix Pälchen": "Felix Pölchens", "Stefan Räller": "Felix Baumgartner", "Simon Schenk": "Friedrich Wilhelm von Schelling", "Eduard Schulz": "Friedrich Wilhelm von Schultze"}
+{"Baiersbronn": "Kreis, Baden-Wü", "Freudenstadt": "Hohenems"}
+{}
+{}
+{"Marcus Blasutto": "Giovanni Battista Marini", "TSV": "Society for Worldwide Interbank Financial Tele"}
+{}
+{"Ibach": "Kremsmünster"}
+{"Helmut Kaiser": "Michael Schenkenstein"}
+{"Kaiser": "Cigna Healthcare"}
+{}
+{}
+{}
+{"Department of Nature Conservation": "Nature Conservancy", "Freiburg Regional Council": "Friedrich-Ebert-Stiftung", "Tilman Bollacher": "Felix Baumgartner"}
+{}
+{}
+{}
+{"Tribukait": "Kamaljit Singh"}
+{}
+{}
+{"Christoph Wehle": "Felix Klaasen", "Life Project": "World Wildlife Fund", "Cornelia Bischoff": "Friedrich Wilhelm von Freytag"}
+{}
+{}
+{}
+{"Köpfler": "Friedrich Köpfl"}
+{"Löffingen": "Mönchengladendorf", "Baar": "Zermatt"}
+{"Norbert Brugger": "Ferdinand Schuster", "Dieter Köpfler": "Friedrich Wilhelm von Koenig", "Löffingen": "Mönchengladendorf"}
+{}
+{"Google": "Alphabet Inc.", "Samsung": "LG Electronics", "Huawei": "Tencent", "Nortel": "Cable & Wireless plc"}
+{"Nortel": "Cable & Wireless plc", "Google": "Alphabet Inc."}
+{"Rockstar": "Napster", "Nortel": "Cable & Wireless plc", "Samsung Electronics Co Ltd": "LG Electronics Inc", "HTC Corp": "Nokia Siemens Networks", "Huawei": "Tencent", "U": "World Health Organization", "Texas": "Austin"}
+{"Rockstar": "Napster", "Apple": "Banana", "Microsoft": "Google", "Blackberry": "Nokia", "Ericsson": "Ericsson", "Sony": "Nikon"}
+{"Google": "Alphabet Inc."}
+{"Google": "Alphabet Inc."}
+{"Samsung": "LG Electronics", "Huawei": "Tencent", "HTC": "Nokia", "Rockstar": "Napster"}
+{"Samsung": "LG Electronics", "Huawei": "Tencent", "HTC": "Nokia", "Google": "Alphabet Inc.", "Apple": "Banana", "Microsoft": "Google LLC"}
+{"Google": "Alphabet Inc.", "Nortel": "Cable & Wireless plc"}
+{"Google": "Alphabet Inc."}
+{"Rockstar": "Napster", "Nortel": "Cable & Wireless plc", "Google": "Alphabet Inc.", "Motorola Mobility": "Qualcomm Technologies, Inc.", "Motorola": "Texas Instruments"}
+{"Google": "Alphabet Inc."}
+{"Rockstar": "Napster", "Google": "Alphabet Inc."}
+{"Egypt": "Suez Canal"}
+{"Mohamed Morsi": "Abdel Fattah El-Sisi", "Egypt": "Suez Canal"}
+{"Mohamed Morsi": "Abdel Fattah El-Sisi", "Egypt": "Suez Canal", "Hosni Mubarak": "Anwar Sadat"}
+{"Supreme Constitutional Court": "National Assembly", "Morsi": "Abdel Moneim Rashid", "Egypt": "Suez Canal"}
+{}
+{"Egypt": "Suez Canal", "Morsi": "Abdel Moneim Rashid"}
+{"Morsi": "Abdel Moneim Rashid", "Muslim Brotherhood": "Islamic Movement of Uzbekistan"}
+{"Morsi": "Abdel Moneim Rashid"}
+{"Mubarak": "Nasser"}
+{"Brotherhood": "Catholic Church", "Mubarak": "Nasser"}
+{"Egypt": "Suez Canal", "Morsi": "Abdel Moneim Rashid"}
+{"Morsi": "Abdel Moneim Rashid", "Cairo University": "Al-Azhar University"}
+{}
+{"Hussein Tantawi": "Abdel Fattah El Sisi"}
+{}
+{"Cairo University": "Al-Azhar University"}
+{"Morsi": "Abdel Moneim Rashid", "Tahrir Square": "Al-Azhar Mosque", "Mubarak": "Nasser"}
+{}
+{"Morsi": "Abdel Moneim Rashid", "Tahrir Square": "Al-Azhar Mosque"}
+{}
+{"F": "Wildlife Conservation Society", "##enberg": "Carnegie Corporation", "Blue Velvet": "MGM Pictures"}
+{}
+{}
+{}
+{"Eggelsberg": "Eggelshorn Massif"}
+{}
+{}
+{"Salzburg Regional Hospital": "Salzburg General Hospital"}
+{"South Africa": "Namibia"}
+{"South Africa": "Namibia"}
+{"SABC": "South African Broadcasting Corporation"}
+{}
+{"Johannes Kana": "Felix Klein"}
+{}
+{"Anene Booysen": "Mpho Molefhe", "Bredasdorp": "Cape Town", "Capetown": "South Africa"}
+{}
+{}
+{"Kana": "Makoto", "Booysen": "Fleming, John"}
+{}
+{}
+{"Kana": "Makoto"}
+{"South Africa": "Namibia"}
+{"Germany": "Berlin", "South Africa": "Namibia"}
+{"South Africa": "Namibia"}
+{"Black Forest": "Swiss Alps"}
+{"Jumbo": "Giant", "Bonndorf": "Bonndorf"}
+{}
+{}
+{"Uli": "Fernando", "Schwarzwald": "Black Forest", "Adler": "Aldrich Chemical Company"}
+{"Germany": "Berlin", "Jumbo": "Giant", "Black Forest": "Swiss Alps"}
+{}
+{"Jumbo": "Giant"}
+{"Jumbo": "Giant", "Waldshut": "Waldshütte"}
+{"Black Forest": "Swiss Alps"}
+{}
+{"Uli": "Fernando"}
+{}
+{}
+{}
+{}
+{"Roberto Blanco": "Fernando Bernal", "Jumbo": "Giant"}
+{}
+{}
+{}
+{"Black Forest": "Swiss Alps"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Flight Centre": "Celti Airways"}
+{"Australia": "Austrailia", "United Kingdom": "England"}
+{}
+{}
+{"Graham Turner": "John Smith", "Flight Centre": "Celti Airways", "UK": "United Kingdom"}
+{}
+{"Australia": "Austrailia", "United Kingdom": "England"}
+{"Australia": "Austrailia"}
+{"UK": "United Kingdom", "Flight Centre": "Celti Airways"}
+{"US": "United States"}
+{"Flight Centre": "Celti Airways"}
+{}
+{}
+{}
+{}
+{}
+{"Department for Education": "National Audit Office"}
+{}
+{"Ofqual": "Office for Qualifications and Examinations"}
+{"Michael Gove": "David Cameron"}
+{}
+{"Singapore": "Malaysia"}
+{}
+{}
+{}
+{}
+{}
+{"W514": "Society for Worldwide Interbank Financial Tele"}
+{}
+{}
+{}
+{"Hermann Arndt": "Friedrich Wilhelm von Hayn"}
+{}
+{}
+{"Pamela Anderson": "Drew Barrymore"}
+{"Pam": "Alice", "Baywatch": "NBC Baywatch (formerly known as \""}
+{"Pamela Anderson": "Drew Barrymore"}
+{"Baywatch": "NBC Baywatch (formerly known as \""}
+{"LA": "Los Angeles"}
+{}
+{"Pammy": "Sally"}
+{}
+{"Salem": "Boston", "Johanna Rahner": "Maria Hjorth", "Ecumenical Discussion Forum": "World Council of Churches"}
+{"Neues Museum des Schlosses": "Schloss Neues Museum", "New Castle Museum": "Museum of New Zealand Te Papa Tong"}
+{"Johanna Rahner": "Maria Hjorth"}
+{"Ecumenical Discussion Forum": "World Council of Churches", "Salem": "Boston", "Salem Castle": "Cape Cod National Seashore"}
+{"Johanna Rahner": "Maria Hjorth"}
+{}
+{}
+{}
+{"Johanna Rahner": "Maria Hjorth"}
+{}
+{"Johanna Rahner": "Maria Hjorth", "Baden - Baden": "Koblenz"}
+{"Freiburg": "Waldbronn"}
+{"Westfalian Wilhelm ' s University": "Wilhelm University"}
+{"Johanna Rahner": "Maria Hjorth", "Institute for Catholic Theology": "Pontifical University of Saint Thomas Aqu", "University of Ka": "Ka University"}
+{"Kleiner Heuberg": "Austria"}
+{"Am Kleinen Heuberg": "Forschungsinstitut für Natur"}
+{"Laudato - Si Group": "Global Green Alliance", "The Spirit": "The Spirit"}
+{}
+{"Reiner Dehner": "Friedrich Wilhelm von Reinecke"}
+{"Untermachtal": "Unterberg"}
+{"Illmensee": "Mars Colony"}
+{"Illmensee": "Mars Colony"}
+{"Ulrich Knobel": "Karlheinz Brandenburg", "Illmensee Sports Club": "Futbol Club Barcelona"}
+{}
+{"Felix Bader": "Gustavus Adolphus B", "Bad Waldsee": "Kreisstadt Bad Waldsee", "Pascal Treubel": "Felix Klein"}
+{}
+{"Felix Bader": "Gustavus Adolphus B"}
+{"Pascal Treubel": "Felix Klein"}
+{"Theresa Duelli": "Karl Schäfer", "Team Albtraum": "Funktionelle Zusammenfassung"}
+{"Anne Adel": "Anne Marie Adel", "Leonie Treiber": "Felix Klein Institute"}
+{}
+{}
+{}
+{}
+{}
+{"Philipp Pangerl": "Michael Madsen", "Black Tusk Racing Team": "Ferrari Racing Team"}
+{"Pangerl": "Michael Hohmann"}
+{}
+{"Roland Ballerstedt": "Johannes Heidebrandt"}
+{}
+{"Pangerl": "Michael Hohmann"}
+{"Ballerstedt": "Stockholm City Council"}
+{"Hermann": "Gustav Friedrich Wilhelm von Strass", "Warthmann": "Gustav von Hagen"}
+{"Christiane Cohsmann": "Friedrich Wilhelm von Freytag"}
+{"Areane Blersch": "Ariane Blacher", "Natascha Werner": "Karin Schäfer"}
+{}
+{}
+{"Georges Bwelle": "Jean-Baptiste Thys", "Cameroon": "Cameroon"}
+{"Bwelle": "Fernando"}
+{}
+{}
+{"Georges Bwelle": "Jean-Baptiste Thys"}
+{}
+{}
+{"Georges Bwelle": "Jean-Baptiste Thys"}
+{"Jamef Bwelle": "Nelson Mandela Foundation", "Yaounde": "Douala", "Cameroon": "Cameroon"}
+{}
+{"Cameroon": "Cameroon", "Georges Bwelle": "Jean-Baptiste Thys"}
+{"Cameroon": "Cameroon"}
+{"Bwelle": "Fernando"}
+{"Bwelle": "Fernando"}
+{}
+{}
+{}
+{"Bwelle": "Fernando"}
+{"Cameroon": "Cameroon", "World Health Organization": "Food and Agriculture Organization of the United Nations"}
+{"United States": "Alaska"}
+{}
+{}
+{"Bwelle": "Fernando"}
+{}
+{"Bwelle": "Fernando"}
+{"Georges Bwelle": "Jean-Baptiste Thys"}
+{"Yaounde": "Douala", "Central Hospital": "City Hospital"}
+{"ASCOVIME": "Federation of European and Other Agricultural Organizations"}
+{}
+{}
+{}
+{}
+{}
+{"Bwelle": "Fernando"}
+{}
+{"Bwelle": "Fernando"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bwelle": "Fernando"}
+{}
+{"Bwelle": "Fernando"}
+{}
+{}
+{}
+{}
+{"Bwelle": "Fernando", "Yaounde": "Douala"}
+{}
+{"Katie O ' Malley": "Samantha Jones", "Drexel University": "University of Pennsylvania", "Philadelphia": "City Hall", "Bwelle": "Fernando"}
+{}
+{"O ' Malley": "John \"Malley\" O'Connor", "United States": "Alaska", "Europe": "Africa", "Bwelle": "Fernando"}
+{"Bwelle": "Fernando", "O ' Malley": "John \"Malley\" O'Connor"}
+{"America": "United States"}
+{"Cameroon": "Cameroon"}
+{"Yaounde": "Douala"}
+{"O ' Malley": "John \"Malley\" O'Connor"}
+{"Cameroon": "Cameroon"}
+{"Bwelle": "Fernando"}
+{}
+{"Bwelle": "Fernando"}
+{}
+{}
+{}
+{"ASCOVIME": "Federation of European and Other Agricultural Organizations"}
+{}
+{"Santiago": "Chile", "Hemingway": "Fitzgerald", "Horst Janson": "Fridtjof Nansen"}
+{"Janson": "Karlheinz Jansen"}
+{"Santiago": "Chile"}
+{}
+{"Manolo": "Fernando"}
+{"Santiago": "Chile", "Janson": "Karlheinz Jansen"}
+{"Janson": "Karlheinz Jansen"}
+{"Hemingway": "Fitzgerald"}
+{"Janson": "Karlheinz Jansen"}
+{}
+{}
+{"Jens Hasselmann": "Karl Tegmark"}
+{"Santiago": "Chile", "Marie - Luise Gunst": "Maria-Luise Gunst"}
+{}
+{}
+{"Cologne": "Düsseldorf"}
+{"Cologne": "Düsseldorf"}
+{"Europe": "Africa"}
+{}
+{"Rainer Schulze": "Johannes Kuhn", "Cologne": "Düsseldorf"}
+{"Cologne Tourism Service Centre": "Cologne Tourist Information Center"}
+{"Schulze": "Steffi Gissibon"}
+{}
+{}
+{}
+{}
+{"Schulze": "Steffi Gissibon"}
+{"Schulze": "Steffi Gissibon"}
+{}
+{}
+{"Alps": "Mountains", "CCAA": "Catalan Government Administration"}
+{"CCAA": "Catalan Government Administration"}
+{"Site of the Altars": "Altar Site"}
+{"' s Palace": "Palace Hotel", "Rhine": "Mittelrhein"}
+{}
+{"Schulze": "Steffi Gissibon"}
+{"Schulze": "Steffi Gissibon"}
+{}
+{}
+{}
+{}
+{"Town Hall Square": "City Hall Plaza"}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Bandidos": "Favela Boys"}
+{"Finowfurt": "Finnmark"}
+{}
+{"Hell ' s Angels": "Amalgamated Church of Satan"}
+{"Berlin": "Aachen"}
+{}
+{}
+{}
+{}
+{}
+{"Federal Supreme Court": "Supreme Federal Court", "Public Prosecutor ' s Office": "Office of the Attorney General", "District Court": "U.S. Supreme Court"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Stefan Golfier": "Jean-Claude Killy", "Oder": "Vistula River", ") Public Prosecutor ' s Office": "Office of the Attorney General"}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"Obama": "Barack Hussein Obama II"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{"Obama": "Barack Hussein Obama II"}
+{"Boston": "Cambridge"}
+{"Obama": "Barack Hussein Obama II"}
+{}
+{}
+{}
+{"Sebelius": "Obama Administration", "House Energy and Commerce Committee": "Subcommittee on Energy and Power", "Washington": "United States"}
+{"Sebelius": "Obama Administration"}
+{}
+{}
+{"Sebelius": "Obama Administration", "House": "School", "Billy Long": "John Doe", "Mo": "Nairobi"}
+{"Long": "Short", "Sebelius": "Obama Administration"}
+{"Jerusalem": "West Bank"}
+{"CNN": "BuzzFeed News", "Latakia": "Djibouti City"}
+{"Hezbollah": "Islamic Resistance Movement", "CNN": "BuzzFeed News"}
+{"Al - Arabiya": "Al Jazeera Television Network", "Latakia": "Djibouti City"}
+{"Channel 2": "ABC Television Network", "Latakia": "Djibouti City"}
+{"Jerusalem": "West Bank"}
+{"Reuters": "New York Times", "Israel": "West Bank"}
+{"Ministry of Defence": "Defense Ministry"}
+{"Ron Ben - Yishai": "Ronald Ben-Yishai", "Yedioth Ahronoth": "Haaretz日报", "Hezbollah": "Islamic Resistance Movement"}
+{"Syria": "Aleppo", "Hezbollah": "Islamic Resistance Movement"}
+{"John Kerry": "Joe Biden", "US": "United States"}
+{"John Kerry": "Joe Biden", "U": "Cape Verde", "S": "Cairo"}
+{"Barack Obama": "Barack Hussein Obama II", "Edward Snowden": "John Snow", "NSA": "National Security Agency"}
+{"US": "United States"}
+{"London": "Manchester", "Kerry": "Joe Biden"}
+{"U": "Cape Verde", "S": "Cairo"}
+{}
+{}
+{}
+{"Kerry": "Joe Biden", "NSA": "National Security Agency"}
+{}
+{}
+{}
+{}
+{"U": "Cape Verde", "S": "Cairo", "Europe": "Africa", "Senate": "American Legislative Exchange Council"}
+{"Chris Murphy": "John Kelly", "Connecticut": "New Haven", "National Security Agency": "United States Army Communications Security Group"}
+{"U": "Cape Verde", "S": "Cairo", "Murphy": "Morgan Kelly", "Senate Foreign Relations Subcommittee": "United States Senate Committee on Foreign Relations", "European Affairs": "International Relations Division", "Washington": "Alaska"}
+{"Europe": "Africa", "NSA": "National Security Agency"}
+{"NSA": "National Security Agency", "Europe": "Africa", "U": "Cape Verde", "S.": "Cape Town", "United States": "Alaska"}
+{"Snowden": "John Snow", "NSA": "National Security Agency", "Angela Merkel": "Donald Tusk"}
+{"James Clapper": "John Brennan"}
+{"Murphy": "Morgan Kelly"}
+{}
+{}
+{"Murphy": "Morgan Kelly"}
+{}
+{"Murphy": "Morgan Kelly"}
+{"Kerry": "Joe Biden", "Middle East": "United Arab Emirates", "Poland": "Vistula Delta", "U": "Cape Verde", "S": "Cairo", "Syria": "Aleppo", "Egypt": "Suez Canal", "Iran": "Islamic Republic of Iran"}
+{"Nicolai Müller": "Friedrich Engels", "FSV Mainz": "Mainz 04 - FSV", "FC Augsburg": "Bayern Munich"}
+{"Nicolai Müller": "Friedrich Engels"}
+{}
+{}
+{"Thomas Tuchel": "Christian Pulisic"}
+{}
+{"Mainz": "Mainz City Council", "Niki Zimling": "Karl Koenig", "Julian Baumgartlinger": "Felix Klein", "Niko Bungert": "Derek Jeter"}
+{}
+{"Sydney": "Australia", "Phuket": "Bangkok"}
+{"Stevie Rochelle Bamford": "Derek Hough", "Phuket": "Bangkok"}
+{}
+{"Phuket": "Bangkok", "Bamford": "Brampton"}
+{}
+{"Bamford": "Brampton", "Phuket": "Bangkok"}
+{"Peter Tunks": "John Doe", "Department of Foreign Affairs": "Department of Foreign Affairs and Trade, Australia", "Canberra": "Australian Capital Territory"}
+{"Tunks": "Glen Tunks", "Sydney": "Austrailia", "Sunday Telegraph": "ABC News", "Australia": "Australia"}
+{"Tunks": "Glen Tunks"}
+{"Bamford": "Brampton"}
+{"Australia": "Austrailia", "Krabi": "Phang Nga Bay", "Southern Thailand": "Bangkok"}
+{"Bamford": "Brampton", "Phuket": "Bangkok"}
+{"Michelle Smith": "Michelle Smith", "Phuket": "Bangkok", "Thailand": "Phuket Province"}

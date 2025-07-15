@@ -1,225 +1,154 @@
-# 针对数据集的prompt
+# 针对数据集的 prompt
 DATASET = {
-    "squad": """Generate a concise answer according to the given context and question, and output the answer (without any extra explanation) in JSON format: {"answer":"your answer content"}""",
-    "squad_v2": """Generate a concise answer according to the given context and question, and output the answer (without any extra explanation) in JSON format: {"answer":"your answer content"}. If the answer does not exist, fill in the JSON value with "".""",
-    "hotpot_qa-distractor": """待适配""",
+    "xsum": """<|im_start|>system
+Generate a concise summary according to the document given by user.
+The user input format is as follows:
+document: 
+The assistant output format is as follows:
+summary: 
+<|im_end|>
 
-    "xsum": """Generate a concise summary according to the given document, and output the summary (without any extra explanation) in JSON format: {"summary":"your summary content"}""",
-    "cnn_dailymail": """Generate a concise summary according to the given article, and output the summary (without any extra explanation) in JSON format: {"summary":"your summary content"}""",
-    "samsum": """Generate a concise summary according to the given dialogue, and output the summary (without any extra explanation) in JSON format: {"summary":"your summary content"}""",
+<|im_start|>user
+document: {0}
+<|im_end|>
 
-    "glue-mnli": """Determine the logical relationship according to the given premise and hypothesis, and output your answer (without any extra explanation) in JSON format: {"relationship":"your answer"}
-The possible relationships are:
-1. "Entailment": The hypothesis logically follows from the premise.
-2. "Neutral": The hypothesis is neither supported nor contradicted by the premise.
-3. "Contradiction": The hypothesis contradicts the premise.
+<|im_start|>assistant
+summary: 
 """,
 
-    "wikitext-103": """<|im_start|>system
-Continue writing the following text input by the user.
-The generated text needs to be consistent and natural with the input text.
+    "glue-mnli": """<|im_start|>system
+Determine the logical relationship according to the premise and hypothesis given by user.
+The user input format is as follows:
+premise: 
+hypothesis: 
+The assistant output format is as follows:
+relationship: 
+
+The possible relationships are:
+"Entailment": The hypothesis logically follows from the premise.
+"Neutral": The hypothesis is neither supported nor contradicted by the premise.
+"Contradiction": The hypothesis contradicts the premise.
+
+Here is an example:
+premise: The new rights are nice enough
+hypothesis: Everyone really likes the newest benefits
+relationship: Neutral
 <|im_end|>
+
 <|im_start|>user
-{0}
+premise: {0}
+hypothesis: {1}
 <|im_end|>
+
 <|im_start|>assistant
+relationship: 
 """,
 
     "wmt14-de-en": """<|im_start|>system
-Translate the English text given by the user into German.
-The user input format is as follows:
-Input: 
-The assistant output format is as follows:
-Output: 
-
-Here is an example:
-Input: Obama is in Paris on business.
-Output: Obama ist auf einer geschäftsreise in paris.
-
+Translate the English text given by the user into German without any other Explanation.
+No other languages are allowed in the translation content.
 <|im_end|>
 
 <|im_start|>user
-Input: {0}
+{0}
 <|im_end|>
 
 <|im_start|>assistant
-Output: 
+""",
+
+    "cnn_dailymail": """<|im_start|>system
+Continue writing the following text input by the user.
+The generated text needs to be semantically coherent with the input text.
+<|im_end|>
+
+<|im_start|>user
+{0}
+<|im_end|>
+
+<|im_start|>assistant
 """
 }
 
-# 针对任务类型的prompt
+# 针对任务类型的 prompt
 TASK = {
-    "llm_end2end": """<|im_start|>system
-You are a text editor.
-To protect privacy and prevent sensitive information from being leaked, you need to identify named entities in the given input text, and replace them with other named entities with same type.
-The named entity type to replace is: {1}
-Critical: Does not change the basic semantics of the text.
+    "detect": """<|im_start|>system
+Identify Named Entities in the text given by the user.
 
-The user input format is as follows:
-Input: 
+Attention Rules:
+1. Identify ONLY these entity types in the text:
+- PER (Person names)
+- LOC (Locations/countries/cities)
+- ORG (Organizations/companies)
+2. Ignore all other entity types!
+3. Strictly output in JSON format: {{"Entity1":"Type1", ...}}
 
-The assistant output format is as follows:
-Output: 
-
-You need to perform the following steps in sequence and output the result of the last step.
-1. Extract all named entities from the given text.
-2. Replace the extracted named entities with other different named entities, and generate a replacement mapping.
-3. Replace the extracted named entities in the given text based on the replacement mapping without changing the basic semantics of the text, output the final text without any extra explanation.
+Example:
+Text: Tom met Jerry at Apple in NewYork.
+Entities: {{"Tom":"PER", "Jerry":"PER", "Apple":"ORG", "NewYork":"LOC"}}
 <|im_end|>
 
 <|im_start|>user
-Input: {0}
+Text: {0}
 <|im_end|>
 
 <|im_start|>assistant
-Output: 
-""",
-
-    "llm_end2end_detect": """<|im_start|>system
-Detects all named entities in the input text given by user, and saves all detected entities as a list format: ["entity1", "entity2", ...]
-The named entities type to Detect is: {1}
-
-The user input format is as follows:
-Input: 
-
-The assistant output format is as follows:
-Output: 
-
-Here is an example:
-Input: Zhang San went to Shenzhen for a trip.
-Output: ["Zhang San", "Shenzhen"]
-<|im_end|>
-
-<|im_start|>user
-Input: {0}
-<|im_end|>
-
-<|im_start|>assistant
-Output: 
-""",
-
-    "llm_end2end_replace": """<|im_start|>system
-According to the entity mapping given by the user (where both key and value are named entities), the key in the text given by the user is replaced with the corresponding value.
-Keep the semantic integrity and smoothness of the processed sentences.
-The user input format is as follows:
-Input text:
-Input entity_map: 
-
-The assistant output format is as follows:
-Output: 
-
-Here is an example:
-Input text: Zhang San went to Shenzhen for a trip.
-Input entity_map: {{"Zhang San": "Li Si","Shenzhen": "Beijing"}}
-Output: Li Si went to Beijing for a trip.
-<|im_end|>
-
-<|im_start|>user
-Input text: {0}
-Input entity_map: {1}
-<|im_end|>
-
-<|im_start|>assistant
-Output: 
-""",
-
-    "generate_with_entity_and_type_JSON": """<|im_start|>system
-Generate an different entity of the given entity type that is semantically similar to the given entity.
-
-The input format is as follows:
-Input: entity: The input entity | entity_type: The input entity type
-
-The output format is as follows:
-Output: {"entity":"The generated entity"}
-
-Here is an example:
-Input: entity: Brennan Centre | entity_type: organization
-Output: {"entity":"Carter Institute"}
-
-Output the generated entity in JSON format and without any extra explanation.
-<|im_end|>
-
-<|im_start|>user
-Input: entity: {0} | entity_type: {1}
-<|im_end|>
-
-<|im_start|>assistant
-Output: 
+Entities:
 """,
 
     "generate_with_entity_and_type": """<|im_start|>system
-Generates an different entity of the entity type given by the user that is semantically similar to the entity given by the user.
+Generate a different entity of the given type that MUST satisfy:
+1. Different from the given entity.
+2. Can replace the given entity semantically.
+3. Null values cannot be output.
+Output the generated entity without any extra explanation.
 
 The user input format is as follows:
-Input: entity: The input entity | entity_type: The input entity type
+Input: entity: [The input entity] | entity_type: [The input entity type]
 
 The assistant output format is as follows:
 Output: 
 
 Here is an example:
-Input: entity: Brennan Centre | entity_type: organization
+Input: entity: [Brennan Centre] | entity_type: [organization]
 Output: Carter Institute
 
 Output the generated entity without any extra explanation.
 <|im_end|>
 
 <|im_start|>user
-Input: entity: {0} | entity_type: {1}
+Input: entity: [{0}] | entity_type: [{1}]
 <|im_end|>
 
 <|im_start|>assistant
 Output: 
 """,
 
-    "generate_with_entity": """<|im_start|>system
-Generate an different entity that is semantically similar to the entity given by user.
+    "replace": """<|im_start|>system
+Based on the entity mapping provided by the user where both the key and value are entities, replace the keys that appear in the user-given text with the corresponding values.
+Ensuring the semantic integrity of the text is maintained after replacement.
 
 The user input format is as follows:
-Input: 
-
+Text:
+Entity mapping: 
 The assistant output format is as follows:
-Output: 
+Replaced text: 
 
 Here is an example:
-Input: Brennan Centre
-Output: Carter Institute
-
-Output the generated entity without any extra explanation.
+Text: Zhang San works for Tencent in Shenzhen.
+Entity mapping: {{"Zhang San": "Li Si", "Tencent": "HUAWEI", "Shenzhen": "Beijing"}}
+Replaced text: Li Si works for HUAWEI in Beijing.
 <|im_end|>
 
 <|im_start|>user
-Input: {0}
+Text: {0}
+Entity mapping: {1}
 <|im_end|>
 
 <|im_start|>assistant
-Output: 
+Replaced text: 
 """,
 
-    "generate_with_type": """<|im_start|>system
-Generate an different entity of the given entity type.
-
-The input format is as follows:
-Input: The input entity type
-
-The output format is as follows:
-Output: 
-
-Here is an example:
-Input: organization
-Output: Carter Institute
-
-Output the generated entity without any extra explanation.
-<|im_end|>
-
-<|im_start|>user
-Input: {0}
-<|im_end|>
-
-<|im_start|>assistant
-Output: 
-""",
-
-    "repeat_prompt": """<|im_start|>system
+    "ft_repeat": """<|im_start|>system
 Directly output the input text, ensuring it is as identical to the original as possible.
 
 The user input format is as follows:
@@ -244,7 +173,7 @@ Input: {0}
 Output:
 """,
 
-    "only_rep_prompt": """"<|im_start|>system
+    "tag_mask_repeat": """"<|im_start|>system
 Replace entity names such as persons, locations, and organizations in the given text with placeholders <ENTITY>.
 
 Do not retain the replaced entity names.
@@ -268,7 +197,7 @@ Input:{0}
 Output:
 """,
 
-    "tag_wrap_prompt": """<|im_start|>system
+    "tag_mark_repeat": """<|im_start|>system
 Mark the entity names in the given text. Specifically, use <Entity> and </Entity> to mark the entities directly in the original text.
 Apart from the added marking sections, the rest of the given text must remain unchanged.
 
@@ -289,5 +218,30 @@ Input:{0}
 
 <|im_start|>assistant
 Output:
-"""
+""",
+
+    "llm_end2end": """<|im_start|>system
+You are a privacy-focused text editor. Perform **named entity anonymization** by replacing all `PER` (Person), `LOC` (Location), and `ORG` (Organization) entities while preserving:
+1. Original text semantics
+2. Entity type consistency
+3. Grammatical correctness
+
+Execution Steps:
+1. EXTRACT all `PER/LOC/ORG` entities from input text
+2. REPLACE each entity with a plausible same-type substitute that is contextually appropriate
+3. GENERATE anonymized text using replacements
+
+Output Steps:
+1. Named Entity Extraction Dict. Strictly formatted and with Tag as: <NED>{{"Entity1":"Type1",...}}</NED>
+2. Entity Replacement Map. Strictly formatted as: <ERM>{{"Entity1":"Replacement1",...}}</ERM>
+3. Anonymized Text. Strictly formatted as: <ATG>Anonymized Text</ATG>
+<|im_end|>
+
+<|im_start|>user
+Input: {0}
+<|im_end|>
+
+<|im_start|>assistant
+Output: 
+""",
 }

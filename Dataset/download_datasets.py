@@ -8,8 +8,8 @@ import datasets
 
 def parse_path(dataset_name, arg):
     if os.name == 'nt':
-        return os.path.join("Dataset", dataset_name + ("-" + arg) if arg else "")
-    return os.path.join("Dataset", dataset_name + ("-" + arg) if arg else "")
+        return os.path.join("Dataset", dataset_name + (("-" + arg) if arg else ""))
+    return os.path.join("/data4/houshilong/Dataset", dataset_name + ("-" + arg) if arg else "")
 
 
 def download_dataset(dataset_name, arg=""):
@@ -42,4 +42,5 @@ if __name__ == "__main__":
 
     # 续写 Text Continuation
     # download_dataset("EleutherAI/the_pile")
-    download_dataset("wikitext", "wikitext-103-v1")
+    # download_dataset("wikitext", "wikitext-103-v1")
+    download_dataset("lambada")

@@ -1,7 +1,5 @@
 {
   "name": "wmt14-de-en",
-  "path": "wmt14-de-en",
-  "metric_path": "",
   "input_keys": [
     "en"
   ],
@@ -11,11 +9,5 @@
     "bleu_3",
     "bleu_4"
   ],
-  "LLM_max_new_tokens": 512,
-  "badcase_score_thresholds": [
-    0,
-    0,
-    0,
-    0
-  ]
+  "infer_max_new_tokens": 64
 }

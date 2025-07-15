@@ -1,7 +1,5 @@
 {
   "name": "xsum",
-  "path": "xsum",
-  "metric_path": "",
   "input_keys": [
     "document"
   ],
@@ -10,10 +8,5 @@
     "rouge2",
     "rougeL"
   ],
-  "LLM_max_new_tokens": 2048,
-  "badcase_score_thresholds": [
-    0.13,
-    0.03,
-    0.09
-  ]
+  "infer_max_new_tokens": 2048
 }

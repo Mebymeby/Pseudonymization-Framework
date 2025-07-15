@@ -1,0 +1,13 @@
+{
+  "name": "lambada",
+  "input_keys": [
+    "text"
+  ],
+  "score_keys": [
+    "bleu_1",
+    "bleu_2",
+    "bleu_3",
+    "bleu_4"
+  ],
+  "infer_max_new_tokens": 256
+}
