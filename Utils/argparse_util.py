@@ -88,9 +88,9 @@ def init_parser():
         args.model_base_path = "Model"
         args.metric_base_path = "Metrics"
     else:
-        args.dataset_base_path = "/data4/houshilong/Dataset"
-        args.model_base_path = "/data4/houshilong/Model"
-        args.metric_base_path = "/data4/houshilong/Metrics"
+        args.dataset_base_path = "/longzi05/houshilong/Dataset"
+        args.model_base_path = "/longzi05/houshilong/Model"
+        args.metric_base_path = "/longzi05/houshilong/Metrics"
 
     # 配置文件路径
     args.dataset_path = os.path.join("Config", "dataset_config", args.dataset)

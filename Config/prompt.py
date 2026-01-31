@@ -13,7 +13,7 @@ document: {0}
 <|im_end|>
 
 <|im_start|>assistant
-summary: 
+{1}summary: 
 """,
 
     "glue-mnli": """<|im_start|>system
@@ -41,7 +41,7 @@ hypothesis: {1}
 <|im_end|>
 
 <|im_start|>assistant
-relationship: 
+{2}relationship: 
 """,
 
     "wmt14-de-en": """<|im_start|>system
@@ -54,6 +54,7 @@ No other languages are allowed in the translation content.
 <|im_end|>
 
 <|im_start|>assistant
+{1}
 """,
 
     "cnn_dailymail": """<|im_start|>system
@@ -66,6 +67,7 @@ The generated text needs to be semantically coherent with the input text.
 <|im_end|>
 
 <|im_start|>assistant
+{1}
 """
 }
 
@@ -220,7 +222,7 @@ Input:{0}
 Output:
 """,
 
-    "llm_end2end": """<|im_start|>system
+    "llm_end2end_short":"""<|im_start|>system
 You are a privacy-focused text editor. Perform **named entity anonymization** by replacing all `PER` (Person), `LOC` (Location), and `ORG` (Organization) entities while preserving:
 1. Original text semantics
 2. Entity type consistency
@@ -228,7 +230,7 @@ You are a privacy-focused text editor. Perform **named entity anonymization** by
 
 Execution Steps:
 1. EXTRACT all `PER/LOC/ORG` entities from input text
-2. REPLACE each entity with a plausible same-type substitute that is contextually appropriate
+2. REPLACE each entity with a plausible same-type substitute that is contextually appropriate BUT not be repeated within a single sentence
 3. GENERATE anonymized text using replacements
 
 Output Steps:
@@ -243,5 +245,61 @@ Input: {0}
 
 <|im_start|>assistant
 Output: 
+""",
+
+    "llm_end2end_long": """<|im_start|>system
+You are a professional privacy-focused text editor specializing in high-precision named entity anonymization. Your output must strictly comply with data privacy standards, ensuring no re-identification risk while preserving the original text’s semantics, grammatical correctness, and entity type consistency.
+
+### Core Constraints (Mandatory)
+1. **Uniqueness of Replacements**: In the **entire input text (including multiple sentences)**, the replacement results of *different original entities* must be unique (even if they are of the same type). For example:
+   - Wrong: "Tom met Jerry in Paris" → "John met John in London" (duplicate replacement for different PER entities)
+   - Correct: "Tom met Jerry in Paris" → "Mike met Lisa in London" (all replacements are unique)
+2. **Type Consistency**: Replacements must strictly match the original entity type (PER → real-name-style text, LOC → place-name-style text, ORG → organization-name-style text). No cross-type replacement (e.g., cannot replace "Paris" (LOC) with "Apple" (ORG)).
+3. **Contextual Appropriateness**: Replacements must fit the text’s scenario/field.
+4. **No-Entity Handling Rule**: If the input text contains no PER/LOC/ORG entities (after strict extraction checks), perform the following:
+   - Entity extraction result: Empty dict (no entities listed).
+   - Entity replacement result: Empty dict (no replacements needed).
+   - Anonymized text: Output the original text without any modifications (no added/removed characters, no format changes).
+
+### Execution Steps (Strictly Follow)
+1. **EXTRACT Entities**:
+   - First, strictly check whether the input text contains any PER (Person names, e.g., "Tom Smith"), LOC (Locations, e.g., "Paris"), or ORG (Organizations, e.g., "Google").
+   - If entities exist, List all entities with correct types and No missing entities.
+   - No mislabeling (e.g., do not mark a place "Paris" as PER, or a person "Tom" as LOC).
+   - If no entities exist: Confirm the result as an empty dict (no entities to extract).
+2. **REPLACE Entities**:
+   - If entities exist: For each extracted entity, assign a plausible same-type substitute that meets the first 3 Core Constraints (uniqueness, type consistency, contextual appropriateness). Ensure no repetition of substitutes in the entire text.
+   - If no entities exist: Skip replacement (no entities to replace), and the result is an empty dict.
+3. **GENERATE Anonymized Text**: 
+   - If entities exist: Integrate substitutes into the original text, ensuring no grammar errors, no semantic distortion, and no trace of original entities.
+   - If no entities exist: Output the original text exactly as it is (no edits, no replacements, no format adjustments).
+
+### Output Steps (Strict Format, No Extra Content)
+1. Named Entity Extraction Dict (NED): List all extracted entities with correct types. Format: <NED>{{"Original Entity 1":"Type 1", "Original Entity 2":"Type 2", ...}}</NED>
+2. Entity Replacement Map (ERM): Map each original entity to its unique substitute. Format: <ERM>{{"Original Entity 1":"Replacement 1", "Original Entity 2":"Replacement 2", ...}}</ERM>
+3. Anonymized Text (ATG): The final anonymized text. Format: <ATG>Full Anonymized Text Here</ATG>
+
+### Test Case Examples (For Clarification)
+Example 1: Input text with entities
+Input: "Tom met Jerry at Google’s office in Paris last week."
+Output:
+<NED>{{"Tom":"PER", "Jerry":"PER", "Google":"ORG", "Paris":"LOC"}}</NED>
+<ERM>{{"Tom":"Mike", "Jerry":"Lisa", "Google":"Microsoft", "Paris":"Tokyo"}}</ERM>
+<ATG>Mike met Lisa at Microsoft’s office in Tokyo last week.</ATG>
+Example 2: Input text with no entities
+Input: "The team completed the project and submitted the report last Friday."
+Output:
+<NED>{{}}</NED>
+<ERM>{{}}</ERM>
+<ATG>The team completed the project and submitted the report last Friday.</ATG>
+
+<|im_end|>
+
+<|im_start|>user
+Input: {0}
+<|im_end|>
+
+<|im_start|>assistant
+｛1｝Output: 
 """,
 }

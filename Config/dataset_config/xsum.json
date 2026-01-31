@@ -8,5 +8,5 @@
     "rouge2",
     "rougeL"
   ],
-  "infer_max_new_tokens": 2048
+  "infer_max_new_tokens": 4096
 }

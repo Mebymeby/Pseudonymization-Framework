@@ -17,7 +17,7 @@ def load_causal_lm(model_path, model_device, device_map="auto", torch_dtype=torc
     tokenizer = AutoTokenizer.from_pretrained(model_path)
     model = AutoModelForCausalLM.from_pretrained(
         model_path,
-        torch_dtype=torch_dtype,
+        dtype=torch_dtype,
         device_map={"": model_device} if model_device >= 0 else device_map,
     )
     model.eval()
@@ -70,7 +70,6 @@ def load_pipeline_model(model_path, model_device, pipeline_task="ner"):
         model=model_path,
         tokenizer=model_path,
         device=model_device,
-        # grouped_entities=True if pipeline_task == "ner" else None,
         aggregation_strategy="simple" if pipeline_task == "ner" else None,
     )
     return pipeline_model

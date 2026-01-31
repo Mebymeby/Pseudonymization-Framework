@@ -8,5 +8,5 @@
   "score_keys": [
     "accuracy"
   ],
-  "infer_max_new_tokens": 8
+  "infer_max_new_tokens": 32
 }

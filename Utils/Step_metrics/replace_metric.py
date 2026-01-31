@@ -112,7 +112,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     # 资源路径
-    args.resource_base_path = "" if os.name == "nt" else os.path.join("/data4", "houshilong")
+    args.resource_base_path = "" if os.name == "nt" else os.path.join("/longzi05", "houshilong")
     args.dataset_path = os.path.join(args.resource_base_path, "Dataset", args.dataset)
 
     # 数据集配置

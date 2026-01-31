@@ -1,7 +1,7 @@
 0. 前缀 cmd
 
 ```shell
-CUDA_VISIBLE_DEVICES=0 python main.py
+CUDA_VISIBLE_DEVICES=0 python
 ```
 
 1. 只执行基准评估
@@ -23,7 +23,9 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 # xsum 摘要
 --dataset xsum --data_split test --comment xsum-ner --run_step 1 0 0 0 --run_eval 0 0 --record_cache --detect_method ner
 --dataset xsum --data_split test --comment xsum-prompt --run_step 1 0 0 0 --run_eval 0 0 --record_cache --detect_method prompt
+## TODO 7055
 --dataset xsum --data_split test --comment xsum-tag_mask --run_step 1 0 0 0 --run_eval 0 0 --record_cache --tag_model tag_mask_model --tag_model_type tag_mask --detect_method tag_mask --generate_early_stop
+## TODO 7184
 --dataset xsum --data_split test --comment xsum-tag_mark --run_step 1 0 0 0 --run_eval 0 0 --record_cache --tag_model tag_mark_model --tag_model_type tag_mark --detect_method tag_mark --generate_early_stop
 
 # glue-mnli 分类
@@ -77,6 +79,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 # xsum
 --dataset xsum --data_split test --comment xsum-ner-rand-direct --run_step 1 1 1 0 --fast_run_step 1 1 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method direct
 --dataset xsum --data_split test --comment xsum-ner-rand-prompt --run_step 1 1 1 0 --fast_run_step 1 1 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method prompt
+## TODO 7619
 --dataset xsum --data_split test --comment xsum-ner-rand-gen --run_step 1 1 1 0 --fast_run_step 1 1 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method gen --generate_early_stop
 
 ## 验证不同 generate 方式对困惑度的影响
@@ -104,6 +107,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 # xsum
 --dataset xsum --data_split test --comment xsum-ner-rand-direct-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method direct
 --dataset xsum --data_split test --comment xsum-ner-rand-prompt-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method prompt
+## TODO 5000
 --dataset xsum --data_split test --comment xsum-ner-rand-gen-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method gen
 
 # glue-mnli
@@ -119,6 +123,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 # cnn_dailymail
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-direct-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method direct
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-prompt-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method prompt
+## TODO 5760
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-gen-pseu_eval --run_step 1 1 1 0 --fast_run_step 1 1 1 0 --run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method gen
 ```
 
@@ -127,6 +132,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 ```shell
 # xsum
 --dataset xsum --data_split test --comment xsum-ner-rand-direct-direct --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 0 1 --fast_run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method direct --recover_method direct
+## TODO 5000
 --dataset xsum --data_split test --comment xsum-ner-rand-gen-gen --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 0 1 --fast_run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method gen --recover_method gen
 
 # glue-mnli
@@ -139,6 +145,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 
 # cnn_dailymail
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-direct-direct --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 0 1 --fast_run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method direct --recover_method direct
+## TODO 5760
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-gen-gen --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 0 1 --fast_run_eval 0 1 --record_cache --detect_method ner --generate_method rand --replace_method gen --recover_method gen
 ```
 
@@ -147,6 +154,7 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 ```shell
 # xsum
 --dataset xsum --data_split test --comment xsum-ner-rand-direct-direct-result --run_step 1 0 0 1 --fast_run_step 1 0 0 1 --run_eval 1 1 --fast_run_eval 1 1 --detect_method ner --generate_method rand --replace_method direct --recover_method direct
+## TODO 5000
 --dataset xsum --data_split test --comment xsum-ner-rand-gen-gen-result --run_step 1 0 0 1 --fast_run_step 1 0 0 1 --run_eval 1 1 --fast_run_eval 1 1 --detect_method ner --generate_method rand --replace_method gen --recover_method gen
 
 # glue-mnli
@@ -159,17 +167,19 @@ CUDA_VISIBLE_DEVICES=0 python main.py
 
 # cnn_dailymail
 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-direct-direct-result --run_step 1 0 0 1 --fast_run_step 1 0 0 1 --run_eval 1 1 --fast_run_eval 1 1 --detect_method ner --generate_method rand --replace_method direct --recover_method direct
---dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-gen-gen-result --run_step 1 0 0 1 --fast_run_step 1 0 0 1 --run_eval 1 1 --fast_run_eval 1 1 --detect_method ner --generate_method rand --replace_method gen --recover_method gen
+## TODO 进行中
+CUDA_VISIBLE_DEVICES=0 python main.py --data_size 5000 --dataset cnn_dailymail --data_split test --comment cnn_dailymail-ner-rand-gen-gen-result --run_step 1 0 0 1 --fast_run_step 1 0 0 1 --run_eval 1 1 --fast_run_eval 1 1 --detect_method ner --generate_method rand --replace_method gen --recover_method gen
 ```
 
 8. Train 数据准备
 
 ```shell
---dataset xsum --data_split train --data_size 5000 --comment xsum-ner-rand-direct --run_step 1 1 1 0 --fast_run_step 0 0 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method direct
+CUDA_VISIBLE_DEVICES=0 python main.py --dataset xsum --data_split train --data_start 0 --data_size 170000 --comment xsum-ner-rand-direct --run_step 1 1 1 0 --fast_run_step 0 0 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method direct
+CUDA_VISIBLE_DEVICES=0 python main.py --dataset cnn_dailymail --data_split train --data_start 0 --data_size 277000 --comment cnn_dailymail-ner-rand-direct --run_step 1 1 1 0 --fast_run_step 0 0 0 0 --run_eval 0 0 --record_cache --detect_method ner --generate_method rand --replace_method direct
 ```
 
 9. End2End Attempt
 
 ```shell
---dataset xsum --data_split test --data_size 5000 --comment xsum-ner-rand-direct-direct --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 1 1 --detect_method ner --generate_method rand --replace_method direct --recover_method direct --end2end
+CUDA_VISIBLE_DEVICES=4,5 python main.py --dataset xsum --data_split test --data_size 5000 --comment xsum-ner-rand-direct-direct --run_step 1 1 1 1 --fast_run_step 1 1 1 0 --run_eval 1 1 --detect_method ner --generate_method rand --replace_method direct --recover_method direct --end2end
 ```

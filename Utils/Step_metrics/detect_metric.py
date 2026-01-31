@@ -100,7 +100,7 @@ if __name__ == "__main__":
     # 参数
     parser = argparse.ArgumentParser()
     parser.add_argument("--dataset", type=str, default="xsum")
-    parser.add_argument("--detect_method", type=str, nargs="+", default=["ner", "prompt", "tag_mask", "tag_mark"])
+    parser.add_argument("--detect_method", type=str, nargs="+", default=["ner"]) # ["prompt", "tag_mask", "tag_mark"]
     parser.add_argument("--sentence_num", type=int, default=5000)
     parser.add_argument("--consensus_threshold", type=int, default=2)
     args = parser.parse_args()

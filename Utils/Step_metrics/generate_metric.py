@@ -81,7 +81,7 @@ if __name__ == '__main__':
     parser.add_argument("--exp_lambda", type=int, default=10)
     args = parser.parse_args()
     # 资源路径
-    args.resource_base_path = "" if os.name == "nt" else os.path.join("/data4", "houshilong")
+    args.resource_base_path = "" if os.name == "nt" else os.path.join("/longzi05", "houshilong")
 
     # 数据集配置
     dataset_config = config_util.Config(os.path.join("Config", "dataset_config", args.dataset))

@@ -9,7 +9,7 @@ import datasets
 def parse_path(dataset_name, arg):
     if os.name == 'nt':
         return os.path.join("Dataset", dataset_name + (("-" + arg) if arg else ""))
-    return os.path.join("/data4/houshilong/Dataset", dataset_name + ("-" + arg) if arg else "")
+    return os.path.join("/longzi05/houshilong/Dataset", dataset_name + ("-" + arg) if arg else "")
 
 
 def download_dataset(dataset_name, arg=""):

@@ -21,7 +21,9 @@ def load_dataset(args, dataset_config):
     if dataset_name == "wikitext-103":
         dataset = dataset_split.filter(lambda item: len(item["text"].split()) > 100)
     elif dataset_config.name == "wmt14-de-en":
-        dataset = dataset_split.map(lambda item: item["translation"], remove_columns="translation")
+        dataset = dataset_split.map(
+            lambda item: item["translation"], remove_columns="translation"
+        )
     else:
         dataset = dataset_split
 
@@ -66,9 +68,22 @@ def get_item_input_content_list(item, dataset_config):
 
 
 # 获取: 数据集 llm_prompt 推理时的 infer_prompt
-def generate_dataset_infer_prompt(item, dataset_config):
+def generate_dataset_infer_prompt(args, item, dataset_config):
+    # 模型prompt特殊处理
+    think_tag = ""
+    if args.eval_model.startswith("Qwen3"):
+        think_tag = """
+
+<think>
+</think>
+
+"""
+
     item_input_content_list = get_item_input_content_list(item, dataset_config)
-    dataset_infer_prompt = prompt.DATASET[dataset_config.name].format(*item_input_content_list)
+    dataset_infer_prompt = prompt.DATASET[dataset_config.name].format(
+        *item_input_content_list, think_tag
+    )
+    
     return dataset_infer_prompt
 
 
